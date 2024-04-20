@@ -8,7 +8,7 @@ Total:         4773             13251                  24531
 
 Applications count:      32
 ```
-Translations are done through GitHub, GitLab, Weblate, and Damned Lies (GNOME).
+Translations are done through GitHub, GitLab, Weblate, and Damned Lies (GNOME).<br> Keep in mind that some applications include translations from other contributors as well.
 <details><summary>Click me to show translations individually</summary>
   
 ```bash

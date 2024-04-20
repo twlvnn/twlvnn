@@ -48,3 +48,4 @@ Translations are done through GitHub, GitLab, Weblate, and Damned Lies (GNOME).<
 
 </details>
 
+The statistics are retrieved using `translate-toolkit`

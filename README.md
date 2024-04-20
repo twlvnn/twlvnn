@@ -1,16 +1,11 @@
-### Hi there 👋
+**Translation statistics (Bulgarian)**
+```bash
+Type               Strings      Words (source)    Words (translation)
+Translated:    4772 ( 99%)      13243 ( 99%)           24531
+Fuzzy:            1 (  0%)          8 (  0%)             n/a
+Untranslated:     0 (  0%)          0 (  0%)             n/a
+Total:         4773             13251                  24531
 
-<!--
-**twlvnn/twlvnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Applications count:      32
+```
+Translations are done through GitHub, GitLab, Weblate, and Damned Lies (GNOME)

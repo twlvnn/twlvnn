@@ -9,7 +9,7 @@ Total:         4773             13251                  24531
 Applications count:      32
 ```
 Translations are done through GitHub, GitLab, Weblate, and Damned Lies (GNOME).
-<details><summary><a href="#showapplicationsindividually">Show translations individually</a></summary>
+<details><summary>Show translations individually</summary>
   
 ```bash
 ./metadata-cleaner-application-bg.po  strings: total: 64	| 64t	0f	0u	| 100.0%t	0.0%f	0.0%u

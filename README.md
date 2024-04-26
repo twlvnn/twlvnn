@@ -1,12 +1,13 @@
 **Translation statistics (Bulgarian)**
 ```bash
+Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
-Translated:    4772 ( 99%)      13243 ( 99%)           24531
+Translated:    5265 ( 99%)      15104 ( 99%)           26552
 Fuzzy:            1 (  0%)          8 (  0%)             n/a
 Untranslated:     0 (  0%)          0 (  0%)             n/a
-Total:         4773             13251                  24531
+Total:         5266             15112                  26552
 
-Applications count:      32
+File count:      33
 ```
 Translations are done through GitHub, GitLab, Weblate, and Damned Lies (GNOME).<br> Applications include translations from other contributors as well.
 <details><summary>Click here to show translations individually.</summary>
@@ -18,7 +19,6 @@ Translations are done through GitHub, GitLab, Weblate, and Damned Lies (GNOME).<
 ./damask-damask-bg.po                 strings: total: 131	| 131t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./ticket-booth-ticket-booth-bg.po     strings: total: 156	| 156t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./dialect-dialect-bg.po               strings: total: 110	| 110t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./progress-bg.po                      strings: total: 32	| 32t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./nickvision-tagger-app-bg.po         strings: total: 334	| 334t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./nickvision-money-app-bg.po          strings: total: 315	| 315t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./nickvision-tube-converter-app-bg.po strings: total: 266	| 266t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -37,13 +37,15 @@ Translations are done through GitHub, GitLab, Weblate, and Damned Lies (GNOME).<
 ./podcasts-main-po-bg.po              strings: total: 97	| 97t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./video-trimmer-master-po-bg.po       strings: total: 53	| 53t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./chess-clock-main-po-bg.po           strings: total: 46	| 46t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./identity-master-po-bg.po            strings: total: 81	| 80t	1f	0u	| 98.0%t	2.0%f	0.0%u
+./identity-master-po-bg.po            strings: total: 81	| 80t	1f	0u	| 98.0%t	2%f	0.0%u
 ./decoder-master-po-bg.po             strings: total: 71	| 71t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./emblem-master-po-bg.po              strings: total: 38	| 38t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./AudioSharing-main-po-bg.po          strings: total: 18	| 18t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./solanum-main-po-bg.po               strings: total: 42	| 42t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./lorem-master-po-bg.po               strings: total: 24	| 24t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./obfuscate-master-po-bg.po           strings: total: 48	| 48t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./progress-tracker-bg.po              strings: total: 34	| 34t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./io.github.alainm23.planify.po       strings: total: 491	| 491t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

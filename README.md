@@ -2,12 +2,12 @@
 ```bash
 Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
-Translated:    5265 ( 99%)      15104 ( 99%)           26552
+Translated:    5321 ( 99%)      15337 ( 99%)           26810
 Fuzzy:            1 (  0%)          8 (  0%)             n/a
 Untranslated:     0 (  0%)          0 (  0%)             n/a
-Total:         5266             15112                  26552
+Total:         5322             15345                  26810
 
-File count:      33
+File count:      35
 ```
 Translations are done through GitHub, GitLab, Weblate, and Damned Lies (GNOME).<br> Applications include translations from other contributors as well.
 <details><summary>Click here to show translations individually.</summary>
@@ -37,7 +37,7 @@ Translations are done through GitHub, GitLab, Weblate, and Damned Lies (GNOME).<
 ./podcasts-main-po-bg.po              strings: total: 97	| 97t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./video-trimmer-master-po-bg.po       strings: total: 53	| 53t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./chess-clock-main-po-bg.po           strings: total: 46	| 46t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./identity-master-po-bg.po            strings: total: 81	| 80t	1f	0u	| 98.0%t	2%f	0.0%u
+./identity-master-po-bg.po            strings: total: 81	| 80t	1f	0u	| 98.0%t	2.0%f	0.0%u
 ./decoder-master-po-bg.po             strings: total: 71	| 71t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./emblem-master-po-bg.po              strings: total: 38	| 38t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./AudioSharing-main-po-bg.po          strings: total: 18	| 18t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -46,6 +46,9 @@ Translations are done through GitHub, GitLab, Weblate, and Damned Lies (GNOME).<
 ./obfuscate-master-po-bg.po           strings: total: 48	| 48t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./progress-tracker-bg.po              strings: total: 34	| 34t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./io.github.alainm23.planify.po       strings: total: 491	| 491t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./whisper-bg.po                       strings: total: 34	| 34t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./hieroglyphic-bg.po                  strings: total: 22	| 22t	0f	0u	| 100.0%t	0.0%f	0.0%u
+
 ```
 
 </details>

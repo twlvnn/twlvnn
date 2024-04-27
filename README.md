@@ -48,9 +48,8 @@ Translations are done through GitHub, GitLab, Weblate, and Damned Lies (GNOME).<
 ./io.github.alainm23.planify.po       strings: total: 491	| 491t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./whisper-bg.po                       strings: total: 34	| 34t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./hieroglyphic-bg.po                  strings: total: 22	| 22t	0f	0u	| 100.0%t	0.0%f	0.0%u
-
 ```
 
 </details>
 
-The statistics are retrieved using `translate-toolkit`.<br>When translating I use Gtranslator and `grep` to scan for terminology across po files for references. I use a txt file to note terms, and a Python script to create a `poterminology` file for suggestions of ~1200 terms as translation memory. With `pretranslate` I automatically translate repetitive phrases with the translation memory file as a template.
+The statistics are retrieved using `translate-toolkit`.<br>When translating I use Gtranslator and `grep` to scan for terminology across po files for references. I use a txt file to note terms, and a Python script to create a `poterminology` file for suggestions of ~1500 terms as translation memory. With `pretranslate` I automatically translate repetitive phrases with the translation memory file as a template.

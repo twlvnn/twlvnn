@@ -2,12 +2,12 @@
 ```bash
 Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
-Translated:    5321 ( 99%)      15337 ( 99%)           26810
+Translated:    5467 ( 99%)      15952 ( 99%)           27501
 Fuzzy:            1 (  0%)          8 (  0%)             n/a
 Untranslated:     0 (  0%)          0 (  0%)             n/a
-Total:         5322             15345                  26810
+Total:         5468             15960                  27501
 
-File count:      35
+File count:      38
 ```
 Translations are done through GitHub, GitLab, Weblate, and Damned Lies (GNOME).<br> Applications include translations from other contributors as well.
 <details><summary>Click here to show translations individually.</summary>
@@ -46,10 +46,13 @@ Translations are done through GitHub, GitLab, Weblate, and Damned Lies (GNOME).<
 ./obfuscate-master-po-bg.po           strings: total: 48	| 48t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./progress-tracker-bg.po              strings: total: 34	| 34t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./io.github.alainm23.planify.po       strings: total: 491	| 491t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./whisper-bg.po                       strings: total: 34	| 34t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./hieroglyphic-bg.po                  strings: total: 22	| 22t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./whisper-bg.po                       strings: total: 34	| 34t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./kooha-bg.po                         strings: total: 96	| 96t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./trivia-quiz-bg.po                   strings: total: 15	| 15t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./raider-bg.po                        strings: total: 35	| 35t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>
 
-The statistics are retrieved using `translate-toolkit`.<br>When translating I use Gtranslator and `grep` to scan for terminology across po files for references. I use a txt file to note terms, and a Python script to create a `poterminology` file for suggestions of ~1500 terms as translation memory. With `pretranslate` I automatically translate repetitive phrases with the translation memory file as a template.
+The statistics are retrieved using `translate-toolkit`.<br>When translating I use Gtranslator and `grep` to scan for terminology across po files for references. I use a txt file to note terms, and a Python script to create a `poterminology` file for suggestions of ~1500 terms as translation memory. With `pretranslate` I automatically translate repetitive phrases with the translation memory file as a template and quickly add new translations to pot files that have been updated by source code changes.

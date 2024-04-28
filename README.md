@@ -57,4 +57,4 @@ Translations are done through GitHub, GitLab, Weblate, and Damned Lies (GNOME).<
 
 </details>
 
-The statistics are retrieved using `translate-toolkit`.<br>When translating I use Gtranslator and `grep` to scan for terminology across po files for references. I use a txt file to note terms, and a Python script to create a `poterminology` file for suggestions of ~1500 terms as translation memory. With `pretranslate` I automatically translate repetitive phrases with the translation memory file as a template and quickly add new translations to pot files that have been updated by source code changes.
+The statistics are retrieved using `translate-toolkit`.<br>When translating I use Gtranslator and `grep` to scan for terminology across po files for references. I use a txt file to note terms, and a Python script to create a `poterminology` file for suggestions of ~1600 terms as translation memory. With `pretranslate` I automatically translate repetitive phrases with the translation memory file as a template and quickly add new translations to pot files that have been updated by source code changes.

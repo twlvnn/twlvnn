@@ -2,12 +2,12 @@
 ```bash
 Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
-Translated:    5467 ( 99%)      15952 ( 99%)           27501
+Translated:    5619 ( 99%)      16492 ( 99%)           28147
 Fuzzy:            1 (  0%)          8 (  0%)             n/a
 Untranslated:     0 (  0%)          0 (  0%)             n/a
-Total:         5468             15960                  27501
+Total:         5620             16500                  28147
 
-File count:      38
+File count:      40
 ```
 Translations are done through GitHub, GitLab, Weblate, and Damned Lies (GNOME).<br> Applications include translations from other contributors as well.
 <details><summary>Click here to show translations individually.</summary>
@@ -51,6 +51,8 @@ Translations are done through GitHub, GitLab, Weblate, and Damned Lies (GNOME).<
 ./kooha-bg.po                         strings: total: 96	| 96t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./trivia-quiz-bg.po                   strings: total: 15	| 15t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./raider-bg.po                        strings: total: 35	| 35t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./switcheroo-bg.po                    strings: total: 83	| 83t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./upscaled-bg.po                      strings: total: 69	| 69t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

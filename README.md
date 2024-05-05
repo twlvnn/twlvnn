@@ -2,12 +2,12 @@
 ```bash
 Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
-Translated:    5619 ( 99%)      16492 ( 99%)           28147
-Fuzzy:            1 (  0%)          8 (  0%)             n/a
-Untranslated:     0 (  0%)          0 (  0%)             n/a
-Total:         5620             16500                  28147
+Translated:    5857 ( 99%)      17205 ( 98%)           28960
+Fuzzy:           11 (  0%)         31 (  0%)             n/a
+Untranslated:    20 (  0%)        178 (  1%)             n/a
+Total:         5888             17414                  28960
 
-File count:      40
+File count:      45
 ```
 Translations are done through GitHub, GitLab, Weblate, and Damned Lies (GNOME).<br> Applications include translations from other contributors as well.
 <details><summary>Click here to show translations individually.</summary>
@@ -37,7 +37,7 @@ Translations are done through GitHub, GitLab, Weblate, and Damned Lies (GNOME).<
 ./podcasts-main-po-bg.po              strings: total: 97	| 97t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./video-trimmer-master-po-bg.po       strings: total: 53	| 53t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./chess-clock-main-po-bg.po           strings: total: 46	| 46t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./identity-master-po-bg.po            strings: total: 81	| 80t	1f	0u	| 98.0%t	2.0%f	0.0%u
+./identity-master-po-bg.po            strings: total: 81	| 80t	1f	0u	| 98.76543209876543%t	1.2345679012345678%f	0.0%u
 ./decoder-master-po-bg.po             strings: total: 71	| 71t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./emblem-master-po-bg.po              strings: total: 38	| 38t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./AudioSharing-main-po-bg.po          strings: total: 18	| 18t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -45,7 +45,6 @@ Translations are done through GitHub, GitLab, Weblate, and Damned Lies (GNOME).<
 ./lorem-master-po-bg.po               strings: total: 24	| 24t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./obfuscate-master-po-bg.po           strings: total: 48	| 48t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./progress-tracker-bg.po              strings: total: 34	| 34t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./io.github.alainm23.planify.po       strings: total: 491	| 491t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./hieroglyphic-bg.po                  strings: total: 22	| 22t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./whisper-bg.po                       strings: total: 34	| 34t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./kooha-bg.po                         strings: total: 96	| 96t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -53,6 +52,12 @@ Translations are done through GitHub, GitLab, Weblate, and Damned Lies (GNOME).<
 ./raider-bg.po                        strings: total: 35	| 35t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./switcheroo-bg.po                    strings: total: 83	| 83t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./upscaled-bg.po                      strings: total: 69	| 69t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./breathing-bg.po                     strings: total: 26	| 26t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./teleprompter-bg.po                  strings: total: 42	| 42t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./mini-text-bg.po                     strings: total: 20	| 20t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./color-code-bg.po                    strings: total: 22	| 22t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./dosage-bg.po                        strings: total: 137	| 137t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./planify-bg.po                       strings: total: 512	| 482t	10f	20u	| 94.140625%t	1.953125%f	3.90625%u
 ```
 
 </details>

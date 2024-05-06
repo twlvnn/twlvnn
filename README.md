@@ -9,7 +9,7 @@ Total:         5888             17414                  28960
 
 File count:      45
 ```
-Translations are done through GitHub, GitLab, Weblate, and Damned Lies (GNOME).<br> Applications include translations from other contributors as well.
+Translations are done with GitHub, GitLab, Weblate, and Damned Lies (GNOME) and include translations from other contributors.
 <details><summary>Click here to show translations individually.</summary>
   
 ```bash
@@ -62,4 +62,4 @@ Translations are done through GitHub, GitLab, Weblate, and Damned Lies (GNOME).<
 
 </details>
 
-The statistics are retrieved using `translate-toolkit`.<br>When translating I use Gtranslator and `grep` to scan for terminology across po files for references. I use a txt file to note terms, and a Python script to create a `poterminology` file for suggestions of ~1600 terms as translation memory. With `pretranslate` I automatically translate repetitive phrases with the translation memory file as a template and quickly add new translations to pot files that have been updated by source code changes.
+Statistics retrieved using `translate-toolkit`.<br>I use Gtranslator and `grep` to scan for terminology across po files for references, e a txt file to note terms, and a Python script to create a `poterminology` file for suggestions of ~1700 terms as translation memory. With `pretranslate` I automatically translate repetitive phrases with the translation memory file as a template and quickly add new translations to pot files that have been updated by source code changes.

@@ -1,4 +1,4 @@
-**Translation statistics (Bulgarian)**
+**Статистика на преводите**
 ```bash
 Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
@@ -9,8 +9,8 @@ Total:         5888             17414                  28960
 
 File count:      45
 ```
-Translations are done with GitHub, GitLab, Weblate, and Damned Lies (GNOME) and include other contributors.
-<details><summary>Click here to show translations individually.</summary>
+Преводите се извършват в GitHub, GitLab, Weblate и Damned Lies (GNOME) и включват други сътрудници.
+<details><summary>Натиснете тук, за да покажете преводите поотделно.</summary>
   
 ```bash
 ./metadata-cleaner-application-bg.po  strings: total: 64	| 64t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -62,4 +62,4 @@ Translations are done with GitHub, GitLab, Weblate, and Damned Lies (GNOME) and 
 
 </details>
 
-Statistics retrieved using `translate-toolkit`. I use Gtranslator and `grep` to scan for terminology across po files for references, a txt file to note terms, and a Python script to create a `poterminology` file for suggestions of ~1700 terms as translation memory. With `pretranslate` I automatically translate repetitive phrases with the translation memory file as a template and quickly add new translations to pot files that have been updated by source code changes.
+Статистическите данни са извлечени с помощта на `translate-toolkit`. Използвам Gtranslator и `grep` за сканиране за терминология в po файлове за примери, txt файл за записване на термините и Python скрипт за създаване на `poterminology` файл за предложения от ~1700 термина като преводна памет. С помощта на `pretranslate` автоматично превеждам повтарящи се фрази с файла с паметта за преводи като шаблон и бързо добавям нови преводи към съществуващи po файлове, обновени в изходния код.

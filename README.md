@@ -1,3 +1,5 @@
+![](banner.png)
+
 **Статистика на преводите**
 ```bash
 Processing file : TOTAL:

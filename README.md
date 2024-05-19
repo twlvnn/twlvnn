@@ -2,14 +2,14 @@
 
 **Статистика на преводите**
 ```bash
-rocessing file : TOTAL:
+Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
-Translated:    6309 ( 99%)      18641 ( 98%)           30605
-Fuzzy:           11 (  0%)         31 (  0%)             n/a
+Translated:    6543 ( 99%)      19467 ( 98%)           31569
+Fuzzy:           16 (  0%)         55 (  0%)             n/a
 Untranslated:    20 (  0%)        178 (  0%)             n/a
-Total:         6340             18850                  30605
+Total:         6579             19700                  31569
 
-File count:      48
+File count:      49
 ```
 Преводите се извършват в GitHub, GitLab, Weblate и Damned Lies (GNOME) и включват други сътрудници.
 <details><summary>Натиснете тук, за да покажете преводите поотделно.</summary>
@@ -60,9 +60,10 @@ File count:      48
 ./color-code-bg.po                    strings: total: 22	| 22t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./dosage-bg.po                        strings: total: 137	| 137t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./planify-bg.po                       strings: total: 512	| 482t	10f	20u	| 94.140625%t	1.953125%f	3.90625%u
-./apostrophe.po-ui.main.bg.po         strings: total: 227	| 227t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./boatswain.po-ui.main.bg.po          strings: total: 142	| 142t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./apostrophe.po-ui.main.bg.po         strings: total: 227	| 225t	2f	0u	| 99.11894273127753%t	0.8810572687224669%f	0.0%u
+./boatswain.po-ui.main.bg.po          strings: total: 142	| 140t	2f	0u	| 98.59154929577464%t	1.408450704225352%f	0.0%u
 ./snapshot.po-ui.main.bg.po           strings: total: 83	| 83t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./fragments.po-ui.main.bg.po          strings: total: 239	| 238t	1f	0u	| 99.581589958159%t	0.41841004184100417%f	0.0%u
 ```
 
 </details>

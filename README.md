@@ -2,14 +2,14 @@
 
 **Статистика на преводите**
 ```bash
-Processing file : TOTAL:
+rocessing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
-Translated:    5857 ( 99%)      17205 ( 98%)           28960
+Translated:    6309 ( 99%)      18641 ( 98%)           30605
 Fuzzy:           11 (  0%)         31 (  0%)             n/a
-Untranslated:    20 (  0%)        178 (  1%)             n/a
-Total:         5888             17414                  28960
+Untranslated:    20 (  0%)        178 (  0%)             n/a
+Total:         6340             18850                  30605
 
-File count:      45
+File count:      48
 ```
 Преводите се извършват в GitHub, GitLab, Weblate и Damned Lies (GNOME) и включват други сътрудници.
 <details><summary>Натиснете тук, за да покажете преводите поотделно.</summary>
@@ -60,8 +60,11 @@ File count:      45
 ./color-code-bg.po                    strings: total: 22	| 22t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./dosage-bg.po                        strings: total: 137	| 137t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./planify-bg.po                       strings: total: 512	| 482t	10f	20u	| 94.140625%t	1.953125%f	3.90625%u
+./apostrophe.po-ui.main.bg.po         strings: total: 227	| 227t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./boatswain.po-ui.main.bg.po          strings: total: 142	| 142t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./snapshot.po-ui.main.bg.po           strings: total: 83	| 83t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>
 
-Статистическите данни са извлечени с помощта на `translate-toolkit`. Използвам Gtranslator и `grep` за сканиране за терминология в po файлове за примери, txt файл за записване на термините и Python скрипт за създаване на `poterminology` файл за предложения от ~2100 термина като преводна памет. С помощта на `pretranslate` автоматично превеждам повтарящи се фрази с файла с паметта за преводи като шаблон и бързо добавям нови преводи към съществуващи po файлове, обновени в изходния код.
+Статистическите данни са извлечени с помощта на `translate-toolkit`. Използвам Gtranslator и `grep` за сканиране за терминология в po файлове за примери, txt файл за записване на термините и Python скрипт за създаване на `poterminology` файл за предложения от ~2200 термина като преводна памет. С помощта на `pretranslate` автоматично превеждам повтарящи се фрази с файла с паметта за преводи като шаблон и бързо добавям нови преводи към съществуващи po файлове, обновени в изходния код.

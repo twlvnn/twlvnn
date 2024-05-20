@@ -4,14 +4,14 @@
 ```bash
 Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
-Translated:    6543 ( 99%)      19467 ( 98%)           31569
+Translated:    6720 ( 99%)      20194 ( 98%)           32428
 Fuzzy:           16 (  0%)         55 (  0%)             n/a
 Untranslated:    20 (  0%)        178 (  0%)             n/a
-Total:         6579             19700                  31569
+Total:         6756             20427                  32428
 
-File count:      49
+File count:      50
 ```
-Преводите се извършват в GitHub, GitLab, Weblate и Damned Lies (GNOME) и включват други сътрудници.
+Преводите се извършват в GitHub, GitLab, Weblate, Euphrase, и Damned Lies (GNOME) и включват други сътрудници.
 <details><summary>Натиснете тук, за да покажете преводите поотделно.</summary>
   
 ```bash
@@ -64,6 +64,7 @@ File count:      49
 ./boatswain.po-ui.main.bg.po          strings: total: 142	| 140t	2f	0u	| 98.59154929577464%t	1.408450704225352%f	0.0%u
 ./snapshot.po-ui.main.bg.po           strings: total: 83	| 83t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./fragments.po-ui.main.bg.po          strings: total: 239	| 238t	1f	0u	| 99.581589958159%t	0.41841004184100417%f	0.0%u
+./eartag-bg.po                        strings: total: 177	| 177t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

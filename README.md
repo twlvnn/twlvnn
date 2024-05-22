@@ -4,12 +4,12 @@
 ```bash
 Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
-Translated:    6720 ( 99%)      20194 ( 98%)           32428
+Translated:    6786 ( 99%)      20577 ( 98%)           32837
 Fuzzy:           16 (  0%)         55 (  0%)             n/a
 Untranslated:    20 (  0%)        178 (  0%)             n/a
-Total:         6756             20427                  32428
+Total:         6822             20810                  32837
 
-File count:      50
+File count:      51
 ```
 Преводите се извършват в GitHub, GitLab, Weblate, Euphrase, и Damned Lies (GNOME) и включват други сътрудници.
 <details><summary>Натиснете тук, за да покажете преводите поотделно.</summary>
@@ -65,6 +65,7 @@ File count:      50
 ./snapshot.po-ui.main.bg.po           strings: total: 83	| 83t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./fragments.po-ui.main.bg.po          strings: total: 239	| 238t	1f	0u	| 99.581589958159%t	0.41841004184100417%f	0.0%u
 ./eartag-bg.po                        strings: total: 177	| 177t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./elastic.po-ui.main.bg.po            strings: total: 66	| 66t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

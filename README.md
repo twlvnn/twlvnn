@@ -2,12 +2,12 @@
 ```bash
 Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
-Translated:    6986 ( 99%)      21435 ( 98%)           33773
+Translated:    7163 ( 99%)      22484 ( 98%)           34882
 Fuzzy:           16 (  0%)         55 (  0%)             n/a
 Untranslated:    20 (  0%)        178 (  0%)             n/a
-Total:         7022             21668                  33773
+Total:         7199             22717                  34882
 
-File count:      52
+File count:      53
 ```
 
 <details><summary>Натиснете тук, за да покажете преводите поотделно.</summary>
@@ -65,6 +65,7 @@ File count:      52
 ./eartag-bg.po                        strings: total: 177	| 177t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./elastic.po-ui.main.bg.po            strings: total: 66	| 66t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./polari.po-ui.main.bg.po             strings: total: 200	| 200t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./warp.po-ui.main.bg.po               strings: total: 177	| 177t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

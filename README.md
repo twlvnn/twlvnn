@@ -2,12 +2,12 @@
 ```bash
 Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
-Translated:    7163 ( 99%)      22484 ( 98%)           34882
-Fuzzy:           16 (  0%)         55 (  0%)             n/a
+Translated:    7530 ( 99%)      23689 ( 99%)           36250
+Fuzzy:           19 (  0%)         61 (  0%)             n/a
 Untranslated:    20 (  0%)        178 (  0%)             n/a
-Total:         7199             22717                  34882
+Total:         7569             23928                  36250
 
-File count:      53
+File count:      54
 ```
 
 <details><summary>Натиснете тук, за да покажете преводите поотделно.</summary>
@@ -66,6 +66,7 @@ File count:      53
 ./elastic.po-ui.main.bg.po            strings: total: 66	| 66t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./polari.po-ui.main.bg.po             strings: total: 200	| 200t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./warp.po-ui.main.bg.po               strings: total: 177	| 177t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./Graphs.po-ui.main.bg.po             strings: total: 370	| 367t	3f	0u	| 99.1891891891892%t	0.8108108108108109%f	0.0%u
 ```
 
 </details>

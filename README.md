@@ -2,12 +2,12 @@
 ```bash
 Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
-Translated:    8408 ( 99%)      27922 ( 99%)           41064
+Translated:    8517 ( 99%)      28188 ( 99%)           41375
 Fuzzy:           22 (  0%)         84 (  0%)             n/a
 Untranslated:    20 (  0%)        178 (  0%)             n/a
-Total:         8450             28184                  41064
+Total:         8559             28450                  41375
 
-File count:      58
+File count:      59
 ```
 
 <details><summary>Натиснете тук, за да покажете преводите поотделно.</summary>
@@ -37,7 +37,7 @@ File count:      58
 ./podcasts-main-po-bg.po                     strings: total: 97	| 97t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./video-trimmer-master-po-bg.po              strings: total: 53	| 53t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./chess-clock-main-po-bg.po                  strings: total: 46	| 46t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./identity-master-po-bg.po                   strings: total: 81	| 80t	1f	0u	| 98.76543209876543%t	1.2345679012345678%f0.0%u
+./identity-master-po-bg.po                   strings: total: 81	| 80t	1f	0u	| 98.76543209876543%t	1.2345679012345678%f	0.0%u
 ./decoder-master-po-bg.po                    strings: total: 71	| 71t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./emblem-master-po-bg.po                     strings: total: 38	| 38t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./AudioSharing-main-po-bg.po                 strings: total: 18	| 18t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -71,6 +71,7 @@ File count:      58
 ./exhibit-bg.po                              strings: total: 68	| 68t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./pika-backup.po-ui.main.bg-pretranslated.po strings: total: 560	| 558t	2f	0u	| 99.64285714285714%t	0.35714285714285715%f	0.0%u
 ./ultimate-tic-tac-toe-bg.po                 strings: total: 20	| 20t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./ascii-draw-bg.po                           strings: total: 109	| 109t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

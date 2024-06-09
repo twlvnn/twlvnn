@@ -2,12 +2,12 @@
 ```bash
 Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
-Translated:    8388 ( 99%)      27857 ( 99%)           40985
+Translated:    8408 ( 99%)      27922 ( 99%)           41064
 Fuzzy:           22 (  0%)         84 (  0%)             n/a
 Untranslated:    20 (  0%)        178 (  0%)             n/a
-Total:         8430             28119                  40985
+Total:         8450             28184                  41064
 
-File count:      57
+File count:      58
 ```
 
 <details><summary>Натиснете тук, за да покажете преводите поотделно.</summary>
@@ -70,6 +70,7 @@ File count:      57
 ./health.po-ui.master.bg.po                  strings: total: 233	| 232t	1f	0u	| 99.57081545064378%t	0.4291845493562232%f	0.0%u
 ./exhibit-bg.po                              strings: total: 68	| 68t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./pika-backup.po-ui.main.bg-pretranslated.po strings: total: 560	| 558t	2f	0u	| 99.64285714285714%t	0.35714285714285715%f	0.0%u
+./ultimate-tic-tac-toe-bg.po                 strings: total: 20	| 20t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

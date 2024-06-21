@@ -2,12 +2,12 @@
 ```bash
 Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
-Translated:    8590 ( 99%)      28430 ( 99%)           41647
+Translated:    8653 ( 99%)      28742 ( 99%)           41983
 Fuzzy:           22 (  0%)         84 (  0%)             n/a
 Untranslated:    20 (  0%)        178 (  0%)             n/a
-Total:         8632             28692                  41647
+Total:         8695             29004                  41983
 
-File count:      60
+File count:      61
 ```
 
 <details><summary>Натиснете тук, за да покажете преводите поотделно.</summary>
@@ -73,6 +73,7 @@ File count:      60
 ./ultimate-tic-tac-toe-bg.po                 strings: total: 20	| 20t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./ascii-draw-bg.po                           strings: total: 109	| 109t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./sticky-bg.po                               strings: total: 73	| 73t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./share-preview-bg.po                        strings: total: 63	| 63t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

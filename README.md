@@ -2,12 +2,12 @@
 ```bash
 Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
-Translated:    8732 ( 99%)      29115 ( 99%)           42382
+Translated:    8821 ( 99%)      29506 ( 99%)           42848
 Fuzzy:           22 (  0%)         84 (  0%)             n/a
 Untranslated:    20 (  0%)        178 (  0%)             n/a
-Total:         8774             29377                  42382
+Total:         8863             29768                  42848
 
-File count:      62
+File count:      63
 ```
 
 <details><summary>Натиснете тук, за да покажете преводите поотделно.</summary>
@@ -75,8 +75,9 @@ File count:      62
 ./sticky-bg.po                               strings: total: 73	| 73t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./share-preview-bg.po                        strings: total: 63	| 63t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./keypunch-bg.po                             strings: total: 79	| 79t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./exercise-timer-bg.po                       strings: total: 89	| 89t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>
 
-Преводите се правят в GitHub, GitLab, Weblate, Euphrase и Damned Lies (GNOME) с други сътрудници. Статистиките са извлечени чрез `translate-toolkit`. Използвам Gtranslator и `grep` за сканиране на терминология в po файлове, txt файл за запис на термините и Python скрипт за създаване на `poterminology` файл от ~2600 термина като преводна памет. С `pretranslate` автоматично превеждам повтарящи се фрази с паметния файл и бързо добавям нови преводи към обновени po файлове в изходния код.
+Преводите се правят в GitHub, GitLab, Weblate, Euphrase и Damned Lies (GNOME) с други сътрудници. Статистиките са извлечени чрез `translate-toolkit`. Използвам Gtranslator и `grep` за сканиране на терминология в po файлове, txt файл за запис на термините и Python скрипт за създаване на `poterminology` файл от ~2700 термина като преводна памет. С `pretranslate` автоматично превеждам повтарящи се фрази с паметния файл и бързо добавям нови преводи към обновени po файлове в изходния код.

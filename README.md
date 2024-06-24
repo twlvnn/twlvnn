@@ -1,13 +1,14 @@
 **Статистика на преводите**
 ```bash
 Processing file : TOTAL:
+Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
-Translated:    8821 ( 99%)      29506 ( 99%)           42848
+Translated:    8907 ( 99%)      29731 ( 99%)           43109
 Fuzzy:           22 (  0%)         84 (  0%)             n/a
 Untranslated:    20 (  0%)        178 (  0%)             n/a
-Total:         8863             29768                  42848
+Total:         8949             29993                  43109
 
-File count:      63
+File count:      64
 ```
 
 <details><summary>Натиснете тук, за да покажете преводите поотделно.</summary>
@@ -58,16 +59,16 @@ File count:      63
 ./color-code-bg.po                           strings: total: 22	| 22t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./dosage-bg.po                               strings: total: 137	| 137t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./planify-bg.po                              strings: total: 512	| 482t	10f	20u	| 94.140625%t	1.953125%f	3.90625%u
-./apostrophe.po-ui.main.bg.po                strings: total: 227	| 225t	2f	0u	| 99.11894273127753%t	0.8810572687224669%f0.0%u
-./boatswain.po-ui.main.bg.po                 strings: total: 142	| 140t	2f	0u	| 98.59154929577464%t	1.408450704225352%f0.0%u
+./apostrophe.po-ui.main.bg.po                strings: total: 227	| 225t	2f	0u	| 99.11894273127753%t	0.8810572687224669%f	0.0%u
+./boatswain.po-ui.main.bg.po                 strings: total: 142	| 140t	2f	0u	| 98.59154929577464%t	1.408450704225352%f	0.0%u
 ./snapshot.po-ui.main.bg.po                  strings: total: 83	| 83t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./fragments.po-ui.main.bg.po                 strings: total: 239	| 238t	1f	0u	| 99.581589958159%t	0.41841004184100417%f	0.0%u
 ./eartag-bg.po                               strings: total: 177	| 177t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./elastic.po-ui.main.bg.po                   strings: total: 66	| 66t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./polari.po-ui.main.bg.po                    strings: total: 200	| 200t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./warp.po-ui.main.bg.po                      strings: total: 177	| 177t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./Graphs.po-ui.main.bg.po                    strings: total: 370	| 367t	3f	0u	| 99.1891891891892%t	0.8108108108108109%f0.0%u
-./health.po-ui.master.bg.po                  strings: total: 233	| 232t	1f	0u	| 99.57081545064378%t	0.4291845493562232%f0.0%u
+./Graphs.po-ui.main.bg.po                    strings: total: 370	| 367t	3f	0u	| 99.1891891891892%t	0.8108108108108109%f	0.0%u
+./health.po-ui.master.bg.po                  strings: total: 233	| 232t	1f	0u	| 99.57081545064378%t	0.4291845493562232%f	0.0%u
 ./exhibit-bg.po                              strings: total: 68	| 68t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./pika-backup.po-ui.main.bg-pretranslated.po strings: total: 560	| 558t	2f	0u	| 99.64285714285714%t	0.35714285714285715%f	0.0%u
 ./ultimate-tic-tac-toe-bg.po                 strings: total: 20	| 20t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -76,6 +77,7 @@ File count:      63
 ./share-preview-bg.po                        strings: total: 63	| 63t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./keypunch-bg.po                             strings: total: 79	| 79t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./exercise-timer-bg.po                       strings: total: 89	| 89t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./paper-clip-bg.po                           strings: total: 86	| 86t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

@@ -1,7 +1,6 @@
 **Статистика на преводите**
 ```bash
 Processing file : TOTAL:
-Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
 Translated:    8907 ( 99%)      29731 ( 99%)           43109
 Fuzzy:           22 (  0%)         84 (  0%)             n/a

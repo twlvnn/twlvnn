@@ -2,12 +2,12 @@
 ```bash
 Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
-Translated:    8907 ( 99%)      29731 ( 99%)           43109
+Translated:    9016 ( 99%)      30139 ( 99%)           43564
 Fuzzy:           22 (  0%)         84 (  0%)             n/a
 Untranslated:    20 (  0%)        178 (  0%)             n/a
-Total:         8949             29993                  43109
+Total:         9058             30401                  43564
 
-File count:      64
+File count:      66
 ```
 
 <details><summary>Натиснете тук, за да покажете преводите поотделно.</summary>
@@ -77,6 +77,8 @@ File count:      64
 ./keypunch-bg.po                             strings: total: 79	| 79t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./exercise-timer-bg.po                       strings: total: 89	| 89t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./paper-clip-bg.po                           strings: total: 86	| 86t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./passes-bg.po                               strings: total: 52	| 52t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./flowtime-bg.po                             strings: total: 57	| 57t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

@@ -2,12 +2,12 @@
 ```bash
 Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
-Translated:    9016 ( 99%)      30139 ( 99%)           43564
+Translated:    9152 ( 99%)      30550 ( 99%)           44017
 Fuzzy:           22 (  0%)         84 (  0%)             n/a
 Untranslated:    20 (  0%)        178 (  0%)             n/a
-Total:         9058             30401                  43564
+Total:         9194             30812                  44017
 
-File count:      66
+File count:      68
 118/7629 different strings have conflicts
 ```
 
@@ -80,8 +80,10 @@ File count:      66
 ./paper-clip-bg.po                           strings: total: 86	| 86t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./passes-bg.po                               strings: total: 52	| 52t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./flowtime-bg.po                             strings: total: 57	| 57t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./varia-bg.po                                strings: total: 86	| 86t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./Decibels.po-ui.main.bg-pretranslated.po    strings: total: 50	| 50t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>
 
-Преводите се правят в GitHub, GitLab, Weblate, Euphrase и Damned Lies (GNOME) с други сътрудници. Статистиките са извлечени чрез `translate-toolkit`. Използвам Gtranslator и `grep` за сканиране на терминология в po файлове, txt файл за запис на термините и Python скрипт за създаване на `poterminology` файл от ~2700 термина като преводна памет. С `pretranslate` автоматично превеждам повтарящи се фрази с паметния файл и бързо добавям нови преводи към обновени po файлове в изходния код.
+Преводите се правят в GitHub, GitLab, Weblate, Euphrase и Damned Lies (GNOME) с други сътрудници. Статистиките са извлечени чрез `translate-toolkit`. Използвам Gtranslator и `grep` за сканиране на терминология в po файлове, txt файл за запис на термините и Python скрипт за създаване на `poterminology` файл от ~2800 термина като преводна памет. С `pretranslate` автоматично превеждам повтарящи се фрази с паметния файл и бързо добавям нови преводи към обновени po файлове в изходния код.

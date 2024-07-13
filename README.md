@@ -2,13 +2,13 @@
 ```bash
 Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
-Translated:    9152 ( 99%)      30550 ( 99%)           44017
+Translated:    9556 ( 99%)      32091 ( 99%)           45702
 Fuzzy:           22 (  0%)         84 (  0%)             n/a
 Untranslated:    20 (  0%)        178 (  0%)             n/a
-Total:         9194             30812                  44017
+Total:         9598             32353                  45702
 
-File count:      68
-118/7629 different strings have conflicts
+File count:      69
+128/8044 different strings have conflicts
 ```
 
 <details><summary>Натиснете тук, за да покажете преводите поотделно.</summary>
@@ -82,6 +82,7 @@ File count:      68
 ./flowtime-bg.po                             strings: total: 57	| 57t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./varia-bg.po                                strings: total: 86	| 86t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./Decibels.po-ui.main.bg-pretranslated.po    strings: total: 50	| 50t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./papers.po-ui.main.bg.po                    strings: total: 404	| 404t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

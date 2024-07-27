@@ -2,10 +2,10 @@
 ```bash
 Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
-Translated:    9590 ( 99%)      32220 ( 99%)           45817
+Translated:    9592 ( 99%)      32230 ( 99%)           45835
 Fuzzy:           22 (  0%)         84 (  0%)             n/a
 Untranslated:    20 (  0%)        178 (  0%)             n/a
-Total:         9632             32482                  45817
+Total:         9634             32492                  45835
 
 File count:      69
 128/8044 different strings have conflicts
@@ -26,6 +26,7 @@ File count:       2
 <details><summary>Натиснете тук, за да покажете преводите поотделно.</summary>
   
 ```bash
+./pika-backup.po-ui.main.bg-pretranslated.po strings: total: 560	| 558t	2f	0u	| 99.64285714285714%t	0.35714285714285715%f	0.0%u
 ./papers.po-ui.main.bg.po                    strings: total: 404	| 404t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./Decibels.po-ui.main.bg-pretranslated.po    strings: total: 50	| 50t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./varia-bg.po                                strings: total: 86	| 86t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -64,7 +65,6 @@ File count:       2
 ./whisper-bg.po                              strings: total: 34	| 34t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./hieroglyphic-bg.po                         strings: total: 22	| 22t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./progress-tracker-bg.po                     strings: total: 34	| 34t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./shortwave.po-ui.main.bg.po                 strings: total: 122	| 122t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./hashes-bg.po                               strings: total: 22	| 22t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./contrast.po-ui.master.bg.po                strings: total: 31	| 31t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./avvie-bg.po                                strings: total: 63	| 63t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -91,11 +91,12 @@ File count:       2
 ./decoder-master-po-bg.po                    strings: total: 71	| 71t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./emblem-master-po-bg.po                     strings: total: 38	| 38t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./AudioSharing-main-po-bg.po                 strings: total: 18	| 18t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./solanum-main-po-bg.po                      strings: total: 42	| 42t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./lorem-master-po-bg.po                      strings: total: 24	| 24t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./pika-backup.help-doc.main.bg.po            strings: total: 107	| 107t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./warp.help-doc.main.bg.po                   strings: total: 55	| 55t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./podcasts-main-po-bg.po                     strings: total: 131	| 131t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./shortwave.po-ui.main.bg.po                 strings: total: 122	| 122t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./solanum.po-ui.main.bg.po                   strings: total: 44	| 44t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

@@ -2,10 +2,10 @@
 ```bash
 Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
-Translated:    9556 ( 99%)      32091 ( 99%)           45699
+Translated:    9590 ( 99%)      32220 ( 99%)           45817
 Fuzzy:           22 (  0%)         84 (  0%)             n/a
 Untranslated:    20 (  0%)        178 (  0%)             n/a
-Total:         9598             32353                  45699
+Total:         9632             32482                  45817
 
 File count:      69
 128/8044 different strings have conflicts
@@ -26,7 +26,6 @@ File count:       2
 <details><summary>Натиснете тук, за да покажете преводите поотделно.</summary>
   
 ```bash
-./pika-backup.po-ui.main.bg-pretranslated.po strings: total: 560	| 558t	2f	0u	| 99.64285714285714%t	0.35714285714285715%f	0.0%u
 ./papers.po-ui.main.bg.po                    strings: total: 404	| 404t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./Decibels.po-ui.main.bg-pretranslated.po    strings: total: 50	| 50t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./varia-bg.po                                strings: total: 86	| 86t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -83,7 +82,6 @@ File count:       2
 ./damask-damask-bg.po                        strings: total: 131	| 131t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./amberol-main-po-bg.po                      strings: total: 95	| 95t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./secrets-master-po-bg.po                    strings: total: 367	| 367t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./podcasts-main-po-bg.po                     strings: total: 97	| 97t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./video-trimmer-master-po-bg.po              strings: total: 53	| 53t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./tutanota-editor-bg.po                      strings: total: 1668	| 1668t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./metadata-cleaner-help-bg.po                strings: total: 28	| 28t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -97,6 +95,7 @@ File count:       2
 ./lorem-master-po-bg.po                      strings: total: 24	| 24t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./pika-backup.help-doc.main.bg.po            strings: total: 107	| 107t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./warp.help-doc.main.bg.po                   strings: total: 55	| 55t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./podcasts-main-po-bg.po                     strings: total: 131	| 131t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

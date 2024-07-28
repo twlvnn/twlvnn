@@ -3,12 +3,12 @@
 ```bash
 Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
-Translated:    9789 ( 99%)      35431 ( 99%)           49051
-Fuzzy:           24 (  0%)        152 (  0%)             n/a
+Translated:    9856 ( 99%)      36574 ( 99%)           50158
+Fuzzy:           25 (  0%)        182 (  0%)             n/a
 Untranslated:    20 (  0%)        178 (  0%)             n/a
-Total:         9833             35761                  49051
+Total:         9901             36934                  50158
 
-File count:      72
+File count:      73
 128/8044 different strings have conflicts
 ```
 
@@ -33,12 +33,12 @@ File count:      69
 ```bash
 Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
-Translated:     197 ( 98%)       3201 ( 97%)            3216
-Fuzzy:            2 (  1%)         68 (  2%)             n/a
+Translated:     264 ( 98%)       4344 ( 97%)            4323
+Fuzzy:            3 (  1%)         98 (  2%)             n/a
 Untranslated:     0 (  0%)          0 (  0%)             n/a
-Total:          199              3269                   3216
+Total:          267              4442                   4323
 
-File count:       3
+File count:       4
 ```
 
 </details>

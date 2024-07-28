@@ -15,12 +15,12 @@ File count:      69
 ```bash
 Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
-Translated:     162 (100%)       2265 (100%)            2310
-Fuzzy:            0 (  0%)          0 (  0%)             n/a
+Translated:     197 ( 98%)       3201 ( 97%)            3216
+Fuzzy:            2 (  1%)         68 (  2%)             n/a
 Untranslated:     0 (  0%)          0 (  0%)             n/a
-Total:          162              2265                   2310
+Total:          199              3269                   3216
 
-File count:       2
+File count:       3
 ```
 
 <details><summary>Натиснете тук, за да покажете преводите поотделно.</summary>
@@ -97,6 +97,7 @@ File count:       2
 ./podcasts-main-po-bg.po                     strings: total: 131	| 131t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./shortwave.po-ui.main.bg.po                 strings: total: 122	| 122t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./solanum.po-ui.main.bg.po                   strings: total: 44	| 44t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./Graphs.help-doc.main.bg.po                 strings: total: 37	| 35t	2f	0u	| 94.5945945945946%t	5.405405405405405%f	0.0%u
 ```
 
 </details>

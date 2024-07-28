@@ -1,4 +1,19 @@
-**Статистика на преводите на интерфейс**
+**Статистика на общо всички преводи**
+
+```bash
+Processing file : TOTAL:
+Type               Strings      Words (source)    Words (translation)
+Translated:    9789 ( 99%)      35431 ( 99%)           49051
+Fuzzy:           24 (  0%)        152 (  0%)             n/a
+Untranslated:    20 (  0%)        178 (  0%)             n/a
+Total:         9833             35761                  49051
+
+File count:      72
+128/8044 different strings have conflicts
+```
+
+<details><summary>Натиснете тук, за да покажете статистиката на преводите на интерфейс</summary>
+
 ```bash
 Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
@@ -11,7 +26,10 @@ File count:      69
 128/8044 different strings have conflicts
 ```
 
-**Статистика на преводите на документация**
+</details>
+
+<details><summary>Натиснете тук, за да покажете статистиката на преводите на документация</summary>
+
 ```bash
 Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
@@ -22,6 +40,8 @@ Total:          199              3269                   3216
 
 File count:       3
 ```
+
+</details>
 
 <details><summary>Натиснете тук, за да покажете преводите поотделно.</summary>
   

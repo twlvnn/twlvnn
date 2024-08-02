@@ -3,12 +3,12 @@
 ```bash
 Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
-Translated:    9856 ( 99%)      36574 ( 99%)           50158
-Fuzzy:           25 (  0%)        182 (  0%)             n/a
+Translated:   10196 ( 99%)      38702 ( 99%)           52583
+Fuzzy:           26 (  0%)        198 (  0%)             n/a
 Untranslated:    20 (  0%)        178 (  0%)             n/a
-Total:         9901             36934                  50158
+Total:        10242             39078                  52583
 
-File count:      73
+File count:      74
 128/8044 different strings have conflicts
 ```
 
@@ -17,12 +17,12 @@ File count:      73
 ```bash
 Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
-Translated:    9592 ( 99%)      32230 ( 99%)           45835
-Fuzzy:           22 (  0%)         84 (  0%)             n/a
+Translated:    9932 ( 99%)      34358 ( 99%)           48260
+Fuzzy:           23 (  0%)        100 (  0%)             n/a
 Untranslated:    20 (  0%)        178 (  0%)             n/a
-Total:         9634             32492                  45835
+Total:         9975             34636                  48260
 
-File count:      69
+File count:      70
 128/8044 different strings have conflicts
 ```
 
@@ -118,8 +118,10 @@ File count:       4
 ./shortwave.po-ui.main.bg.po                 strings: total: 122	| 122t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./solanum.po-ui.main.bg.po                   strings: total: 44	| 44t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./Graphs.help-doc.main.bg.po                 strings: total: 37	| 35t	2f	0u	| 94.5945945945946%t	5.405405405405405%f	0.0%u
+./polari.help-doc.main.bg.po                 strings: total: 68	| 67t	1f	0u	| 98.52941176470588%t	1.4705882352941178%f	0.0%u
+./deja-dup.po-ui.main.bg.po                  strings: total: 341	| 340t	1f	0u	| 99.70674486803519%t	0.2932551319648094%f	0.0%u
 ```
 
 </details>
 
-Преводите се правят в GitHub, GitLab, Weblate, Euphrase и Damned Lies (GNOME) с други сътрудници. Статистиките са извлечени чрез `translate-toolkit`. Използвам Gtranslator и `grep` за сканиране на терминология в po файлове, txt файл за запис на термините и Python скрипт за създаване на `poterminology` файл от ~2800 термина като преводна памет. С `pretranslate` автоматично превеждам повтарящи се фрази с паметния файл и бързо добавям нови преводи към обновени po файлове в изходния код.
+Преводите се правят в GitHub, GitLab, Weblate, Euphrase и Damned Lies (GNOME) с други сътрудници. Статистиките са извлечени чрез `translate-toolkit`. Използвам Gtranslator и `grep` за сканиране на терминология в po файлове, txt файл за запис на термините и Python скрипт за създаване на `poterminology` файл от ~2900 термина като преводна памет. С `pretranslate` автоматично превеждам повтарящи се фрази с паметния файл и бързо добавям нови преводи към обновени po файлове в изходния код.

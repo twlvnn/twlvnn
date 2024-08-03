@@ -3,12 +3,12 @@
 ```bash
 Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
-Translated:   10315 ( 99%)      40383 ( 99%)           54275
-Fuzzy:           26 (  0%)        198 (  0%)             n/a
+Translated:   10818 ( 99%)      46408 ( 99%)           60205
+Fuzzy:           30 (  0%)        211 (  0%)             n/a
 Untranslated:    20 (  0%)        178 (  0%)             n/a
-Total:        10361             40759                  54275
+Total:        10868             46797                  60205
 
-File count:      75
+File count:      76
 128/8044 different strings have conflicts
 ```
 
@@ -33,12 +33,12 @@ File count:      70
 ```bash
 Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
-Translated:     383 ( 99%)       6025 ( 98%)            6015
-Fuzzy:            3 (  0%)         98 (  1%)             n/a
+Translated:     886 ( 99%)      12050 ( 99%)           11945
+Fuzzy:            7 (  0%)        111 (  0%)             n/a
 Untranslated:     0 (  0%)          0 (  0%)             n/a
-Total:          386              6123                   6015
+Total:          893             12161                  11945
 
-File count:       5
+File count:       6
 ```
 
 </details>
@@ -121,6 +121,7 @@ File count:       5
 ./polari.help-doc.main.bg.po                 strings: total: 68	| 67t	1f	0u	| 98.52941176470588%t	1.4705882352941178%f	0.0%u
 ./deja-dup.po-ui.main.bg.po                  strings: total: 341	| 340t	1f	0u	| 99.70674486803519%t	0.2932551319648094%f	0.0%u
 ./deja-dup.help-doc.main.bg.po               strings: total: 119	| 119t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./papers.help-doc.main.bg.po                 strings: total: 507	| 503t	4f	0u	| 99.21104536489152%t	0.7889546351084813%f	0.0%u
 ```
 
 </details>

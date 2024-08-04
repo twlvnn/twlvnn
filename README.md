@@ -3,12 +3,12 @@
 ```bash
 Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
-Translated:   10818 ( 99%)      46408 ( 99%)           60205
+Translated:   10889 ( 99%)      46850 ( 99%)           60668
 Fuzzy:           30 (  0%)        211 (  0%)             n/a
 Untranslated:    20 (  0%)        178 (  0%)             n/a
-Total:        10868             46797                  60205
+Total:        10939             47239                  60668
 
-File count:      76
+File count:      77
 128/8044 different strings have conflicts
 ```
 
@@ -17,12 +17,12 @@ File count:      76
 ```bash
 Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
-Translated:    9932 ( 99%)      34358 ( 99%)           48260
+Translated:   10003 ( 99%)      34800 ( 99%)           48745
 Fuzzy:           23 (  0%)        100 (  0%)             n/a
 Untranslated:    20 (  0%)        178 (  0%)             n/a
-Total:         9975             34636                  48260
+Total:        10046             35078                  48745
 
-File count:      70
+File count:      71
 128/8044 different strings have conflicts
 ```
 
@@ -122,6 +122,7 @@ File count:       6
 ./deja-dup.po-ui.main.bg.po                  strings: total: 341	| 340t	1f	0u	| 99.70674486803519%t	0.2932551319648094%f	0.0%u
 ./deja-dup.help-doc.main.bg.po               strings: total: 119	| 119t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./papers.help-doc.main.bg.po                 strings: total: 507	| 503t	4f	0u	| 99.21104536489152%t	0.7889546351084813%f	0.0%u
+./apps-for-gnome.po-ui.main.bg.po            strings: total: 71	| 71t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

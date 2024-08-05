@@ -3,12 +3,12 @@
 ```bash
 Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
-Translated:   11065 ( 99%)      49343 ( 99%)           63143
+Translated:   11086 ( 99%)      49420 ( 99%)           63242
 Fuzzy:           32 (  0%)        217 (  0%)             n/a
 Untranslated:    20 (  0%)        178 (  0%)             n/a
-Total:        11117             49738                  63143
+Total:        11138             49815                  63242
 
-File count:      78
+File count:      79
 128/8044 different strings have conflicts
 ```
 
@@ -17,12 +17,12 @@ File count:      78
 ```bash
 Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
-Translated:   10003 ( 99%)      34800 ( 99%)           48745
+Translated:   10024 ( 99%)      34877 ( 99%)           48844
 Fuzzy:           23 (  0%)        100 (  0%)             n/a
 Untranslated:    20 (  0%)        178 (  0%)             n/a
-Total:        10046             35078                  48745
+Total:        10067             35155                  48844
 
-File count:      71
+File count:      72
 128/8044 different strings have conflicts
 ```
 
@@ -75,7 +75,7 @@ File count:       7
 ./color-code-bg.po                           strings: total: 22	| 22t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./teleprompter-bg.po                         strings: total: 42	| 42t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./breathing-bg.po                            strings: total: 26	| 26t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./planify-bg.po                              strings: total: 512	| 482t	10f	20u	| 94.140625%t	1.953125%f3.90625%u
+./planify-bg.po                              strings: total: 512	| 482t	10f	20u	| 94.140625%t	1.953125%f	3.90625%u
 ./upscaled-bg.po                             strings: total: 69	| 69t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./switcheroo-bg.po                           strings: total: 83	| 83t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./raider-bg.po                               strings: total: 35	| 35t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -124,6 +124,7 @@ File count:       7
 ./papers.help-doc.main.bg.po                 strings: total: 507	| 503t	4f	0u	| 99.21104536489152%t	0.7889546351084813%f	0.0%u
 ./apps-for-gnome.po-ui.main.bg.po            strings: total: 71	| 71t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./epiphany.help-doc.gnome-46.bg.po           strings: total: 178	| 176t	2f	0u	| 98.87640449438203%t	1.1235955056179776%f	0.0%u
+./binary-bg.po                               strings: total: 21	| 21t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

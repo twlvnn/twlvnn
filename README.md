@@ -9,7 +9,7 @@ Untranslated:    20 (  0%)        178 (  0%)             n/a
 Total:        11138             49815                  63242
 
 File count:      79
-128/8044 different strings have conflicts
+150/9449 different strings have conflicts
 ```
 
 <details><summary>Натиснете тук, за да покажете статистиката на преводите на интерфейс</summary>

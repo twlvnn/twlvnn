@@ -3,12 +3,12 @@
 ```bash
 Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
-Translated:   12542 ( 99%)      55394 ( 99%)           70255
+Translated:   12599 ( 99%)      55516 ( 99%)           70396
 Fuzzy:           32 (  0%)        217 (  0%)             n/a
 Untranslated:    24 (  0%)        212 (  0%)             n/a
-Total:        12598             55823                  70255
+Total:        12655             55945                  70396
 
-File count:      82
+File count:      83
 150/9449 different strings have conflicts
 ```
 
@@ -17,13 +17,13 @@ File count:      82
 ```bash
 Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
-Translated:   11432 ( 99%)      40418 ( 99%)           55426
+Translated:   11489 ( 99%)      40540 ( 99%)           55567
 Fuzzy:           23 (  0%)        100 (  0%)             n/a
 Untranslated:    24 (  0%)        212 (  0%)             n/a
-Total:        11479             40730                  55426
+Total:        11536             40852                  55567
 
-File count:      73
-162/9707 different strings have conflicts
+File count:      74
+162/9748 different strings have conflicts
 ```
 
 </details>
@@ -46,6 +46,7 @@ File count:       9
 <details><summary>Натиснете тук, за да покажете преводите поотделно.</summary>
   
 ```bash./pika-backup.po-ui.main.bg-pretranslated.po strings: total: 560	| 558t	2f	0u	| 99.64285714285714%t	0.35714285714285715%f	0.0%u
+./pika-backup.po-ui.main.bg-pretranslated.po strings: total: 560	| 558t	2f	0u	| 99.64285714285714%t	0.35714285714285715%f	0.0%u
 ./papers.po-ui.main.bg.po                    strings: total: 404	| 404t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./Decibels.po-ui.main.bg-pretranslated.po    strings: total: 50	| 50t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./varia-bg.po                                strings: total: 86	| 86t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -127,6 +128,7 @@ File count:       9
 ./gnome-logs.po                              strings: total: 23	| 23t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./connections-gnome.po                       strings: total: 25	| 25t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./gnome-builder.po-ui.gnome-builder-46.bg.po strings: total: 1412	| 1408t	0f	4u	| 99.71671388101983%t	0.0%f	0.28328611898017%u
+./d-spy.po-ui.gnome-46.bg.po                 strings: total: 57	| 57t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

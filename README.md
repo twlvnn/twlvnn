@@ -3,12 +3,12 @@
 ```bash
 Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
-Translated:   12904 ( 99%)      56433 ( 99%)           71500
+Translated:   13055 ( 99%)      57447 ( 99%)           72683
 Fuzzy:           31 (  0%)        209 (  0%)             n/a
 Untranslated:    24 (  0%)        212 (  0%)             n/a
-Total:        12959             56854                  71500
+Total:        13110             57868                  72683
 
-File count:      84
+File count:      85
 ```
 
 <details><summary>Натиснете тук, за да покажете статистиката на преводите на интерфейс</summary>
@@ -16,13 +16,13 @@ File count:      84
 ```bash
 Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
-Translated:   11794 ( 99%)      41457 ( 99%)           56671
+Translated:   11945 ( 99%)      42471 ( 99%)           57854
 Fuzzy:           22 (  0%)         92 (  0%)             n/a
 Untranslated:    24 (  0%)        212 (  0%)             n/a
-Total:        11840             41761                  56671
+Total:        11991             42775                  57854
 
-File count:      75
-173/9954 different strings have conflicts
+File count:      76
+173/10098 different strings have conflicts
 ```
 
 </details>
@@ -129,6 +129,7 @@ File count:       9
 ./d-spy.po-ui.gnome-46.bg.po                 strings: total: 57	| 57t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./identity-master-po-bg-996856.merged.po     strings: total: 74	| 74t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./sysprof.po-ui.sysprof-46.bg.po             strings: total: 311	| 311t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./gdm.po-ui.gnome-46.bg.po                   strings: total: 151	| 151t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

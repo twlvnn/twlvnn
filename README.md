@@ -9,6 +9,7 @@
   Total:        13110             57868                  72683
 
   File count:      85
+  173/10098 different strings have conflicts
 ```
 
 <details><summary>Натиснете тук, за да покажете статистиката на преводите на интерфейс</summary>
@@ -22,7 +23,6 @@
   Total:        11991             42775                  57854
 
   File count:      76
-  173/10098 different strings have conflicts
 ```
 
 </details>

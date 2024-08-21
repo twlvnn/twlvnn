@@ -3,13 +3,12 @@
 ```bash
 Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
-Translated:   12599 ( 99%)      55516 ( 99%)           70396
-Fuzzy:           32 (  0%)        217 (  0%)             n/a
+Translated:   12904 ( 99%)      56433 ( 99%)           71500
+Fuzzy:           31 (  0%)        209 (  0%)             n/a
 Untranslated:    24 (  0%)        212 (  0%)             n/a
-Total:        12655             55945                  70396
+Total:        12959             56854                  71500
 
-File count:      83
-150/9449 different strings have conflicts
+File count:      84
 ```
 
 <details><summary>Натиснете тук, за да покажете статистиката на преводите на интерфейс</summary>
@@ -17,13 +16,13 @@ File count:      83
 ```bash
 Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
-Translated:   11489 ( 99%)      40540 ( 99%)           55567
-Fuzzy:           23 (  0%)        100 (  0%)             n/a
+Translated:   11794 ( 99%)      41457 ( 99%)           56671
+Fuzzy:           22 (  0%)         92 (  0%)             n/a
 Untranslated:    24 (  0%)        212 (  0%)             n/a
-Total:        11536             40852                  55567
+Total:        11840             41761                  56671
 
-File count:      74
-162/9748 different strings have conflicts
+File count:      75
+173/9954 different strings have conflicts
 ```
 
 </details>
@@ -107,7 +106,6 @@ File count:       9
 ./metadata-cleaner-help-bg.po                strings: total: 28	| 28t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./metadata-cleaner-application-bg.po         strings: total: 64	| 64t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./chess-clock-main-po-bg.po                  strings: total: 46	| 46t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./identity-master-po-bg.po                   strings: total: 81	| 80t	1f	0u	| 98.76543209876543%t	1.2345679012345678%f	0.0%u
 ./decoder-master-po-bg.po                    strings: total: 71	| 71t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./emblem-master-po-bg.po                     strings: total: 38	| 38t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./AudioSharing-main-po-bg.po                 strings: total: 18	| 18t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -129,6 +127,8 @@ File count:       9
 ./connections-gnome.po                       strings: total: 25	| 25t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./gnome-builder.po-ui.gnome-builder-46.bg.po strings: total: 1412	| 1408t	0f	4u	| 99.71671388101983%t	0.0%f	0.28328611898017%u
 ./d-spy.po-ui.gnome-46.bg.po                 strings: total: 57	| 57t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./identity-master-po-bg-996856.merged.po     strings: total: 74	| 74t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./sysprof.po-ui.sysprof-46.bg.po             strings: total: 311	| 311t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

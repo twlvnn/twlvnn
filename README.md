@@ -1,11 +1,11 @@
 **Статистика на общо всички преводи**
 
-```bash
+```diff
 Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
-Translated:   13055 ( 99%)      57447 ( 99%)           72683
-Fuzzy:           31 (  0%)        209 (  0%)             n/a
-Untranslated:    24 (  0%)        212 (  0%)             n/a
++ Translated:   13055 ( 99%)      57447 ( 99%)           72683
+! Fuzzy:           31 (  0%)        209 (  0%)             n/a
+- Untranslated:    24 (  0%)        212 (  0%)             n/a
 Total:        13110             57868                  72683
 
 File count:      85
@@ -13,12 +13,12 @@ File count:      85
 
 <details><summary>Натиснете тук, за да покажете статистиката на преводите на интерфейс</summary>
 
-```bash
+```diff
 Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
-Translated:   11945 ( 99%)      42471 ( 99%)           57854
-Fuzzy:           22 (  0%)         92 (  0%)             n/a
-Untranslated:    24 (  0%)        212 (  0%)             n/a
++ Translated:   11945 ( 99%)      42471 ( 99%)           57854
+! Fuzzy:           22 (  0%)         92 (  0%)             n/a
+- Untranslated:    24 (  0%)        212 (  0%)             n/a
 Total:        11991             42775                  57854
 
 File count:      76
@@ -29,12 +29,12 @@ File count:      76
 
 <details><summary>Натиснете тук, за да покажете статистиката на преводите на документация</summary>
 
-```bash
+```diff
 Processing file : TOTAL:
 Type               Strings      Words (source)    Words (translation)
-Translated:    1110 ( 99%)      14976 ( 99%)           14850
-Fuzzy:            9 (  0%)        117 (  0%)             n/a
-Untranslated:     0 (  0%)          0 (  0%)             n/a
++ Translated:    1110 ( 99%)      14976 ( 99%)           14850
+! Fuzzy:            9 (  0%)        117 (  0%)             n/a
+- Untranslated:     0 (  0%)          0 (  0%)             n/a
 Total:         1119             15093                  14850
 
 File count:       9

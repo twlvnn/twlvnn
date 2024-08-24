@@ -3,12 +3,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   13426 ( 99%)      61468 ( 99%)           76718
++ Translated:   13494 ( 99%)      61678 ( 99%)           76963
 ! Fuzzy:           31 (  0%)        209 (  0%)             n/a
 - Untranslated:    24 (  0%)        212 (  0%)             n/a
-  Total:        13481             61889                  76718
+  Total:        13549             62099                  76963
 
-  File count:      90
+  File count:      91
   173/10098 different strings have conflicts
 ```
 
@@ -17,12 +17,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   11945 ( 99%)      42471 ( 99%)           57854
++ Translated:   12013 ( 99%)      42681 ( 99%)           58099
 ! Fuzzy:           22 (  0%)         92 (  0%)             n/a
 - Untranslated:    24 (  0%)        212 (  0%)             n/a
-  Total:        11991             42775                  57854
+  Total:        12059             42985                  58099
 
-  File count:      76
+  File count:      77
 ```
 
 </details>
@@ -135,6 +135,7 @@
 ./gnome-clocks.help-doc.gnome-46.bg.po       strings: total: 86	| 86t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./baobab.help-doc.gnome-46.bg.po             strings: total: 70	| 70t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./loupe.help-doc.gnome-46.bg.po              strings: total: 78	| 78t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./showtime.po-ui.main.bg.po                  strings: total: 68	| 68t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

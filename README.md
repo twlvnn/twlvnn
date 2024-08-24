@@ -3,12 +3,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   13192 ( 99%)      58637 ( 99%)           73881
++ Translated:   13278 ( 99%)      59608 ( 99%)           74772
 ! Fuzzy:           31 (  0%)        209 (  0%)             n/a
 - Untranslated:    24 (  0%)        212 (  0%)             n/a
-  Total:        13247             59058                  73881
+  Total:        13333             60029                  74772
 
-  File count:      87
+  File count:      88
   173/10098 different strings have conflicts
 ```
 
@@ -32,12 +32,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:    1247 ( 99%)      16166 ( 99%)           16048
++ Translated:    1333 ( 99%)      17137 ( 99%)           16939
 ! Fuzzy:            9 (  0%)        117 (  0%)             n/a
 - Untranslated:     0 (  0%)          0 (  0%)             n/a
-  Total:         1256             16283                  16048
+  Total:         1342             17254                  16939
 
-  File count:      11
+  File count:      12
 ```
 
 </details>
@@ -132,6 +132,7 @@
 ./gdm.po-ui.gnome-46.bg.po                   strings: total: 151	| 151t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./gnome-music.help-doc.master.bg.po          strings: total: 72	| 72t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./gnome-text-editor.help-doc.gnome-46.bg.po  strings: total: 65	| 65t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./gnome-clocks.help-doc.gnome-46.bg.po       strings: total: 86	| 86t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

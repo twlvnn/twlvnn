@@ -3,12 +3,13 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   13055 ( 99%)      57447 ( 99%)           72683
++ Translated:   13127 ( 99%)      57951 ( 99%)           73176
 ! Fuzzy:           31 (  0%)        209 (  0%)             n/a
 - Untranslated:    24 (  0%)        212 (  0%)             n/a
-  Total:        13110             57868                  72683
+  Total:        13182             58372                  73176
 
-  File count:      85
+  File count:      86
+
   173/10098 different strings have conflicts
 ```
 
@@ -32,19 +33,20 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:    1110 ( 99%)      14976 ( 99%)           14850
++ Translated:    1182 ( 99%)      15480 ( 99%)           15343
 ! Fuzzy:            9 (  0%)        117 (  0%)             n/a
 - Untranslated:     0 (  0%)          0 (  0%)             n/a
-  Total:         1119             15093                  14850
+  Total:         1191             15597                  15343
 
-  File count:       9
+  File count:      10
 ```
 
 </details>
 
 <details><summary>Натиснете тук, за да покажете преводите поотделно.</summary>
   
-```bash./pika-backup.po-ui.main.bg-pretranslated.po strings: total: 560	| 558t	2f	0u	| 99.64285714285714%t	0.35714285714285715%f	0.0%u
+```bash
+./pika-backup.po-ui.main.bg-pretranslated.po strings: total: 560	| 558t	2f	0u	| 99.64285714285714%t	0.35714285714285715%f	0.0%u
 ./pika-backup.po-ui.main.bg-pretranslated.po strings: total: 560	| 558t	2f	0u	| 99.64285714285714%t	0.35714285714285715%f	0.0%u
 ./papers.po-ui.main.bg.po                    strings: total: 404	| 404t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./Decibels.po-ui.main.bg-pretranslated.po    strings: total: 50	| 50t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -130,6 +132,7 @@
 ./identity-master-po-bg-996856.merged.po     strings: total: 74	| 74t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./sysprof.po-ui.sysprof-46.bg.po             strings: total: 311	| 311t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./gdm.po-ui.gnome-46.bg.po                   strings: total: 151	| 151t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./gnome-music.help-doc.master.bg.po          strings: total: 72	| 72t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

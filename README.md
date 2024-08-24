@@ -3,13 +3,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   13127 ( 99%)      57951 ( 99%)           73176
++ Translated:   13192 ( 99%)      58637 ( 99%)           73881
 ! Fuzzy:           31 (  0%)        209 (  0%)             n/a
 - Untranslated:    24 (  0%)        212 (  0%)             n/a
-  Total:        13182             58372                  73176
+  Total:        13247             59058                  73881
 
-  File count:      86
-
+  File count:      87
   173/10098 different strings have conflicts
 ```
 
@@ -33,12 +32,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:    1182 ( 99%)      15480 ( 99%)           15343
++ Translated:    1247 ( 99%)      16166 ( 99%)           16048
 ! Fuzzy:            9 (  0%)        117 (  0%)             n/a
 - Untranslated:     0 (  0%)          0 (  0%)             n/a
-  Total:         1191             15597                  15343
+  Total:         1256             16283                  16048
 
-  File count:      10
+  File count:      11
 ```
 
 </details>
@@ -46,7 +45,6 @@
 <details><summary>Натиснете тук, за да покажете преводите поотделно.</summary>
   
 ```bash
-./pika-backup.po-ui.main.bg-pretranslated.po strings: total: 560	| 558t	2f	0u	| 99.64285714285714%t	0.35714285714285715%f	0.0%u
 ./pika-backup.po-ui.main.bg-pretranslated.po strings: total: 560	| 558t	2f	0u	| 99.64285714285714%t	0.35714285714285715%f	0.0%u
 ./papers.po-ui.main.bg.po                    strings: total: 404	| 404t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./Decibels.po-ui.main.bg-pretranslated.po    strings: total: 50	| 50t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -133,6 +131,7 @@
 ./sysprof.po-ui.sysprof-46.bg.po             strings: total: 311	| 311t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./gdm.po-ui.gnome-46.bg.po                   strings: total: 151	| 151t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./gnome-music.help-doc.master.bg.po          strings: total: 72	| 72t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./gnome-text-editor.help-doc.gnome-46.bg.po  strings: total: 65	| 65t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

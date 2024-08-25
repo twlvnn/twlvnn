@@ -3,13 +3,13 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   13494 ( 99%)      61678 ( 99%)           76963
++ Translated:   13569 ( 99%)      62231 ( 99%)           77599
 ! Fuzzy:           31 (  0%)        209 (  0%)             n/a
 - Untranslated:    24 (  0%)        212 (  0%)             n/a
-  Total:        13549             62099                  76963
+  Total:        13624             62652                  77599
 
-  File count:      91
-  173/10098 different strings have conflicts
+  File count:      92
+  176/10197 different strings have conflicts
 ```
 
 <details><summary>Натиснете тук, за да покажете статистиката на преводите на интерфейс</summary>
@@ -17,12 +17,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   12013 ( 99%)      42681 ( 99%)           58099
++ Translated:   12088 ( 99%)      43234 ( 99%)           58735
 ! Fuzzy:           22 (  0%)         92 (  0%)             n/a
 - Untranslated:    24 (  0%)        212 (  0%)             n/a
-  Total:        12059             42985                  58099
+  Total:        12134             43538                  58735
 
-  File count:      77
+  File count:      78
 ```
 
 </details>
@@ -111,31 +111,6 @@
 ./AudioSharing-main-po-bg.po                 strings: total: 18	| 18t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./lorem-master-po-bg.po                      strings: total: 24	| 24t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./pika-backup.help-doc.main.bg.po            strings: total: 107	| 107t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./warp.help-doc.main.bg.po                   strings: total: 55	| 55t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./podcasts-main-po-bg.po                     strings: total: 131	| 131t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./shortwave.po-ui.main.bg.po                 strings: total: 122	| 122t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./solanum.po-ui.main.bg.po                   strings: total: 44	| 44t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./Graphs.help-doc.main.bg.po                 strings: total: 37	| 35t	2f	0u	| 94.5945945945946%t	5.405405405405405%f	0.0%u
-./polari.help-doc.main.bg.po                 strings: total: 68	| 67t	1f	0u	| 98.52941176470588%t	1.4705882352941178%f	0.0%u
-./deja-dup.po-ui.main.bg.po                  strings: total: 341	| 340t	1f	0u	| 99.70674486803519%t	0.2932551319648094%f	0.0%u
-./deja-dup.help-doc.main.bg.po               strings: total: 119	| 119t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./papers.help-doc.main.bg.po                 strings: total: 507	| 503t	4f	0u	| 99.21104536489152%t	0.7889546351084813%f	0.0%u
-./apps-for-gnome.po-ui.main.bg.po            strings: total: 71	| 71t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./epiphany.help-doc.gnome-46.bg.po           strings: total: 178	| 176t	2f	0u	| 98.87640449438203%t	1.1235955056179776%f	0.0%u
-./binary-bg.po                               strings: total: 21	| 21t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./gnome-logs.po                              strings: total: 23	| 23t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./connections-gnome.po                       strings: total: 25	| 25t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./gnome-builder.po-ui.gnome-builder-46.bg.po strings: total: 1412	| 1408t	0f	4u	| 99.71671388101983%t	0.0%f	0.28328611898017%u
-./d-spy.po-ui.gnome-46.bg.po                 strings: total: 57	| 57t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./identity-master-po-bg-996856.merged.po     strings: total: 74	| 74t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./sysprof.po-ui.sysprof-46.bg.po             strings: total: 311	| 311t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./gdm.po-ui.gnome-46.bg.po                   strings: total: 151	| 151t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./gnome-music.help-doc.master.bg.po          strings: total: 72	| 72t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./gnome-text-editor.help-doc.gnome-46.bg.po  strings: total: 65	| 65t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./gnome-clocks.help-doc.gnome-46.bg.po       strings: total: 86	| 86t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./baobab.help-doc.gnome-46.bg.po             strings: total: 70	| 70t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./loupe.help-doc.gnome-46.bg.po              strings: total: 78	| 78t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./showtime.po-ui.main.bg.po                  strings: total: 68	| 68t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

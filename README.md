@@ -2,7 +2,7 @@
 
 ```diff
   Processing file : TOTAL:
- Type               Strings      Words (source)    Words (translation)
+  Type               Strings      Words (source)    Words (translation)
 + Translated:   13840 ( 99%)      63448 ( 99%)           78985
 ! Fuzzy:           31 (  0%)        209 (  0%)             n/a
 - Untranslated:    24 (  0%)        212 (  0%)             n/a

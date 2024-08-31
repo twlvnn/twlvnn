@@ -3,12 +3,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   13840 ( 99%)      63448 ( 99%)           78985
++ Translated:   13951 ( 99%)      64678 ( 99%)           80222
 ! Fuzzy:           31 (  0%)        209 (  0%)             n/a
 - Untranslated:    24 (  0%)        212 (  0%)             n/a
-  Total:        13895             63869                  78985
+  Total:        14006             65099                  80222
 
-  File count:      93
+  File count:      94
   182/10414 different strings have conflicts
 ```
 
@@ -32,12 +32,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:    1481 ( 99%)      18997 ( 99%)           18885
++ Translated:    1592 ( 99%)      20227 ( 99%)           20122
 ! Fuzzy:            9 (  0%)        117 (  0%)             n/a
 - Untranslated:     0 (  0%)          0 (  0%)             n/a
-  Total:         1490             19114                  18885
+  Total:         1601             20344                  20122
 
-  File count:      14
+  File count:      15
 ```
 
 </details>
@@ -138,6 +138,7 @@
 ./showtime.po-ui.main.bg.po                  strings: total: 68	| 68t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./geopard-bg.po                              strings: total: 75	| 75t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./gtranslator.po-ui.master.bg.po             strings: total: 271	| 271t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./simple-scan.help-doc.master.bg.po          strings: total: 111	| 111t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

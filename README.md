@@ -3,12 +3,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   14114 ( 99%)      67362 ( 99%)           82987
++ Translated:   14347 ( 99%)      70230 ( 99%)           85992
 ! Fuzzy:           31 (  0%)        209 (  0%)             n/a
 - Untranslated:    24 (  0%)        212 (  0%)             n/a
-  Total:        14169             67783                  82987
+  Total:        14402             70651                  85992
 
-  File count:      95
+  File count:      96
   182/10414 different strings have conflicts
 ```
 
@@ -32,12 +32,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:    1755 ( 99%)      22911 ( 99%)           22870
++ Translated:    1988 ( 99%)      25779 ( 99%)           25875
 ! Fuzzy:            9 (  0%)        117 (  0%)             n/a
 - Untranslated:     0 (  0%)          0 (  0%)             n/a
-  Total:         1764             23028                  22870
+  Total:         1997             25896                  25875
 
-  File count:      16
+  File count:      17
 ```
 
 </details>
@@ -123,7 +123,7 @@
 ./binary-bg.po                               strings: total: 21	| 21t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./gnome-logs.po                              strings: total: 23	| 23t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./connections-gnome.po                       strings: total: 25	| 25t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./gnome-builder.po-ui.gnome-builder-46.bg.po strings: total: 1412	| 1408t	0f	4u	| 99.71671388101983%t	0.0%f0.28328611898017%u
+./gnome-builder.po-ui.gnome-builder-46.bg.po strings: total: 1412	| 1408t	0f	4u	| 99.71671388101983%t	0.0%f	0.28328611898017%u
 ./d-spy.po-ui.gnome-46.bg.po                 strings: total: 57	| 57t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./identity-master-po-bg-996856.merged.po     strings: total: 74	| 74t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./sysprof.po-ui.sysprof-46.bg.po             strings: total: 311	| 311t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -140,6 +140,7 @@
 ./breathing-bg.po                            strings: total: 26	| 26t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./kooha-bg.po                                strings: total: 96	| 96t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./gnome-software.help-doc.main.bg.po         strings: total: 163	| 163t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./gnome-boxes.help-doc.main.bg.po            strings: total: 233	| 233t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

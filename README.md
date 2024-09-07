@@ -3,12 +3,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   13951 ( 99%)      64678 ( 99%)           80222
++ Translated:   14114 ( 99%)      67362 ( 99%)           82987
 ! Fuzzy:           31 (  0%)        209 (  0%)             n/a
 - Untranslated:    24 (  0%)        212 (  0%)             n/a
-  Total:        14006             65099                  80222
+  Total:        14169             67783                  82987
 
-  File count:      94
+  File count:      95
   182/10414 different strings have conflicts
 ```
 
@@ -32,12 +32,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:    1592 ( 99%)      20227 ( 99%)           20122
++ Translated:    1755 ( 99%)      22911 ( 99%)           22870
 ! Fuzzy:            9 (  0%)        117 (  0%)             n/a
 - Untranslated:     0 (  0%)          0 (  0%)             n/a
-  Total:         1601             20344                  20122
+  Total:         1764             23028                  22870
 
-  File count:      15
+  File count:      16
 ```
 
 </details>
@@ -73,14 +73,12 @@
 ./mini-text-bg.po                            strings: total: 20	| 20t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./color-code-bg.po                           strings: total: 22	| 22t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./teleprompter-bg.po                         strings: total: 42	| 42t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./breathing-bg.po                            strings: total: 26	| 26t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./planify-bg.po                              strings: total: 512	| 482t	10f	20u	| 94.140625%t	1.953125%f	3.90625%u
 ./upscaled-bg.po                             strings: total: 69	| 69t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./switcheroo-bg.po                           strings: total: 83	| 83t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./raider-bg.po                               strings: total: 35	| 35t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./obfuscate-master-po-bg.po                  strings: total: 48	| 48t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./trivia-quiz-bg.po                          strings: total: 15	| 15t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./kooha-bg.po                                strings: total: 96	| 96t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./whisper-bg.po                              strings: total: 34	| 34t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./hieroglyphic-bg.po                         strings: total: 22	| 22t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./progress-tracker-bg.po                     strings: total: 34	| 34t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -125,7 +123,7 @@
 ./binary-bg.po                               strings: total: 21	| 21t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./gnome-logs.po                              strings: total: 23	| 23t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./connections-gnome.po                       strings: total: 25	| 25t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./gnome-builder.po-ui.gnome-builder-46.bg.po strings: total: 1412	| 1408t	0f	4u	| 99.71671388101983%t	0.0%f	0.28328611898017%u
+./gnome-builder.po-ui.gnome-builder-46.bg.po strings: total: 1412	| 1408t	0f	4u	| 99.71671388101983%t	0.0%f0.28328611898017%u
 ./d-spy.po-ui.gnome-46.bg.po                 strings: total: 57	| 57t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./identity-master-po-bg-996856.merged.po     strings: total: 74	| 74t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./sysprof.po-ui.sysprof-46.bg.po             strings: total: 311	| 311t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -139,6 +137,9 @@
 ./geopard-bg.po                              strings: total: 75	| 75t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./gtranslator.po-ui.master.bg.po             strings: total: 271	| 271t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./simple-scan.help-doc.master.bg.po          strings: total: 111	| 111t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./breathing-bg.po                            strings: total: 26	| 26t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./kooha-bg.po                                strings: total: 96	| 96t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./gnome-software.help-doc.main.bg.po         strings: total: 163	| 163t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

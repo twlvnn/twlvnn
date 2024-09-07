@@ -3,12 +3,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   14396 ( 99%)      70978 ( 99%)           86716
++ Translated:   14445 ( 99%)      71887 ( 99%)           87619
 ! Fuzzy:           31 (  0%)        209 (  0%)             n/a
 - Untranslated:    24 (  0%)        212 (  0%)             n/a
-  Total:        14451             71399                  86716
+  Total:        14500             72308                  87619
 
-  File count:      97
+  File count:      98
   182/10414 different strings have conflicts
 ```
 
@@ -32,12 +32,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:    2037 ( 99%)      26527 ( 99%)           26599
++ Translated:    2086 ( 99%)      27436 ( 99%)           27502
 ! Fuzzy:            9 (  0%)        117 (  0%)             n/a
 - Untranslated:     0 (  0%)          0 (  0%)             n/a
-  Total:         2046             26644                  26599
+  Total:         2095             27553                  27502
 
-  File count:      18
+  File count:      19
 ```
 
 </details>
@@ -142,6 +142,7 @@
 ./gnome-software.help-doc.main.bg.po         strings: total: 163	| 163t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./gnome-boxes.help-doc.main.bg.po            strings: total: 233	| 233t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./devhelp.help-doc.main.bg.po                strings: total: 49	| 49t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./sysprof.help-doc.master.bg.po              strings: total: 49	| 49t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

@@ -3,12 +3,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   14712 ( 99%)      73862 ( 99%)           89567
-! Fuzzy:           31 (  0%)        209 (  0%)             n/a
++ Translated:   14872 ( 99%)      75651 ( 99%)           91397
+! Fuzzy:           27 (  0%)        196 (  0%)             n/a
 - Untranslated:    24 (  0%)        212 (  0%)             n/a
-  Total:        14767             74283                  89567
+  Total:        14923             76059                  91397
 
-  File count:      99
+  File count:     100
   182/10414 different strings have conflicts
 ```
 
@@ -32,12 +32,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:    2354 ( 99%)      29441 ( 99%)           29476
-! Fuzzy:            8 (  0%)         87 (  0%)             n/a
++ Translated:    2514 ( 99%)      31230 ( 99%)           31306
+! Fuzzy:            4 (  0%)         74 (  0%)             n/a
 - Untranslated:     0 (  0%)          0 (  0%)             n/a
-  Total:         2362             29528                  29476
+  Total:         2518             31304                  31306
 
-  File count:      20
+  File count:      21
 ```
 
 </details>
@@ -117,7 +117,6 @@
 ./polari.help-doc.main.bg.po                 strings: total: 68	| 67t	1f	0u	| 98.52941176470588%t	1.4705882352941178%f	0.0%u
 ./deja-dup.po-ui.main.bg.po                  strings: total: 341	| 340t	1f	0u	| 99.70674486803519%t	0.2932551319648094%f	0.0%u
 ./deja-dup.help-doc.main.bg.po               strings: total: 119	| 119t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./papers.help-doc.main.bg.po                 strings: total: 507	| 503t	4f	0u	| 99.21104536489152%t	0.7889546351084813%f	0.0%u
 ./apps-for-gnome.po-ui.main.bg.po            strings: total: 71	| 71t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./epiphany.help-doc.gnome-46.bg.po           strings: total: 178	| 176t	2f	0u	| 98.87640449438203%t	1.1235955056179776%f	0.0%u
 ./binary-bg.po                               strings: total: 21	| 21t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -144,6 +143,8 @@
 ./devhelp.help-doc.main.bg.po                strings: total: 49	| 49t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./sysprof.help-doc.master.bg.po              strings: total: 49	| 49t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./gnome-calculator.help-doc.gnome-46.bg.po   strings: total: 267	| 267t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./papers-main-help-bg.po                     strings: total: 507	| 507t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./totem.help-doc.master.bg.po                strings: total: 156	| 156t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

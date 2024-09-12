@@ -1,3 +1,5 @@
+![](banner-rounded-corners.gif)
+
 **Статистика на общо всички преводи**
 
 ```diff

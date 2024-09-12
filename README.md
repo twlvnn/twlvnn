@@ -3,12 +3,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   14872 ( 99%)      75651 ( 99%)           91397
++ Translated:   15054 ( 99%)      78580 ( 99%)           94266
 ! Fuzzy:           27 (  0%)        196 (  0%)             n/a
 - Untranslated:    24 (  0%)        212 (  0%)             n/a
-  Total:        14923             76059                  91397
+  Total:        15105             78988                  94266
 
-  File count:     100
+  File count:     101
   182/10414 different strings have conflicts
 ```
 
@@ -32,12 +32,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:    2514 ( 99%)      31230 ( 99%)           31306
++ Translated:    2568 ( 99%)      32534 ( 99%)           32606
 ! Fuzzy:            4 (  0%)         74 (  0%)             n/a
 - Untranslated:     0 (  0%)          0 (  0%)             n/a
-  Total:         2518             31304                  31306
+  Total:         2572             32608                  32606
 
-  File count:      21
+  File count:      22
 ```
 
 </details>
@@ -143,8 +143,9 @@
 ./devhelp.help-doc.main.bg.po                strings: total: 49	| 49t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./sysprof.help-doc.master.bg.po              strings: total: 49	| 49t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./gnome-calculator.help-doc.gnome-46.bg.po   strings: total: 267	| 267t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./papers-main-help-bg.po                     strings: total: 507	| 507t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./totem.help-doc.master.bg.po                strings: total: 156	| 156t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./papers-main-help-bg.po                     strings: total: 635	| 635t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./grilo-plugins.help-doc.master.bg.po        strings: total: 54	| 54t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

@@ -1,4 +1,4 @@
-![](banner-rounded-corners.gif)
+![](banner.gif)
 
 **Статистика на общо всички преводи**
 

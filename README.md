@@ -3,12 +3,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   15589 ( 99%)      87260 ( 99%)          102937
++ Translated:   15720 ( 99%)      88098 ( 99%)          103849
 ! Fuzzy:           27 (  0%)        196 (  0%)             n/a
 - Untranslated:    24 (  0%)        212 (  0%)             n/a
-  Total:        15640             87668                 102937
+  Total:        15771             88506                 103849
 
-  File count:     103
+  File count:     104
   182/10414 different strings have conflicts
 ```
 
@@ -47,12 +47,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:     339 (100%)       4319 (100%)            4429
++ Translated:     470 (100%)       5157 (100%)            5343
 ! Fuzzy:            0 (  0%)          0 (  0%)             n/a
 - Untranslated:     0 (  0%)          0 (  0%)             n/a
-  Total:          339              4319                   4429
+  Total:          470              5157                   5343
 
-  File count:       2
+  File count:       3
 ```
 
 </details>
@@ -163,6 +163,7 @@
 ./upscaler.po                                  strings: total: 78	| 78t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./gnome-system-monitor.help-doc.gnome-46.bg.po strings: total: 258	| 258t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./welcome-gnome-org.ui-ui.main.bg.po           strings: total: 268	| 268t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./extensions-web.po-ui.master.bg.po            strings: total: 131	| 131t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

@@ -3,12 +3,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   15321 ( 99%)      83383 ( 99%)           98971
++ Translated:   15589 ( 99%)      87260 ( 99%)          102937
 ! Fuzzy:           27 (  0%)        196 (  0%)             n/a
 - Untranslated:    24 (  0%)        212 (  0%)             n/a
-  Total:        15372             83791                  98971
+  Total:        15640             87668                 102937
 
-  File count:     102
+  File count:     103
   182/10414 different strings have conflicts
 ```
 
@@ -17,12 +17,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   12359 ( 99%)      44451 ( 99%)           60121
++ Translated:   12297 ( 99%)      43994 ( 99%)           59665
 ! Fuzzy:           22 (  0%)         92 (  0%)             n/a
 - Untranslated:    24 (  0%)        212 (  0%)             n/a
-  Total:        12405             44755                  60121
+  Total:        12343             44298                  59665
 
-  File count:      79
+  File count:      78
 ```
 
 </details>
@@ -38,6 +38,21 @@
   Total:         2830             37426                  37321
 
   File count:      23
+```
+
+</details>
+
+<details><summary>Натиснете тук, за да покажете статистиката на преводите на уеб сайтове</summary>
+
+```diff
+  Processing file : TOTAL:
+  Type               Strings      Words (source)    Words (translation)
++ Translated:     339 (100%)       4319 (100%)            4429
+! Fuzzy:            0 (  0%)          0 (  0%)             n/a
+- Untranslated:     0 (  0%)          0 (  0%)             n/a
+  Total:          339              4319                   4429
+
+  File count:       2
 ```
 
 </details>
@@ -147,8 +162,9 @@
 ./grilo-plugins.help-doc.master.bg.po          strings: total: 54	| 54t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./upscaler.po                                  strings: total: 78	| 78t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./gnome-system-monitor.help-doc.gnome-46.bg.po strings: total: 258	| 258t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./welcome-gnome-org.ui-ui.main.bg.po           strings: total: 268	| 268t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>
 
-Преводите се правят в GitHub, GitLab, Weblate, Euphrase и Damned Lies (GNOME) с други сътрудници. Статистиките са извлечени чрез `translate-toolkit` и включват само програмите, в които съм бил основен сътрудник. Използвам Gtranslator и `grep` за сканиране на терминология в po файлове, txt файл за запис на термините и Python скрипт за създаване на `poterminology` файл от ~4400 термини и фрази като преводна памет. С `pretranslate` автоматично превеждам повтарящи се фрази с паметния файл и бързо добавям нови преводи към обновени po файлове в изходния код. Отделно проверявам преводи използвайки `pofilter` с gnome шаблона.
+Преводите се правят в GitHub, GitLab, Weblate, Euphrase и Damned Lies (GNOME) с други сътрудници. Статистиките са извлечени чрез `translate-toolkit` и включват само програмите, в които съм бил основен сътрудник. Използвам Gtranslator и `grep` за сканиране на терминология в po файлове, txt файл за запис на термините и Python скрипт за създаване на `poterminology` файл от ~4500 термини и фрази като преводна памет. С `pretranslate` автоматично превеждам повтарящи се фрази с паметния файл и бързо добавям нови преводи към обновени po файлове в изходния код. Отделно проверявам преводи използвайки `pofilter` с gnome шаблона.

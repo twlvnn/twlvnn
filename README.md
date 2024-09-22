@@ -3,12 +3,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   17228 ( 99%)      97575 ( 99%)          113950
++ Translated:   17405 ( 99%)      97992 ( 99%)          114374
 ! Fuzzy:           27 (  0%)        196 (  0%)             n/a
 - Untranslated:    28 (  0%)        242 (  0%)             n/a
-  Total:        17283             98013                 113950
+  Total:        17460             98430                 114374
 
-  File count:     107
+  File count:     108
   182/10414 different strings have conflicts
 ```
 
@@ -17,12 +17,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   12669 ( 99%)      46232 ( 99%)           62250
++ Translated:   12846 ( 99%)      46649 ( 99%)           62674
 ! Fuzzy:           22 (  0%)         92 (  0%)             n/a
 - Untranslated:    24 (  0%)        212 (  0%)             n/a
-  Total:        12715             46536                  62250
+  Total:        12892             46953                  62674
 
-  File count:      79
+  File count:      80
 ```
 
 </details>
@@ -60,7 +60,7 @@
 <details><summary>Натиснете тук, за да покажете преводите поотделно.</summary>
   
 ```bash
-./pika-backup.po-ui.main.bg-pretranslated.po   strings: total: 560	| 558t	2f	0u	| 99.64285714285714%t	0.35714285714285715%f0.0%u
+./pika-backup.po-ui.main.bg-pretranslated.po   strings: total: 560	| 558t	2f	0u	| 99.64285714285714%t	0.35714285714285715%f	0.0%u
 ./papers.po-ui.main.bg.po                      strings: total: 404	| 404t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./Decibels.po-ui.main.bg-pretranslated.po      strings: total: 50	| 50t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./varia-bg.po                                  strings: total: 86	| 86t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -74,15 +74,15 @@
 ./ascii-draw-bg.po                             strings: total: 109	| 109t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./ultimate-tic-tac-toe-bg.po                   strings: total: 20	| 20t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./exhibit-bg.po                                strings: total: 68	| 68t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./health.po-ui.master.bg.po                    strings: total: 233	| 232t	1f	0u	| 99.57081545064378%t	0.4291845493562232%f0.0%u
-./Graphs.po-ui.main.bg.po                      strings: total: 370	| 367t	3f	0u	| 99.1891891891892%t	0.8108108108108109%f0.0%u
+./health.po-ui.master.bg.po                    strings: total: 233	| 232t	1f	0u	| 99.57081545064378%t	0.4291845493562232%f	0.0%u
+./Graphs.po-ui.main.bg.po                      strings: total: 370	| 367t	3f	0u	| 99.1891891891892%t	0.8108108108108109%f	0.0%u
 ./warp.po-ui.main.bg.po                        strings: total: 177	| 177t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./polari.po-ui.main.bg.po                      strings: total: 200	| 200t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./elastic.po-ui.main.bg.po                     strings: total: 66	| 66t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./eartag-bg.po                                 strings: total: 177	| 177t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./fragments.po-ui.main.bg.po                   strings: total: 239	| 238t	1f	0u	| 99.581589958159%t	0.41841004184100417%f0.0%u
+./fragments.po-ui.main.bg.po                   strings: total: 239	| 238t	1f	0u	| 99.581589958159%t	0.41841004184100417%f	0.0%u
 ./boatswain.po-ui.main.bg.po                   strings: total: 142	| 140t	2f	0u	| 98.59154929577464%t	1.408450704225352%f	0.0%u
-./apostrophe.po-ui.main.bg.po                  strings: total: 227	| 225t	2f	0u	| 99.11894273127753%t	0.8810572687224669%f0.0%u
+./apostrophe.po-ui.main.bg.po                  strings: total: 227	| 225t	2f	0u	| 99.11894273127753%t	0.8810572687224669%f	0.0%u
 ./snapshot.po-ui.main.bg.po                    strings: total: 83	| 83t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./dosage-bg.po                                 strings: total: 137	| 137t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./mini-text-bg.po                              strings: total: 20	| 20t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -128,11 +128,11 @@
 ./shortwave.po-ui.main.bg.po                   strings: total: 122	| 122t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./solanum.po-ui.main.bg.po                     strings: total: 44	| 44t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./Graphs.help-doc.main.bg.po                   strings: total: 37	| 35t	2f	0u	| 94.5945945945946%t	5.405405405405405%f	0.0%u
-./polari.help-doc.main.bg.po                   strings: total: 68	| 67t	1f	0u	| 98.52941176470588%t	1.4705882352941178%f0.0%u
-./deja-dup.po-ui.main.bg.po                    strings: total: 341	| 340t	1f	0u	| 99.70674486803519%t	0.2932551319648094%f0.0%u
+./polari.help-doc.main.bg.po                   strings: total: 68	| 67t	1f	0u	| 98.52941176470588%t	1.4705882352941178%f	0.0%u
+./deja-dup.po-ui.main.bg.po                    strings: total: 341	| 340t	1f	0u	| 99.70674486803519%t	0.2932551319648094%f	0.0%u
 ./deja-dup.help-doc.main.bg.po                 strings: total: 119	| 119t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./apps-for-gnome.po-ui.main.bg.po              strings: total: 71	| 71t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./epiphany.help-doc.gnome-46.bg.po             strings: total: 178	| 176t	2f	0u	| 98.87640449438203%t	1.1235955056179776%f0.0%u
+./epiphany.help-doc.gnome-46.bg.po             strings: total: 178	| 176t	2f	0u	| 98.87640449438203%t	1.1235955056179776%f	0.0%u
 ./binary-bg.po                                 strings: total: 21	| 21t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./gnome-logs.po                                strings: total: 23	| 23t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./connections-gnome.po                         strings: total: 25	| 25t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -167,6 +167,7 @@
 ./damned-lies-master-po-bg.po                  strings: total: 897	| 895t	0f	2u	| 99.77703455964325%t	0.0%f	0.2229654403567447%u
 ./library-web.po-ui.master.bg.po               strings: total: 243	| 241t	0f	2u	| 99.17695473251028%t	0.0%f	0.823045267489712%u
 ./jhbuild.po-ui.master.bg.po                   strings: total: 372	| 372t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./valuta-bg.po                                 strings: total: 177	| 177t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

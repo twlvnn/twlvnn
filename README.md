@@ -3,12 +3,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   17803 ( 99%)     100065 ( 99%)          116611
++ Translated:   17731 ( 99%)      99782 ( 99%)          116272
 ! Fuzzy:           27 (  0%)        196 (  0%)             n/a
 - Untranslated:    28 (  0%)        242 (  0%)             n/a
-  Total:        17858            100503                 116611
+  Total:        17786            100220                 116272
 
-  File count:     113
+  File count:     112
   182/10414 different strings have conflicts
 ```
 
@@ -32,12 +32,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:    2826 ( 99%)      37352 ( 99%)           37321
++ Translated:    2896 ( 99%)      38069 ( 99%)           37995
 ! Fuzzy:            4 (  0%)         74 (  0%)             n/a
 - Untranslated:     0 (  0%)          0 (  0%)             n/a
-  Total:         2830             37426                  37321
+  Total:         2900             38143                  37995
 
-  File count:      23
+  File count:      24
 ```
 
 </details>
@@ -60,7 +60,7 @@
 <details><summary>Натиснете тук, за да покажете преводите поотделно.</summary>
   
 ```bash
-./pika-backup.po-ui.main.bg-pretranslated.po   strings: total: 560	| 558t	2f	0u	| 99.64285714285714%t	0.35714285714285715%f0.0%u
+./pika-backup.po-ui.main.bg-pretranslated.po   strings: total: 560	| 558t	2f	0u	| 99.64285714285714%t	0.35714285714285715%f	0.0%u
 ./papers.po-ui.main.bg.po                      strings: total: 404	| 404t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./Decibels.po-ui.main.bg-pretranslated.po      strings: total: 50	| 50t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./varia-bg.po                                  strings: total: 86	| 86t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -74,15 +74,15 @@
 ./ascii-draw-bg.po                             strings: total: 109	| 109t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./ultimate-tic-tac-toe-bg.po                   strings: total: 20	| 20t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./exhibit-bg.po                                strings: total: 68	| 68t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./health.po-ui.master.bg.po                    strings: total: 233	| 232t	1f	0u	| 99.57081545064378%t	0.4291845493562232%f0.0%u
-./Graphs.po-ui.main.bg.po                      strings: total: 370	| 367t	3f	0u	| 99.1891891891892%t	0.8108108108108109%f0.0%u
+./health.po-ui.master.bg.po                    strings: total: 233	| 232t	1f	0u	| 99.57081545064378%t	0.4291845493562232%f	0.0%u
+./Graphs.po-ui.main.bg.po                      strings: total: 370	| 367t	3f	0u	| 99.1891891891892%t	0.8108108108108109%f	0.0%u
 ./warp.po-ui.main.bg.po                        strings: total: 177	| 177t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./polari.po-ui.main.bg.po                      strings: total: 200	| 200t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./elastic.po-ui.main.bg.po                     strings: total: 66	| 66t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./eartag-bg.po                                 strings: total: 177	| 177t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./fragments.po-ui.main.bg.po                   strings: total: 239	| 238t	1f	0u	| 99.581589958159%t	0.41841004184100417%f0.0%u
+./fragments.po-ui.main.bg.po                   strings: total: 239	| 238t	1f	0u	| 99.581589958159%t	0.41841004184100417%f	0.0%u
 ./boatswain.po-ui.main.bg.po                   strings: total: 142	| 140t	2f	0u	| 98.59154929577464%t	1.408450704225352%f	0.0%u
-./apostrophe.po-ui.main.bg.po                  strings: total: 227	| 225t	2f	0u	| 99.11894273127753%t	0.8810572687224669%f0.0%u
+./apostrophe.po-ui.main.bg.po                  strings: total: 227	| 225t	2f	0u	| 99.11894273127753%t	0.8810572687224669%f	0.0%u
 ./snapshot.po-ui.main.bg.po                    strings: total: 83	| 83t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./dosage-bg.po                                 strings: total: 137	| 137t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./mini-text-bg.po                              strings: total: 20	| 20t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -128,11 +128,11 @@
 ./shortwave.po-ui.main.bg.po                   strings: total: 122	| 122t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./solanum.po-ui.main.bg.po                     strings: total: 44	| 44t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./Graphs.help-doc.main.bg.po                   strings: total: 37	| 35t	2f	0u	| 94.5945945945946%t	5.405405405405405%f	0.0%u
-./polari.help-doc.main.bg.po                   strings: total: 68	| 67t	1f	0u	| 98.52941176470588%t	1.4705882352941178%f0.0%u
-./deja-dup.po-ui.main.bg.po                    strings: total: 341	| 340t	1f	0u	| 99.70674486803519%t	0.2932551319648094%f0.0%u
+./polari.help-doc.main.bg.po                   strings: total: 68	| 67t	1f	0u	| 98.52941176470588%t	1.4705882352941178%f	0.0%u
+./deja-dup.po-ui.main.bg.po                    strings: total: 341	| 340t	1f	0u	| 99.70674486803519%t	0.2932551319648094%f	0.0%u
 ./deja-dup.help-doc.main.bg.po                 strings: total: 119	| 119t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./apps-for-gnome.po-ui.main.bg.po              strings: total: 71	| 71t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./epiphany.help-doc.gnome-46.bg.po             strings: total: 178	| 176t	2f	0u	| 98.87640449438203%t	1.1235955056179776%f0.0%u
+./epiphany.help-doc.gnome-46.bg.po             strings: total: 178	| 176t	2f	0u	| 98.87640449438203%t	1.1235955056179776%f	0.0%u
 ./binary-bg.po                                 strings: total: 21	| 21t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./gnome-logs.po                                strings: total: 23	| 23t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./connections-gnome.po                         strings: total: 25	| 25t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -172,7 +172,6 @@
 ./wike-bg.po                                   strings: total: 134	| 134t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./khronos-bg.po                                strings: total: 42	| 42t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./gnome-mahjongg.help-doc.master.bg.po         strings: total: 70	| 70t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./gnome-mahjongg.po-ui.master.bg.po            strings: total: 72	| 72t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

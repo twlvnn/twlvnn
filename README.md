@@ -3,12 +3,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   17731 ( 99%)      99782 ( 99%)          116272
++ Translated:   17761 ( 99%)      99839 ( 99%)          116342
 ! Fuzzy:           27 (  0%)        196 (  0%)             n/a
 - Untranslated:    28 (  0%)        242 (  0%)             n/a
-  Total:        17786            100220                 116272
+  Total:        17816            100277                 116342
 
-  File count:     112
+  File count:     113
   182/10414 different strings have conflicts
 ```
 
@@ -17,12 +17,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   13102 ( 99%)      47722 ( 99%)           63898
++ Translated:   13132 ( 99%)      47779 ( 99%)           63968
 ! Fuzzy:           22 (  0%)         92 (  0%)             n/a
 - Untranslated:    24 (  0%)        212 (  0%)             n/a
-  Total:        13148             48026                  63898
+  Total:        13178             48083                  63968
 
-  File count:      83
+  File count:      84
 ```
 
 </details>
@@ -172,6 +172,7 @@
 ./wike-bg.po                                   strings: total: 134	| 134t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./khronos-bg.po                                strings: total: 42	| 42t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./gnome-mahjongg.help-doc.master.bg.po         strings: total: 70	| 70t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./netsleuth-bg.po                              strings: total: 30	| 30t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

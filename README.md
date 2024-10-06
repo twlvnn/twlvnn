@@ -3,12 +3,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   19147 ( 99%)     106580 ( 99%)          124023
++ Translated:   19366 ( 99%)     107160 ( 99%)          124690
 ! Fuzzy:           27 (  0%)        196 (  0%)             n/a
 - Untranslated:    29 (  0%)        243 (  0%)             n/a
-  Total:        19203            107019                 124023
+  Total:        19422            107599                 124690
 
-  File count:     115
+  File count:     118
 ```
 
 <details><summary>Натиснете тук, за да покажете статистиката на преводите на интерфейс</summary>
@@ -16,12 +16,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   14518 ( 99%)      54520 ( 99%)           71649
++ Translated:   14737 ( 99%)      55100 ( 99%)           72316
 ! Fuzzy:           22 (  0%)         92 (  0%)             n/a
 - Untranslated:    25 (  0%)        213 (  0%)             n/a
-  Total:        14565             54825                  71649
+  Total:        14784             55405                  72316
 
-  File count:      86
+  File count:      89
 ```
 
 </details>
@@ -174,6 +174,9 @@
 ./netsleuth-bg.po                              strings: total: 30	| 30t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./fractal-main-po-bg.po                        strings: total: 980	| 979t	0f	1u	| 99.89795918367346%t	0.0%f	0.10204081632653061%u
 ./komikku-main-bg.po                           strings: total: 407	| 407t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./libcall-ui.po-ui.main.bg.po                  strings: total: 8	| 8t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./squeekboard.po-ui.main.bg.po                 strings: total: 6	| 6t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./phosh.po-ui.main.bg.po                       strings: total: 205	| 205t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

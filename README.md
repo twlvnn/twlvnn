@@ -3,12 +3,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   19514 ( 99%)     107698 ( 99%)          125322
++ Translated:   19930 ( 99%)     109128 ( 99%)          126936
 ! Fuzzy:           28 (  0%)        198 (  0%)             n/a
 - Untranslated:    29 (  0%)        243 (  0%)             n/a
-  Total:        19571            108139                 125322
+  Total:        19987            109569                 126936
 
-  File count:     119
+  File count:     120
 ```
 
 <details><summary>Натиснете тук, за да покажете статистиката на преводите на интерфейс</summary>
@@ -16,12 +16,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   14885 ( 99%)      55638 ( 99%)           72948
++ Translated:   15301 ( 99%)      57068 ( 99%)           74562
 ! Fuzzy:           23 (  0%)         94 (  0%)             n/a
 - Untranslated:    25 (  0%)        213 (  0%)             n/a
-  Total:        14933             55945                  72948
+  Total:        15349             57375                  74562
 
-  File count:      90
+  File count:      91
 ```
 
 </details>
@@ -178,6 +178,7 @@
 ./squeekboard.po-ui.main.bg.po                 strings: total: 6	| 6t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./phosh.po-ui.main.bg.po                       strings: total: 205	| 205t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./phosh-mobile-settings.po-ui.main.bg.po       strings: total: 149	| 148t	1f	0u	| 99.32885906040268%t	0.6711409395973155%f	0.0%u
+./chatty-bg.po                                 strings: total: 416	| 416t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

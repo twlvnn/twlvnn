@@ -3,12 +3,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   20403 ( 99%)     111153 ( 99%)          134208
++ Translated:   20513 ( 99%)     111770 ( 99%)          134866
 ! Fuzzy:           28 (  0%)        198 (  0%)             n/a
 - Untranslated:    34 (  0%)        255 (  0%)             n/a
-  Total:        20465            111606                 134208
+  Total:        20575            112223                 134866
 
-  File count:     124
+  File count:     125
 ```
 
 <details><summary>Натиснете тук, за да покажете статистиката на преводите на интерфейс</summary>
@@ -16,12 +16,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   15774 ( 99%)      59093 ( 99%)           81834
++ Translated:   15884 ( 99%)      59710 ( 99%)           82492
 ! Fuzzy:           23 (  0%)         94 (  0%)             n/a
 - Untranslated:    30 (  0%)        225 (  0%)             n/a
-  Total:        15827             59412                  81834
+  Total:        15937             60029                  82492
 
-  File count:      95
+  File count:      96
 ```
 
 </details>
@@ -183,6 +183,7 @@
 ./Blurble.po-ui.main.bg.po                     strings: total: 29	| 28t	0f	1u	| 96.55172413793103%t	0.0%f	3.4482758620689653%u
 ./gnome-2048.po-ui.master.bg.po                strings: total: 69	| 69t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./gnome-firmware.po-ui.master.bg.po            strings: total: 238	| 234t	0f	4u	| 98.31932773109244%t	0.0%f	1.680672268907563%u
+./clairvoyant-bg.po                            strings: total: 110	| 110t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

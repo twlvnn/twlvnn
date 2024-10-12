@@ -3,12 +3,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   20100 ( 99%)     109818 ( 99%)          132673
++ Translated:   20169 ( 99%)     110200 ( 99%)          133068
 ! Fuzzy:           28 (  0%)        198 (  0%)             n/a
 - Untranslated:    30 (  0%)        244 (  0%)             n/a
-  Total:        20158            110260                 132673
+  Total:        20227            110642                 133068
 
-  File count:     122
+  File count:     123
 ```
 
 <details><summary>Натиснете тук, за да покажете статистиката на преводите на интерфейс</summary>
@@ -16,12 +16,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   15471 ( 99%)      57758 ( 99%)           80299
++ Translated:   15540 ( 99%)      58140 ( 99%)           80694
 ! Fuzzy:           23 (  0%)         94 (  0%)             n/a
 - Untranslated:    26 (  0%)        214 (  0%)             n/a
-  Total:        15520             58066                  80299
+  Total:        15589             58448                  80694
 
-  File count:      93
+  File count:      94
 ```
 
 </details>
@@ -181,6 +181,7 @@
 ./chatty-bg.po                                 strings: total: 416	| 416t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./gnome-sudoku.po-ui.master.bg.po              strings: total: 142	| 142t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./Blurble.po-ui.main.bg.po                     strings: total: 29	| 28t	0f	1u	| 96.55172413793103%t	0.0%f	3.4482758620689653%u
+./gnome-2048.po-ui.master.bg.po                strings: total: 69	| 69t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

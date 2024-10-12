@@ -3,12 +3,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   20513 ( 99%)     111770 ( 99%)          134866
++ Translated:   20586 ( 99%)     112084 ( 99%)          135203
 ! Fuzzy:           28 (  0%)        198 (  0%)             n/a
 - Untranslated:    34 (  0%)        255 (  0%)             n/a
-  Total:        20575            112223                 134866
+  Total:        20648            112537                 135203
 
-  File count:     125
+  File count:     126
 ```
 
 <details><summary>Натиснете тук, за да покажете статистиката на преводите на интерфейс</summary>
@@ -16,12 +16,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   15884 ( 99%)      59710 ( 99%)           82492
++ Translated:   15957 ( 99%)      60024 ( 99%)           82829
 ! Fuzzy:           23 (  0%)         94 (  0%)             n/a
 - Untranslated:    30 (  0%)        225 (  0%)             n/a
-  Total:        15937             60029                  82492
+  Total:        16010             60343                  82829
 
-  File count:      96
+  File count:      97
 ```
 
 </details>
@@ -59,7 +59,7 @@
 <details><summary>Натиснете тук, за да покажете преводите поотделно.</summary>
   
 ```bash
-./pika-backup.po-ui.main.bg-pretranslated.po   strings: total: 560	| 558t	2f	0u	| 99.64285714285714%t	0.35714285714285715%f	0.0%u
+./pika-backup.po-ui.main.bg-pretranslated.po   strings: total: 560	| 558t	2f	0u	| 99.64285714285714%t	0.35714285714285715%f0.0%u
 ./papers.po-ui.main.bg.po                      strings: total: 404	| 404t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./Decibels.po-ui.main.bg-pretranslated.po      strings: total: 50	| 50t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./varia-bg.po                                  strings: total: 86	| 86t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -73,15 +73,15 @@
 ./ascii-draw-bg.po                             strings: total: 109	| 109t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./ultimate-tic-tac-toe-bg.po                   strings: total: 20	| 20t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./exhibit-bg.po                                strings: total: 68	| 68t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./health.po-ui.master.bg.po                    strings: total: 233	| 232t	1f	0u	| 99.57081545064378%t	0.4291845493562232%f	0.0%u
-./Graphs.po-ui.main.bg.po                      strings: total: 370	| 367t	3f	0u	| 99.1891891891892%t	0.8108108108108109%f	0.0%u
+./health.po-ui.master.bg.po                    strings: total: 233	| 232t	1f	0u	| 99.57081545064378%t	0.4291845493562232%f0.0%u
+./Graphs.po-ui.main.bg.po                      strings: total: 370	| 367t	3f	0u	| 99.1891891891892%t	0.8108108108108109%f0.0%u
 ./warp.po-ui.main.bg.po                        strings: total: 177	| 177t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./polari.po-ui.main.bg.po                      strings: total: 200	| 200t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./elastic.po-ui.main.bg.po                     strings: total: 66	| 66t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./eartag-bg.po                                 strings: total: 177	| 177t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./fragments.po-ui.main.bg.po                   strings: total: 239	| 238t	1f	0u	| 99.581589958159%t	0.41841004184100417%f	0.0%u
+./fragments.po-ui.main.bg.po                   strings: total: 239	| 238t	1f	0u	| 99.581589958159%t	0.41841004184100417%f0.0%u
 ./boatswain.po-ui.main.bg.po                   strings: total: 142	| 140t	2f	0u	| 98.59154929577464%t	1.408450704225352%f	0.0%u
-./apostrophe.po-ui.main.bg.po                  strings: total: 227	| 225t	2f	0u	| 99.11894273127753%t	0.8810572687224669%f	0.0%u
+./apostrophe.po-ui.main.bg.po                  strings: total: 227	| 225t	2f	0u	| 99.11894273127753%t	0.8810572687224669%f0.0%u
 ./snapshot.po-ui.main.bg.po                    strings: total: 83	| 83t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./dosage-bg.po                                 strings: total: 137	| 137t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./mini-text-bg.po                              strings: total: 20	| 20t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -127,11 +127,11 @@
 ./shortwave.po-ui.main.bg.po                   strings: total: 122	| 122t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./solanum.po-ui.main.bg.po                     strings: total: 44	| 44t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./Graphs.help-doc.main.bg.po                   strings: total: 37	| 35t	2f	0u	| 94.5945945945946%t	5.405405405405405%f	0.0%u
-./polari.help-doc.main.bg.po                   strings: total: 68	| 67t	1f	0u	| 98.52941176470588%t	1.4705882352941178%f	0.0%u
-./deja-dup.po-ui.main.bg.po                    strings: total: 341	| 340t	1f	0u	| 99.70674486803519%t	0.2932551319648094%f	0.0%u
+./polari.help-doc.main.bg.po                   strings: total: 68	| 67t	1f	0u	| 98.52941176470588%t	1.4705882352941178%f0.0%u
+./deja-dup.po-ui.main.bg.po                    strings: total: 341	| 340t	1f	0u	| 99.70674486803519%t	0.2932551319648094%f0.0%u
 ./deja-dup.help-doc.main.bg.po                 strings: total: 119	| 119t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./apps-for-gnome.po-ui.main.bg.po              strings: total: 71	| 71t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./epiphany.help-doc.gnome-46.bg.po             strings: total: 178	| 176t	2f	0u	| 98.87640449438203%t	1.1235955056179776%f	0.0%u
+./epiphany.help-doc.gnome-46.bg.po             strings: total: 178	| 176t	2f	0u	| 98.87640449438203%t	1.1235955056179776%f0.0%u
 ./binary-bg.po                                 strings: total: 21	| 21t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./gnome-logs.po                                strings: total: 23	| 23t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./connections-gnome.po                         strings: total: 25	| 25t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -177,13 +177,14 @@
 ./libcall-ui.po-ui.main.bg.po                  strings: total: 8	| 8t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./squeekboard.po-ui.main.bg.po                 strings: total: 6	| 6t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./phosh.po-ui.main.bg.po                       strings: total: 205	| 205t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./phosh-mobile-settings.po-ui.main.bg.po       strings: total: 149	| 148t	1f	0u	| 99.32885906040268%t	0.6711409395973155%f	0.0%u
+./phosh-mobile-settings.po-ui.main.bg.po       strings: total: 149	| 148t	1f	0u	| 99.32885906040268%t	0.6711409395973155%f0.0%u
 ./chatty-bg.po                                 strings: total: 416	| 416t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./gnome-sudoku.po-ui.master.bg.po              strings: total: 142	| 142t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./Blurble.po-ui.main.bg.po                     strings: total: 29	| 28t	0f	1u	| 96.55172413793103%t	0.0%f	3.4482758620689653%u
 ./gnome-2048.po-ui.master.bg.po                strings: total: 69	| 69t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./gnome-firmware.po-ui.master.bg.po            strings: total: 238	| 234t	0f	4u	| 98.31932773109244%t	0.0%f	1.680672268907563%u
 ./clairvoyant-bg.po                            strings: total: 110	| 110t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./eyedropper-bg.po                             strings: total: 73	| 73t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

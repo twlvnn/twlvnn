@@ -3,12 +3,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   20767 ( 99%)     112656 ( 99%)          135827
++ Translated:   20900 ( 99%)     113106 ( 99%)          136382
 ! Fuzzy:           28 (  0%)        198 (  0%)             n/a
 - Untranslated:    34 (  0%)        255 (  0%)             n/a
-  Total:        20829            113109                 135827
+  Total:        20962            113559                 136382
 
-  File count:     128
+  File count:     129
 ```
 
 <details><summary>Натиснете тук, за да покажете статистиката на преводите на интерфейс</summary>
@@ -16,12 +16,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   16138 ( 99%)      60596 ( 99%)           83453
++ Translated:   16271 ( 99%)      61046 ( 99%)           84008
 ! Fuzzy:           23 (  0%)         94 (  0%)             n/a
 - Untranslated:    30 (  0%)        225 (  0%)             n/a
-  Total:        16191             60915                  83453
+  Total:        16324             61365                  84008
 
-  File count:      99
+  File count:     100
 ```
 
 </details>
@@ -187,8 +187,9 @@
 ./eyedropper-bg.po                             strings: total: 73	| 73t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./railway-bg.po                                strings: total: 165	| 165t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./caffeine-bg.po                               strings: total: 16	| 16t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./lock-bg.po                                   strings: total: 133	| 133t	0f	0u	| 100.0%t	0.0%f	0.0%u<
 ```
 
 </details>
 
-Преводите се правят в GitHub, GitLab, Weblate, Euphrase и Damned Lies (GNOME) с други сътрудници[.](https://youtu.be/Wr7Cct30Jr4?feature=shared) Статистиките са извлечени чрез `translate-toolkit` и включват само програмите, в които съм бил основен сътрудник[.](https://youtu.be/SEhGahCloAw?feature=shared) Използвам Gtranslator и `grep` за сканиране на терминология в po файлове, txt файл за запис на термините и Python скрипт за създаване на `poterminology` файл от ~5250 термини и фрази като преводна памет[.](https://youtu.be/djoovoI4BHg?feature=shared) С `pretranslate` автоматично превеждам повтарящи се фрази с паметния файл и бързо добавям нови преводи към обновени po файлове в изходния код. Отделно проверявам преводи използвайки `pofilter` с gnome шаблона.
+Преводите се правят в GitHub, GitLab, Weblate, Euphrase и Damned Lies (GNOME) с други сътрудници[.](https://youtu.be/Wr7Cct30Jr4?feature=shared) Статистиките са извлечени чрез `translate-toolkit` и включват само програмите, в които съм бил основен сътрудник[.](https://youtu.be/SEhGahCloAw?feature=shared) Използвам Gtranslator и `grep` за сканиране на терминология в po файлове, txt файл за запис на термините и Python скрипт за създаване на `poterminology` файл от ~5300 термини и фрази като преводна памет[.](https://youtu.be/djoovoI4BHg?feature=shared) С `pretranslate` автоматично превеждам повтарящи се фрази с паметния файл и бързо добавям нови преводи към обновени po файлове в изходния код. Отделно проверявам преводи използвайки `pofilter` с gnome шаблона.

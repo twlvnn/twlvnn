@@ -3,10 +3,10 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   21559 ( 99%)     115441 ( 99%)          138914
++ Translated:   21708 ( 99%)     116865 ( 99%)          140233
 ! Fuzzy:           28 (  0%)        198 (  0%)             n/a
-- Untranslated:    34 (  0%)        255 (  0%)             n/a
-  Total:        21621            115894                 138914
+- Untranslated:    31 (  0%)        252 (  0%)             n/a
+  Total:        21767            117315                 140233
 
   File count:     130
 ```
@@ -46,10 +46,10 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:    1606 ( 99%)      12396 ( 99%)           12859
++ Translated:    1719 ( 99%)      13486 ( 99%)           13898
 ! Fuzzy:            0 (  0%)          0 (  0%)             n/a
-- Untranslated:     4 (  0%)         30 (  0%)             n/a
-  Total:         1610             12426                  12859
+- Untranslated:     5 (  0%)         61 (  0%)             n/a
+  Total:         1724             13547                  13898
 
   File count:       5
 ```
@@ -135,7 +135,6 @@
 ./binary-bg.po                                 strings: total: 21	| 21t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./gnome-logs.po                                strings: total: 23	| 23t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./connections-gnome.po                         strings: total: 25	| 25t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./gnome-builder.po-ui.gnome-builder-46.bg.po   strings: total: 1412	| 1408t	0f	4u	| 99.71671388101983%t	0.0%f	0.28328611898017%u
 ./d-spy.po-ui.gnome-46.bg.po                   strings: total: 57	| 57t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./identity-master-po-bg-996856.merged.po       strings: total: 74	| 74t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./sysprof.po-ui.sysprof-46.bg.po               strings: total: 311	| 311t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -163,7 +162,6 @@
 ./gnome-system-monitor.help-doc.gnome-46.bg.po strings: total: 258	| 258t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./welcome-gnome-org.ui-ui.main.bg.po           strings: total: 268	| 268t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./extensions-web.po-ui.master.bg.po            strings: total: 131	| 131t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./damned-lies-master-po-bg.po                  strings: total: 897	| 895t	0f	2u	| 99.77703455964325%t	0.0%f	0.2229654403567447%u
 ./library-web.po-ui.master.bg.po               strings: total: 243	| 241t	0f	2u	| 99.17695473251028%t	0.0%f	0.823045267489712%u
 ./jhbuild.po-ui.master.bg.po                   strings: total: 372	| 372t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./valuta-bg.po                                 strings: total: 177	| 177t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -189,6 +187,8 @@
 ./caffeine-bg.po                               strings: total: 16	| 16t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./lock-bg.po                                   strings: total: 133	| 133t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./tuba-bg.po                                   strings: total: 659	| 659t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./gnome-builder.po-ui.gnome-builder-47.bg.po   strings: total: 1444	| 1444t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./damned-lies-master-po-bg.po                  strings: total: 1011	| 1008t	0f	3u	| 99.70326409495549%t	0.0%f	0.29673590504451036%u
 ```
 
 </details>

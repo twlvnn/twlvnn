@@ -3,12 +3,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   21708 ( 99%)     116865 ( 99%)          140233
++ Translated:   21746 ( 99%)     117035 ( 99%)          140432
 ! Fuzzy:           28 (  0%)        198 (  0%)             n/a
 - Untranslated:    31 (  0%)        252 (  0%)             n/a
-  Total:        21767            117315                 140233
+  Total:        21805            117485                 140432
 
-  File count:     130
+  File count:     131
 ```
 
 <details><summary>Натиснете тук, за да покажете статистиката на преводите на интерфейс</summary>
@@ -16,12 +16,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   16930 ( 99%)      63381 ( 99%)           86540
++ Translated:   17004 ( 99%)      63885 ( 99%)           87019
 ! Fuzzy:           23 (  0%)         94 (  0%)             n/a
-- Untranslated:    30 (  0%)        225 (  0%)             n/a
-  Total:        16983             63700                  86540
+- Untranslated:    26 (  0%)        191 (  0%)             n/a
+  Total:        17053             64170                  87019
 
-  File count:     101
+  File count:     102
 ```
 
 </details>
@@ -189,6 +189,7 @@
 ./tuba-bg.po                                   strings: total: 659	| 659t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./gnome-builder.po-ui.gnome-builder-47.bg.po   strings: total: 1444	| 1444t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./damned-lies-master-po-bg.po                  strings: total: 1011	| 1008t	0f	3u	| 99.70326409495549%t	0.0%f	0.29673590504451036%u
+./picker-bg.po                                 strings: total: 38	| 38t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

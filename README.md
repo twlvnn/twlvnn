@@ -1,4 +1,4 @@
-![](./yellow-stripes-2.png)
+![](./yellow-stripes-4.png)
 
 **Статистика на общо всички преводи**
 

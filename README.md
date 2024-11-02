@@ -5,12 +5,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   21746 ( 99%)     117035 ( 99%)          140432
++ Translated:   21826 ( 99%)     117448 ( 99%)          140932
 ! Fuzzy:           28 (  0%)        198 (  0%)             n/a
 - Untranslated:    31 (  0%)        252 (  0%)             n/a
-  Total:        21805            117485                 140432
+  Total:        21885            117898                 140932
 
-  File count:     131
+  File count:     133
 ```
 
 <details><summary>Натиснете тук, за да покажете статистиката на преводите на интерфейс</summary>
@@ -18,12 +18,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   17004 ( 99%)      63885 ( 99%)           87019
++ Translated:   17084 ( 99%)      64298 ( 99%)           87519
 ! Fuzzy:           23 (  0%)         94 (  0%)             n/a
 - Untranslated:    26 (  0%)        191 (  0%)             n/a
-  Total:        17053             64170                  87019
+  Total:        17133             64583                  87519
 
-  File count:     102
+  File count:     104
 ```
 
 </details>
@@ -192,6 +192,8 @@
 ./gnome-builder.po-ui.gnome-builder-47.bg.po   strings: total: 1444	| 1444t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./damned-lies-master-po-bg.po                  strings: total: 1011	| 1008t	0f	3u	| 99.70326409495549%t	0.0%f	0.29673590504451036%u
 ./picker-bg.po                                 strings: total: 38	| 38t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./evolution-activesync.po-ui.master.bg.po      strings: total: 59	| 59t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./evolution-etesync.po-ui.master.bg.po         strings: total: 21	| 21t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

@@ -5,12 +5,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   21826 ( 99%)     117448 ( 99%)          140932
++ Translated:   22052 ( 99%)     118487 ( 99%)          142210
 ! Fuzzy:           28 (  0%)        198 (  0%)             n/a
 - Untranslated:    31 (  0%)        252 (  0%)             n/a
-  Total:        21885            117898                 140932
+  Total:        22111            118937                 142210
 
-  File count:     133
+  File count:     134
 ```
 
 <details><summary>Натиснете тук, за да покажете статистиката на преводите на интерфейс</summary>
@@ -18,12 +18,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   17084 ( 99%)      64298 ( 99%)           87519
++ Translated:   17310 ( 99%)      65337 ( 99%)           88797
 ! Fuzzy:           23 (  0%)         94 (  0%)             n/a
 - Untranslated:    26 (  0%)        191 (  0%)             n/a
-  Total:        17133             64583                  87519
+  Total:        17359             65622                  88797
 
-  File count:     104
+  File count:     105
 ```
 
 </details>
@@ -194,6 +194,7 @@
 ./picker-bg.po                                 strings: total: 38	| 38t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./evolution-activesync.po-ui.master.bg.po      strings: total: 59	| 59t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./evolution-etesync.po-ui.master.bg.po         strings: total: 21	| 21t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./evolution-mapi.po-ui.master.bg.po            strings: total: 226	| 226t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

@@ -3,9 +3,9 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-  Translated:   22095 ( 99%)     118785 ( 99%)          142519
-  Fuzzy:           28 (  0%)        198 (  0%)             n/a
-  Untranslated:    31 (  0%)        252 (  0%)             n/a
++ Translated:   22095 ( 99%)     118785 ( 99%)          142519
+! Fuzzy:           28 (  0%)        198 (  0%)             n/a
+- Untranslated:    31 (  0%)        252 (  0%)             n/a
   Total:        22154            119235                 142519
 
   File count:     135

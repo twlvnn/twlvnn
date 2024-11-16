@@ -1,4 +1,4 @@
-**Статистика на общо всички преводи**
+**Статистика на общо всички GNOME преводи**
 
 ```diff
   Processing file : TOTAL:
@@ -194,6 +194,31 @@
 ./evolution-etesync.po-ui.master.bg.po         strings: total: 21	| 21t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./evolution-mapi.po-ui.master.bg.po            strings: total: 226	| 226t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./phosh-tour.po-ui.main.bg.po                  strings: total: 43	| 43t	0f	0u	| 100.0%t	0.0%f	0.0%u
+```
+
+</details>
+
+---
+
+<details><summary>Натиснете тук, за да покажете статистиката на преводите на проекти извън GNOME</summary>
+
+```diff
+  Processing file : TOTAL:
+  Type               Strings      Words (source)    Words (translation)
++ Translated:    1700 ( 40%)       4759 ( 18%)            4669
+! Fuzzy:            3 (  0%)          3 (  0%)             n/a
+- Untranslated:  2506 ( 59%)      20666 ( 81%)             n/a
+  Total:         4209             25428                   4669
+
+  File count:       1
+```
+
+</details>
+
+<details><summary>Натиснете тук, за да покажете преводите извън GNOME поотделно.</summary>
+  
+```bash
+../voices-of-the-void.po strings: total: 4209	| 1700t	3f	2506u	| 40.38964124495129%t	0.07127583749109052%f	59.539082917557614%u
 ```
 
 </details>

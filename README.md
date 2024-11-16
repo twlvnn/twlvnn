@@ -200,7 +200,7 @@
 
 ---
 
-<details><summary>Натиснете тук, за да покажете статистиката на преводите на проекти извън GNOME</summary>
+<details><summary>Натиснете тук, за да покажете статистиката на преводите извън GNOME</summary>
 
 ```diff
   Processing file : TOTAL:

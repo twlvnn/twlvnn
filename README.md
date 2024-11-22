@@ -205,10 +205,10 @@
 ```diff
   Processing file : TOTAL
   Type               Strings      Words (source)    Words (translation)
-+ Translated:    3460 ( 82%)      18592 ( 73%)           18703
-! Fuzzy:            8 (  0%)         16 (  0%)             n/a
-- Untranslated:   741 ( 17%)       6820 ( 26%)             n/a
-  Total:         4209             25428                  18703
++ Translated:    3728 ( 88%)      21467 ( 84%)           21688
+! Fuzzy:            1 (  0%)          7 (  0%)             n/a
+- Untranslated:   480 ( 11%)       3954 ( 15%)             n/a
+  Total:         4209             25428                  21688
 
   File count:       1
 ```
@@ -218,9 +218,9 @@
 <details><summary>Натиснете тук, за да покажете преводите извън GNOME поотделно.</summary>
   
 ```bash
-./voices-of-the-void.po strings: total: 4209	| 3460t	8f	741u	| 82.2047992397244%t	0.19006889997624138%f	17.60513186029936%u
+./voices-of-the-void.po strings: total: 4209	| 3728t	1f	480u	| 88.57210738892849%t	0.023758612497030172%f	11.404133998574483%u
 ```
 
 </details>
 
-Преводите се правят в GitHub, GitLab, Weblate, Euphrase и Damned Lies (GNOME) с други сътрудници[.](https://youtu.be/Wr7Cct30Jr4?feature=shared) Статистиките са извлечени чрез `translate-toolkit` и включват само програмите, в които съм бил основен сътрудник[.](https://youtu.be/SEhGahCloAw?feature=shared) Използвам Gtranslator и `grep` за сканиране на терминология в po файлове, txt файл за запис на термините и Python скрипт за създаване на `poterminology` файл от ~5900 термини и фрази като преводна памет[.](https://youtu.be/djoovoI4BHg?feature=shared) С `pretranslate` автоматично превеждам повтарящи се фрази с паметния файл и бързо добавям нови преводи към обновени po файлове в изходния код[.](https://www.youtube.com/watch?v=9XJIgs2r62g) Отделно проверявам преводи използвайки `pofilter` с gnome шаблона.
+Преводите се правят в GitHub, GitLab, Weblate, Euphrase и Damned Lies (GNOME) с други сътрудници[.](https://youtu.be/Wr7Cct30Jr4?feature=shared) Статистиките са извлечени чрез `translate-toolkit` и включват само програмите, в които съм бил основен сътрудник[.](https://youtu.be/SEhGahCloAw?feature=shared) Използвам Gtranslator и `grep` за сканиране на терминология в po файлове, txt файл за запис на термините и Python скрипт за създаване на `poterminology` файл от ~6000 термини и фрази като преводна памет[.](https://youtu.be/djoovoI4BHg?feature=shared) С `pretranslate` автоматично превеждам повтарящи се фрази с паметния файл и бързо добавям нови преводи към обновени po файлове в изходния код[.](https://www.youtube.com/watch?v=9XJIgs2r62g) Отделно проверявам преводи използвайки `pofilter` с gnome шаблона.

@@ -205,10 +205,10 @@
 ```diff
   Processing file : TOTAL
   Type               Strings      Words (source)    Words (translation)
-+ Translated:    4153 ( 98%)      25255 ( 99%)           25813
-! Fuzzy:            4 (  0%)         16 (  0%)             n/a
-- Untranslated:    52 (  1%)        157 (  0%)             n/a
-  Total:         4209             25428                  25813
++ Translated:    4193 ( 99%)      25375 ( 99%)           26127
+! Fuzzy:            0 (  0%)          0 (  0%)             n/a
+- Untranslated:    16 (  0%)         53 (  0%)             n/a
+  Total:         4209             25428                  26127
 
   File count:       1
 ```
@@ -218,7 +218,7 @@
 <details><summary>Натиснете тук, за да покажете преводите извън GNOME поотделно.</summary>
   
 ```bash
-./voices-of-the-void.po strings: total: 4209	| 4153t	4f	52u	| 98.66951770016631%t	0.09503444998812069%f	1.235447849845569%u
+./voices-of-the-void.po strings: total: 4209	| 4193t	0f	16u	| 99.61986220004752%t	0.0%f	0.38013779995248276%u
 ```
 
 </details>

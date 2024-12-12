@@ -3,12 +3,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   22591 ( 99%)     121221 ( 99%)          145491
-! Fuzzy:           28 (  0%)        198 (  0%)             n/a
-- Untranslated:    31 (  0%)        252 (  0%)             n/a
-  Total:        22650            121671                 145491
++ Translated:   22842 ( 95%)     122159 ( 95%)          146634
+! Fuzzy:           30 (  0%)        200 (  0%)             n/a
+- Untranslated:  1019 (  4%)       5660 (  4%)             n/a
+  Total:        23891            128019                 146634
 
-  File count:     137
+  File count:     138
 ```
 
 <details><summary>Натиснете тук, за да покажете статистиката на преводите на интерфейс.</summary>
@@ -16,12 +16,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   17849 ( 99%)      68071 ( 99%)           92078
-! Fuzzy:           23 (  0%)         94 (  0%)             n/a
-- Untranslated:    26 (  0%)        191 (  0%)             n/a
-  Total:        17898             68356                  92078
++ Translated:   18100 ( 94%)      69009 ( 92%)           93221
+! Fuzzy:           25 (  0%)         96 (  0%)             n/a
+- Untranslated:  1014 (  5%)       5599 (  7%)             n/a
+  Total:        19139             74704                  93221
 
-  File count:     108
+  File count:     109
 ```
 
 </details>
@@ -195,7 +195,8 @@
 ./evolution-mapi.po-ui.master.bg.po            strings: total: 226	| 226t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./phosh-tour.po-ui.main.bg.po                  strings: total: 43	| 43t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./evolution-ews.po-ui.master.bg.po             strings: total: 369	| 369t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./g4music.po                                   strings: total: 127	| 127t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./g4music.po-ui.master.bg.po                   strings: total: 127	| 127t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./flatpak.po-ui.main.bg.po                     strings: total: 1241	| 251t	2f	988u	| 20.225624496373893%t	0.16116035455278002%f	79.61321514907333%u
 ```
 
 </details>

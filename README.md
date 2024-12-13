@@ -58,7 +58,8 @@
 
 <details><summary>Натиснете тук, за да покажете преводите поотделно.</summary>
   
-```bash./gnome-builder.po-ui.gnome-builder-47.bg.po   strings: total: 1444	| 1444t	0f	0u	| 100.0%t	0.0%f	0.0%u
+```bash
+./gnome-builder.po-ui.gnome-builder-47.bg.po   strings: total: 1444	| 1444t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./flatpak.po-ui.main.bg.po                     strings: total: 1241	| 381t	2f	858u	| 30.701047542304593%t	0.16116035455278002%f	69.13779210314263%u
 ./damned-lies-master-po-bg.po                  strings: total: 1011	| 1008t	0f	3u	| 99.70326409495549%t	0.0%f	0.29673590504451036%u
 ./fractal-main-po-bg.po                        strings: total: 980	| 979t	0f	1u	| 99.89795918367346%t	0.0%f	0.10204081632653061%u

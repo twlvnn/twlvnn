@@ -3,10 +3,10 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   22842 ( 95%)     122159 ( 95%)          146634
++ Translated:   22972 ( 96%)     122533 ( 95%)          147053
 ! Fuzzy:           30 (  0%)        200 (  0%)             n/a
-- Untranslated:  1019 (  4%)       5660 (  4%)             n/a
-  Total:        23891            128019                 146634
+- Untranslated:   889 (  3%)       5286 (  4%)             n/a
+  Total:        23891            128019                 147053
 
   File count:     138
 ```
@@ -16,10 +16,10 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   18100 ( 94%)      69009 ( 92%)           93221
++ Translated:   18230 ( 95%)      69383 ( 92%)           93640
 ! Fuzzy:           25 (  0%)         96 (  0%)             n/a
-- Untranslated:  1014 (  5%)       5599 (  7%)             n/a
-  Total:        19139             74704                  93221
+- Untranslated:   884 (  4%)       5225 (  6%)             n/a
+  Total:        19139             74704                  93640
 
   File count:     109
 ```
@@ -196,7 +196,7 @@
 ./phosh-tour.po-ui.main.bg.po                  strings: total: 43	| 43t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./evolution-ews.po-ui.master.bg.po             strings: total: 369	| 369t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./g4music.po-ui.master.bg.po                   strings: total: 127	| 127t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./flatpak.po-ui.main.bg.po                     strings: total: 1241	| 251t	2f	988u	| 20.225624496373893%t	0.16116035455278002%f	79.61321514907333%u
+./flatpak.po-ui.main.bg.po                     strings: total: 1241	| 381t	2f	858u	| 30.701047542304593%t	0.16116035455278002%f	69.13779210314263%u
 ```
 
 </details>

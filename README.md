@@ -3,12 +3,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   21397 ( 95%)     121246 ( 95%)          135798
++ Translated:   21424 ( 95%)     121485 ( 95%)          136062
 ! Fuzzy:           30 (  0%)        200 (  0%)             n/a
 - Untranslated:   889 (  3%)       5286 (  4%)             n/a
-  Total:        22316            126732                 135798
+  Total:        22343            126971                 136062
 
-  File count:     141
+  File count:     142
 ```
 
 <details><summary>Натиснете тук, за да покажете статистиката на преводите на интерфейс.</summary>
@@ -16,12 +16,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   16655 ( 94%)      68096 ( 92%)           82385
++ Translated:   16682 ( 94%)      68335 ( 92%)           82649
 ! Fuzzy:           25 (  0%)         96 (  0%)             n/a
 - Untranslated:   884 (  5%)       5225 (  7%)             n/a
-  Total:        17564             73417                  82385
+  Total:        17591             73656                  82649
 
-  File count:     112
+  File count:     113
 ```
 
 </details>
@@ -58,8 +58,7 @@
 
 <details><summary>Натиснете тук, за да покажете преводите поотделно.</summary>
   
-```bash
-./gnome-builder.po-ui.gnome-builder-47.bg.po   strings: total: 1444	| 1444t	0f	0u	| 100.0%t	0.0%f	0.0%u
+```bash./gnome-builder.po-ui.gnome-builder-47.bg.po   strings: total: 1444	| 1444t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./flatpak.po-ui.main.bg.po                     strings: total: 1241	| 381t	2f	858u	| 30.701047542304593%t	0.16116035455278002%f	69.13779210314263%u
 ./damned-lies-master-po-bg.po                  strings: total: 1011	| 1008t	0f	3u	| 99.70326409495549%t	0.0%f	0.29673590504451036%u
 ./fractal-main-po-bg.po                        strings: total: 980	| 979t	0f	1u	| 99.89795918367346%t	0.0%f	0.10204081632653061%u
@@ -179,6 +178,7 @@
 ./contrast.po-ui.master.bg.po                  strings: total: 31	| 31t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./Blurble.po-ui.main.bg.po                     strings: total: 29	| 28t	0f	1u	| 96.55172413793103%t	0.0%f	3.4482758620689653%u
 ./metadata-cleaner-help-bg.po                  strings: total: 28	| 28t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./polkit.po-ui.main.bg.po                      strings: total: 27	| 27t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./breathing-bg.po                              strings: total: 26	| 26t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./connections-gnome.po                         strings: total: 25	| 25t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./lorem-master-po-bg.po                        strings: total: 24	| 24t	0f	0u	| 100.0%t	0.0%f	0.0%u

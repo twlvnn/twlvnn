@@ -3,12 +3,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   22972 ( 96%)     122533 ( 95%)          147053
++ Translated:   22997 ( 96%)     122635 ( 95%)          147171
 ! Fuzzy:           30 (  0%)        200 (  0%)             n/a
 - Untranslated:   889 (  3%)       5286 (  4%)             n/a
-  Total:        23891            128019                 147053
+  Total:        23916            128121                 147171
 
-  File count:     138
+  File count:     141
 ```
 
 <details><summary>Натиснете тук, за да покажете статистиката на преводите на интерфейс.</summary>
@@ -16,12 +16,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   18230 ( 95%)      69383 ( 92%)           93640
++ Translated:   18255 ( 95%)      69485 ( 92%)           93758
 ! Fuzzy:           25 (  0%)         96 (  0%)             n/a
 - Untranslated:   884 (  4%)       5225 (  6%)             n/a
-  Total:        19139             74704                  93640
+  Total:        19164             74806                  93758
 
-  File count:     109
+  File count:     112
 ```
 
 </details>
@@ -197,6 +197,9 @@
 ./evolution-ews.po-ui.master.bg.po             strings: total: 369	| 369t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./g4music.po-ui.master.bg.po                   strings: total: 127	| 127t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./flatpak.po-ui.main.bg.po                     strings: total: 1241	| 381t	2f	858u	| 30.701047542304593%t	0.16116035455278002%f	69.13779210314263%u
+./plymouth.po-ui.main.bg.po                    strings: total: 7	| 7t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./accountsservice.po-ui.main.bg.po             strings: total: 12	| 12t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./WirePlumber.po-ui.master.bg.po               strings: total: 6	| 6t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

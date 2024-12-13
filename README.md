@@ -3,12 +3,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   21329 ( 95%)     120853 ( 95%)          135365
++ Translated:   21397 ( 95%)     121246 ( 95%)          135798
 ! Fuzzy:           30 (  0%)        200 (  0%)             n/a
 - Untranslated:   889 (  3%)       5286 (  4%)             n/a
-  Total:        22248            126339                 135365
+  Total:        22316            126732                 135798
 
-  File count:     140
+  File count:     141
 ```
 
 <details><summary>Натиснете тук, за да покажете статистиката на преводите на интерфейс.</summary>
@@ -16,12 +16,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   16633 ( 94%)      67947 ( 92%)           82225
++ Translated:   16655 ( 94%)      68096 ( 92%)           82385
 ! Fuzzy:           25 (  0%)         96 (  0%)             n/a
 - Untranslated:   884 (  5%)       5225 (  7%)             n/a
-  Total:        17542             73268                  82225
+  Total:        17564             73417                  82385
 
-  File count:     111
+  File count:     112
 ```
 
 </details>
@@ -184,6 +184,7 @@
 ./lorem-master-po-bg.po                        strings: total: 24	| 24t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./gnome-logs.po                                strings: total: 23	| 23t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./color-code-bg.po                             strings: total: 22	| 22t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./cups-pk-helper.po-ui.master.bg.po            strings: total: 22	| 22t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./hashes-bg.po                                 strings: total: 22	| 22t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./hieroglyphic-bg.po                           strings: total: 22	| 22t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./binary-bg.po                                 strings: total: 21	| 21t	0f	0u	| 100.0%t	0.0%f	0.0%u

@@ -3,12 +3,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   22997 ( 96%)     122635 ( 95%)          147171
++ Translated:   21329 ( 95%)     120853 ( 95%)          135365
 ! Fuzzy:           30 (  0%)        200 (  0%)             n/a
 - Untranslated:   889 (  3%)       5286 (  4%)             n/a
-  Total:        23916            128121                 147171
+  Total:        22248            126339                 135365
 
-  File count:     141
+  File count:     140
 ```
 
 <details><summary>Натиснете тук, за да покажете статистиката на преводите на интерфейс.</summary>
@@ -16,12 +16,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   18255 ( 95%)      69485 ( 92%)           93758
++ Translated:   16587 ( 94%)      67703 ( 92%)           81952
 ! Fuzzy:           25 (  0%)         96 (  0%)             n/a
-- Untranslated:   884 (  4%)       5225 (  6%)             n/a
-  Total:        19164             74806                  93758
+- Untranslated:   884 (  5%)       5225 (  7%)             n/a
+  Total:        17496             73024                  81952
 
-  File count:     112
+  File count:     111
 ```
 
 </details>
@@ -59,7 +59,6 @@
 <details><summary>Натиснете тук, за да покажете преводите поотделно.</summary>
   
 ```bash
-./tutanota-editor-bg.po                        strings: total: 1668	| 1668t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./gnome-builder.po-ui.gnome-builder-47.bg.po   strings: total: 1444	| 1444t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./flatpak.po-ui.main.bg.po                     strings: total: 1241	| 381t	2f	858u	| 30.701047542304593%t	0.16116035455278002%f	69.13779210314263%u
 ./damned-lies-master-po-bg.po                  strings: total: 1011	| 1008t	0f	3u	| 99.70326409495549%t	0.0%f	0.29673590504451036%u
@@ -211,12 +210,12 @@
 ```diff
   Processing file : TOTAL
   Type               Strings      Words (source)    Words (translation)
-+ Translated:    4209 (100%)      25428 (100%)           26179
++ Translated:    5877 (100%)      27210 (100%)           37989
 ! Fuzzy:            0 (  0%)          0 (  0%)             n/a
 - Untranslated:     0 (  0%)          0 (  0%)             n/a
-  Total:         4209             25428                  26179
+  Total:         5877             27210                  37989
 
-  File count:       1
+  File count:       2
 ```
 
 </details>
@@ -225,6 +224,7 @@
   
 ```bash
 ./voices-of-the-void.po strings: total: 4209	| 4209t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./tutanota-editor-bg.po strings: total: 1668	| 1668t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

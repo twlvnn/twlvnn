@@ -133,6 +133,7 @@
 ./keypunch-bg.po                               strings: total: 79	| 79t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./loupe.help-doc.gnome-46.bg.po                strings: total: 78	| 78t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./upscaler.po                                  strings: total: 78	| 78t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./netsleuth.po                                 strings: total: 76	| 76t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./geopard-bg.po                                strings: total: 75	| 75t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./identity-master-po-bg-996856.merged.po       strings: total: 74	| 74t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./eyedropper-bg.po                             strings: total: 73	| 73t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -198,7 +199,6 @@
 ./plymouth.po-ui.main.bg.po                    strings: total: 7	| 7t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./squeekboard.po-ui.main.bg.po                 strings: total: 6	| 6t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./WirePlumber.po-ui.master.bg.po               strings: total: 6	| 6t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./netsleuth.po                                 strings: total: 76	| 76t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

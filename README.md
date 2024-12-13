@@ -16,10 +16,10 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   16587 ( 94%)      67703 ( 92%)           81952
++ Translated:   16633 ( 94%)      67947 ( 92%)           82225
 ! Fuzzy:           25 (  0%)         96 (  0%)             n/a
 - Untranslated:   884 (  5%)       5225 (  7%)             n/a
-  Total:        17496             73024                  81952
+  Total:        17542             73268                  82225
 
   File count:     111
 ```
@@ -176,7 +176,6 @@
 ./progress-tracker-bg.po                       strings: total: 34	| 34t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./whisper-bg.po                                strings: total: 34	| 34t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./contrast.po-ui.master.bg.po                  strings: total: 31	| 31t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./netsleuth-bg.po                              strings: total: 30	| 30t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./Blurble.po-ui.main.bg.po                     strings: total: 29	| 28t	0f	1u	| 96.55172413793103%t	0.0%f	3.4482758620689653%u
 ./metadata-cleaner-help-bg.po                  strings: total: 28	| 28t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./breathing-bg.po                              strings: total: 26	| 26t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -199,6 +198,7 @@
 ./plymouth.po-ui.main.bg.po                    strings: total: 7	| 7t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./squeekboard.po-ui.main.bg.po                 strings: total: 6	| 6t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./WirePlumber.po-ui.master.bg.po               strings: total: 6	| 6t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./netsleuth.po                                 strings: total: 76	| 76t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

@@ -3,12 +3,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   21544 ( 96%)     121859 ( 95%)          136521
++ Translated:   21578 ( 96%)     121969 ( 95%)          136643
 ! Fuzzy:           30 (  0%)        200 (  0%)             n/a
 - Untranslated:   769 (  3%)       4912 (  3%)             n/a
-  Total:        22343            126971                 136521
+  Total:        22377            127081                 136643
 
-  File count:     142
+  File count:     143
 ```
 
 <details><summary>Натиснете тук, за да покажете статистиката на преводите на интерфейс.</summary>
@@ -16,12 +16,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   16802 ( 95%)      68709 ( 93%)           83108
++ Translated:   16836 ( 95%)      68819 ( 93%)           83230
 ! Fuzzy:           25 (  0%)         96 (  0%)             n/a
 - Untranslated:   764 (  4%)       4851 (  6%)             n/a
-  Total:        17591             73656                  83108
+  Total:        17625             73766                  83230
 
-  File count:     113
+  File count:     114
 ```
 
 </details>
@@ -176,6 +176,7 @@
 ./raider-bg.po                                 strings: total: 35	| 35t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./progress-tracker-bg.po                       strings: total: 34	| 34t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./whisper-bg.po                                strings: total: 34	| 34t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./xdg-desktop-portal-gtk.po-ui.main.bg.po      strings: total: 34	| 34t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./contrast.po-ui.master.bg.po                  strings: total: 31	| 31t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./Blurble.po-ui.main.bg.po                     strings: total: 29	| 28t	0f	1u	| 96.55172413793103%t	0.0%f	3.4482758620689653%u
 ./metadata-cleaner-help-bg.po                  strings: total: 28	| 28t	0f	0u	| 100.0%t	0.0%f	0.0%u

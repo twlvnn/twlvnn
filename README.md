@@ -3,10 +3,10 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   21578 ( 96%)     121969 ( 95%)          136643
++ Translated:   21624 ( 96%)     122191 ( 96%)          136915
 ! Fuzzy:           30 (  0%)        200 (  0%)             n/a
-- Untranslated:   769 (  3%)       4912 (  3%)             n/a
-  Total:        22377            127081                 136643
+- Untranslated:   723 (  3%)       4690 (  3%)             n/a
+  Total:        22377            127081                 136915
 
   File count:     143
 ```
@@ -16,10 +16,10 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   16836 ( 95%)      68819 ( 93%)           83230
++ Translated:   16882 ( 95%)      69041 ( 93%)           83502
 ! Fuzzy:           25 (  0%)         96 (  0%)             n/a
-- Untranslated:   764 (  4%)       4851 (  6%)             n/a
-  Total:        17625             73766                  83230
+- Untranslated:   718 (  4%)       4629 (  6%)             n/a
+  Total:        17625             73766                  83502
 
   File count:     114
 ```
@@ -60,7 +60,7 @@
   
 ```bash
 ./gnome-builder.po-ui.gnome-builder-47.bg.po   strings: total: 1444	| 1444t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./flatpak.po-ui.main.bg.po                     strings: total: 1241	| 501t	2f	738u	| 40.3706688154714%t	0.16116035455278002%f	59.468170829975826%u
+./flatpak.po-ui.main.bg.po                     strings: total: 1241	| 547t	2f	692u	| 44.077356970185335%t	0.16116035455278002%f	55.76148267526189%u
 ./damned-lies-master-po-bg.po                  strings: total: 1011	| 1008t	0f	3u	| 99.70326409495549%t	0.0%f	0.29673590504451036%u
 ./fractal-main-po-bg.po                        strings: total: 980	| 979t	0f	1u	| 99.89795918367346%t	0.0%f	0.10204081632653061%u
 ./tuba-bg.po                                   strings: total: 659	| 659t	0f	0u	| 100.0%t	0.0%f	0.0%u

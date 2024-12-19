@@ -3,10 +3,10 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   21624 ( 96%)     122191 ( 96%)          136915
++ Translated:   21719 ( 96%)     122435 ( 96%)          137212
 ! Fuzzy:           30 (  0%)        200 (  0%)             n/a
 - Untranslated:   723 (  3%)       4690 (  3%)             n/a
-  Total:        22377            127081                 136915
+  Total:        22472            127325                 137212
 
   File count:     143
 ```
@@ -16,10 +16,10 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   16882 ( 95%)      69041 ( 93%)           83502
++ Translated:   16977 ( 95%)      69285 ( 93%)           83799
 ! Fuzzy:           25 (  0%)         96 (  0%)             n/a
 - Untranslated:   718 (  4%)       4629 (  6%)             n/a
-  Total:        17625             73766                  83502
+  Total:        17720             74010                  83799
 
   File count:     114
 ```
@@ -63,7 +63,7 @@
 ./flatpak.po-ui.main.bg.po                     strings: total: 1241	| 547t	2f	692u	| 44.077356970185335%t	0.16116035455278002%f	55.76148267526189%u
 ./damned-lies-master-po-bg.po                  strings: total: 1011	| 1008t	0f	3u	| 99.70326409495549%t	0.0%f	0.29673590504451036%u
 ./fractal-main-po-bg.po                        strings: total: 980	| 979t	0f	1u	| 99.89795918367346%t	0.0%f	0.10204081632653061%u
-./tuba-bg.po                                   strings: total: 659	| 659t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./tuba-bg.po                                   strings: total: 754	| 754t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./papers-main-help-bg.po                       strings: total: 635	| 635t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./pika-backup.po-ui.main.bg-pretranslated.po   strings: total: 560	| 558t	2f	0u	| 99.64285714285714%t	0.35714285714285715%f	0.0%u
 ./planify-bg.po                                strings: total: 512	| 482t	10f	20u	| 94.140625%t	1.953125%f	3.90625%u

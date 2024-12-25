@@ -3,10 +3,10 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   21719 ( 96%)     122435 ( 96%)          137212
-! Fuzzy:           30 (  0%)        200 (  0%)             n/a
-- Untranslated:   723 (  3%)       4690 (  3%)             n/a
-  Total:        22472            127325                 137212
++ Translated:   21895 ( 97%)     123271 ( 96%)          138221
+! Fuzzy:           28 (  0%)        198 (  0%)             n/a
+- Untranslated:   564 (  2%)       3903 (  3%)             n/a
+  Total:        22487            127372                 138221
 
   File count:     143
 ```
@@ -16,10 +16,10 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   16977 ( 95%)      69285 ( 93%)           83799
-! Fuzzy:           25 (  0%)         96 (  0%)             n/a
-- Untranslated:   718 (  4%)       4629 (  6%)             n/a
-  Total:        17720             74010                  83799
++ Translated:   17153 ( 96%)      70121 ( 94%)           84808
+! Fuzzy:           23 (  0%)         94 (  0%)             n/a
+- Untranslated:   559 (  3%)       3842 (  5%)             n/a
+  Total:        17735             74057                  84808
 
   File count:     114
 ```
@@ -60,7 +60,7 @@
   
 ```bash
 ./gnome-builder.po-ui.gnome-builder-47.bg.po   strings: total: 1444	| 1444t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./flatpak.po-ui.main.bg.po                     strings: total: 1241	| 547t	2f	692u	| 44.077356970185335%t	0.16116035455278002%f	55.76148267526189%u
+./flatpak.po-ui.main.bg.po                     strings: total: 1241	| 708t	0f	533u	| 57.050765511684126%t	0.0%f	42.949234488315874%u
 ./damned-lies-master-po-bg.po                  strings: total: 1011	| 1008t	0f	3u	| 99.70326409495549%t	0.0%f	0.29673590504451036%u
 ./fractal-main-po-bg.po                        strings: total: 980	| 979t	0f	1u	| 99.89795918367346%t	0.0%f	0.10204081632653061%u
 ./tuba-bg.po                                   strings: total: 754	| 754t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -119,13 +119,13 @@
 ./dialect-dialect-bg.po                        strings: total: 110	| 110t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./ascii-draw-bg.po                             strings: total: 109	| 109t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./pika-backup.help-doc.main.bg.po              strings: total: 107	| 107t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./varia-bg.po                                  strings: total: 101	| 101t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./kooha-bg.po                                  strings: total: 96	| 96t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./amberol-main-po-bg.po                        strings: total: 95	| 95t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./curtail-bg.po                                strings: total: 89	| 89t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./exercise-timer-bg.po                         strings: total: 89	| 89t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./gnome-clocks.help-doc.gnome-46.bg.po         strings: total: 86	| 86t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./paper-clip-bg.po                             strings: total: 86	| 86t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./varia-bg.po                                  strings: total: 86	| 86t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./blanket-blanket-bg.po                        strings: total: 83	| 83t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./snapshot.po-ui.main.bg.po                    strings: total: 83	| 83t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./switcheroo-bg.po                             strings: total: 83	| 83t	0f	0u	| 100.0%t	0.0%f	0.0%u

@@ -213,10 +213,10 @@
 ```diff
   Processing file : TOTAL
   Type               Strings      Words (source)    Words (translation)
-+ Translated:    5877 (100%)      27210 (100%)           37989
++ Translated:    5954 (100%)      28768 (100%)           39506
 ! Fuzzy:            0 (  0%)          0 (  0%)             n/a
 - Untranslated:     0 (  0%)          0 (  0%)             n/a
-  Total:         5877             27210                  37989
+  Total:         5954             28768                  39506
 
   File count:       2
 ```
@@ -226,7 +226,7 @@
 <details><summary>Натиснете тук, за да покажете преводите извън GNOME поотделно.</summary>
   
 ```bash
-./voices-of-the-void.po strings: total: 4209	| 4209t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./voices-of-the-void.po strings: total: 4286	| 4286t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./tutanota-editor-bg.po strings: total: 1668	| 1668t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 

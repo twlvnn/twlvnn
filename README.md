@@ -3,10 +3,10 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   21895 ( 97%)     123271 ( 96%)          138221
++ Translated:   21911 ( 97%)     123025 ( 96%)          137961
 ! Fuzzy:           28 (  0%)        198 (  0%)             n/a
 - Untranslated:   564 (  2%)       3903 (  3%)             n/a
-  Total:        22487            127372                 138221
+  Total:        22503            127126                 137961
 
   File count:     143
 ```
@@ -16,10 +16,10 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   17153 ( 96%)      70121 ( 94%)           84808
++ Translated:   17169 ( 96%)      69875 ( 94%)           84548
 ! Fuzzy:           23 (  0%)         94 (  0%)             n/a
 - Untranslated:   559 (  3%)       3842 (  5%)             n/a
-  Total:        17735             74057                  84808
+  Total:        17751             73811                  84548
 
   File count:     114
 ```
@@ -67,8 +67,8 @@
 ./papers-main-help-bg.po                       strings: total: 635	| 635t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./pika-backup.po-ui.main.bg-pretranslated.po   strings: total: 560	| 558t	2f	0u	| 99.64285714285714%t	0.35714285714285715%f	0.0%u
 ./planify-bg.po                                strings: total: 512	| 482t	10f	20u	| 94.140625%t	1.953125%f	3.90625%u
+./komikku-main-bg.po                           strings: total: 434	| 434t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./chatty-bg.po                                 strings: total: 416	| 416t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./komikku-main-bg.po                           strings: total: 407	| 407t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./papers.po-ui.main.bg.po                      strings: total: 404	| 404t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./jhbuild.po-ui.master.bg.po                   strings: total: 372	| 372t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./Graphs.po-ui.main.bg.po                      strings: total: 370	| 367t	3f	0u	| 99.1891891891892%t	0.8108108108108109%f	0.0%u
@@ -81,8 +81,8 @@
 ./gtranslator.po-ui.master.bg.po               strings: total: 271	| 271t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./welcome-gnome-org.ui-ui.main.bg.po           strings: total: 268	| 268t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./gnome-calculator.help-doc.gnome-46.bg.po     strings: total: 267	| 267t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./nickvision-tube-converter-app-bg.po          strings: total: 266	| 266t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./gnome-system-monitor.help-doc.gnome-46.bg.po strings: total: 258	| 258t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./nickvision-tube-converter-app-bg.po          strings: total: 255	| 255t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./library-web.po-ui.master.bg.po               strings: total: 243	| 241t	0f	2u	| 99.17695473251028%t	0.0%f	0.823045267489712%u
 ./fragments.po-ui.main.bg.po                   strings: total: 239	| 238t	1f	0u	| 99.581589958159%t	0.41841004184100417%f	0.0%u
 ./gnome-firmware.po-ui.master.bg.po            strings: total: 238	| 234t	0f	4u	| 98.31932773109244%t	0.0%f	1.680672268907563%u

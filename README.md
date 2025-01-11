@@ -3,10 +3,10 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   22072 ( 98%)     124003 ( 97%)          139185
++ Translated:   22082 ( 98%)     124079 ( 97%)          139259
 ! Fuzzy:           28 (  0%)        198 (  0%)             n/a
 - Untranslated:   403 (  1%)       2925 (  2%)             n/a
-  Total:        22503            127126                 139185
+  Total:        22513            127202                 139259
 
   File count:     143
 ```
@@ -16,10 +16,10 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   17330 ( 97%)      70853 ( 95%)           85772
++ Translated:   17340 ( 97%)      70929 ( 95%)           85846
 ! Fuzzy:           23 (  0%)         94 (  0%)             n/a
 - Untranslated:   398 (  2%)       2864 (  3%)             n/a
-  Total:        17751             73811                  85772
+  Total:        17761             73887                  85846
 
   File count:     114
 ```
@@ -120,9 +120,9 @@
 ./ascii-draw-bg.po                             strings: total: 109	| 109t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./pika-backup.help-doc.main.bg.po              strings: total: 107	| 107t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./varia-bg.po                                  strings: total: 101	| 101t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./curtail-bg.po                                strings: total: 99	| 99t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./kooha-bg.po                                  strings: total: 96	| 96t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./amberol-main-po-bg.po                        strings: total: 95	| 95t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./curtail-bg.po                                strings: total: 89	| 89t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./exercise-timer-bg.po                         strings: total: 89	| 89t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./gnome-clocks.help-doc.gnome-46.bg.po         strings: total: 86	| 86t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./paper-clip-bg.po                             strings: total: 86	| 86t	0f	0u	| 100.0%t	0.0%f	0.0%u

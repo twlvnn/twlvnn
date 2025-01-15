@@ -3,10 +3,10 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   22082 ( 98%)     124079 ( 97%)          139259
++ Translated:   22148 ( 98%)     124571 ( 97%)          139868
 ! Fuzzy:           28 (  0%)        198 (  0%)             n/a
-- Untranslated:   403 (  1%)       2925 (  2%)             n/a
-  Total:        22513            127202                 139259
+- Untranslated:   400 (  1%)       2875 (  2%)             n/a
+  Total:        22576            127644                 139868
 
   File count:     143
 ```
@@ -16,10 +16,10 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   17340 ( 97%)      70929 ( 95%)           85846
++ Translated:   17380 ( 97%)      71072 ( 96%)           86037
 ! Fuzzy:           23 (  0%)         94 (  0%)             n/a
 - Untranslated:   398 (  2%)       2864 (  3%)             n/a
-  Total:        17761             73887                  85846
+  Total:        17801             74030                  86037
 
   File count:     114
 ```
@@ -61,7 +61,7 @@
 ```bash
 ./gnome-builder.po-ui.gnome-builder-47.bg.po   strings: total: 1444	| 1444t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./flatpak.po-ui.main.bg.po                     strings: total: 1241	| 869t	0f	372u	| 70.02417405318292%t	0.0%f	29.975825946817082%u
-./damned-lies-master-po-bg.po                  strings: total: 1011	| 1008t	0f	3u	| 99.70326409495549%t	0.0%f	0.29673590504451036%u
+./damned-lies-master-po-bg.po                  strings: total: 1034	| 1034t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./fractal-main-po-bg.po                        strings: total: 980	| 979t	0f	1u	| 99.89795918367346%t	0.0%f	0.10204081632653061%u
 ./tuba-bg.po                                   strings: total: 754	| 754t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./papers-main-help-bg.po                       strings: total: 635	| 635t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -98,6 +98,7 @@
 ./warp.po-ui.main.bg.po                        strings: total: 177	| 177t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./railway-bg.po                                strings: total: 165	| 165t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./gnome-software.help-doc.main.bg.po           strings: total: 163	| 163t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./shortwave-main-po-bg.po                      strings: total: 162	| 162t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./ticket-booth-ticket-booth-bg.po              strings: total: 156	| 156t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./totem.help-doc.master.bg.po                  strings: total: 156	| 156t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./citations-master-po-bg.po                    strings: total: 151	| 151t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -112,7 +113,6 @@
 ./extensions-web.po-ui.master.bg.po            strings: total: 131	| 131t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./podcasts-main-po-bg.po                       strings: total: 131	| 131t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./g4music.po-ui.master.bg.po                   strings: total: 127	| 127t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./shortwave.po-ui.main.bg.po                   strings: total: 122	| 122t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./deja-dup.help-doc.main.bg.po                 strings: total: 119	| 119t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./simple-scan.help-doc.master.bg.po            strings: total: 111	| 111t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./clairvoyant-bg.po                            strings: total: 110	| 110t	0f	0u	| 100.0%t	0.0%f	0.0%u

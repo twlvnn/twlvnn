@@ -3,10 +3,10 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   22148 ( 98%)     124571 ( 97%)          139868
-! Fuzzy:           28 (  0%)        198 (  0%)             n/a
-- Untranslated:   400 (  1%)       2875 (  2%)             n/a
-  Total:        22576            127644                 139868
++ Translated:   22438 ( 99%)     126572 ( 99%)          142314
+! Fuzzy:           34 (  0%)        220 (  0%)             n/a
+- Untranslated:   104 (  0%)        852 (  0%)             n/a
+  Total:        22576            127644                 142314
 
   File count:     143
 ```
@@ -16,10 +16,10 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   17380 ( 97%)      71072 ( 96%)           86037
-! Fuzzy:           23 (  0%)         94 (  0%)             n/a
-- Untranslated:   398 (  2%)       2864 (  3%)             n/a
-  Total:        17801             74030                  86037
++ Translated:   17670 ( 99%)      73073 ( 98%)           88483
+! Fuzzy:           29 (  0%)        116 (  0%)             n/a
+- Untranslated:   102 (  0%)        841 (  1%)             n/a
+  Total:        17801             74030                  88483
 
   File count:     114
 ```
@@ -60,7 +60,7 @@
   
 ```bash
 ./gnome-builder.po-ui.gnome-builder-47.bg.po   strings: total: 1444	| 1444t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./flatpak.po-ui.main.bg.po                     strings: total: 1241	| 869t	0f	372u	| 70.02417405318292%t	0.0%f	29.975825946817082%u
+./flatpak.po-ui.main.bg.po                     strings: total: 1241	| 1159t	6f	76u	| 93.39242546333602%t	0.48348106365834004%f	6.12409347300564%u
 ./damned-lies-master-po-bg.po                  strings: total: 1034	| 1034t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./fractal-main-po-bg.po                        strings: total: 980	| 979t	0f	1u	| 99.89795918367346%t	0.0%f	0.10204081632653061%u
 ./tuba-bg.po                                   strings: total: 754	| 754t	0f	0u	| 100.0%t	0.0%f	0.0%u

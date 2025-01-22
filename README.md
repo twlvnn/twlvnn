@@ -3,10 +3,10 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   22438 ( 99%)     126572 ( 99%)          142314
-! Fuzzy:           34 (  0%)        220 (  0%)             n/a
-- Untranslated:   104 (  0%)        852 (  0%)             n/a
-  Total:        22576            127644                 142314
+  Translated:   22505 ( 99%)     127160 ( 99%)          143043
+! Fuzzy:           38 (  0%)        248 (  0%)             n/a
+- Untranslated:    33 (  0%)        236 (  0%)             n/a
+  Total:        22576            127644                 143043
 
   File count:     143
 ```
@@ -16,10 +16,10 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   17670 ( 99%)      73073 ( 98%)           88483
-! Fuzzy:           29 (  0%)        116 (  0%)             n/a
-- Untranslated:   102 (  0%)        841 (  1%)             n/a
-  Total:        17801             74030                  88483
++ Translated:   17737 ( 99%)      73661 ( 99%)           89212
+! Fuzzy:           33 (  0%)        144 (  0%)             n/a
+- Untranslated:    31 (  0%)        225 (  0%)             n/a
+  Total:        17801             74030                  89212
 
   File count:     114
 ```
@@ -60,7 +60,7 @@
   
 ```bash
 ./gnome-builder.po-ui.gnome-builder-47.bg.po   strings: total: 1444	| 1444t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./flatpak.po-ui.main.bg.po                     strings: total: 1241	| 1159t	6f	76u	| 93.39242546333602%t	0.48348106365834004%f	6.12409347300564%u
+./flatpak.po-ui.main.bg.po                     strings: total: 1241	| 1226t	10f	5u	| 98.79129734085414%t	0.8058017727639001%f	0.40290088638195004%u
 ./damned-lies-master-po-bg.po                  strings: total: 1034	| 1034t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./fractal-main-po-bg.po                        strings: total: 980	| 979t	0f	1u	| 99.89795918367346%t	0.0%f	0.10204081632653061%u
 ./tuba-bg.po                                   strings: total: 754	| 754t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -232,4 +232,4 @@
 
 </details>
 
-Преводите се правят в GitHub, GitLab, Weblate, Euphrase, Crowdin и Damned Lies (GNOME) с други сътрудници. Статистиките са извлечени чрез `translate-toolkit` и включват само програмите, в които съм бил основен сътрудник[.](https://www.youtube.com/watch?v=jOjRPdGEmO8) Използвам Gtranslator и `grep` за сканиране на терминология в po файлове, txt файл за запис на термините и Python скрипт за създаване на `poterminology` файл от ~6200 термини и фрази като преводна памет. С `pretranslate` автоматично превеждам повтарящи се фрази с паметния файл и бързо добавям нови преводи към обновени po файлове в изходния код. Отделно проверявам преводи използвайки `pofilter` с gnome шаблона.
+Преводите се правят в GitHub, GitLab, Weblate, Euphrase, Crowdin и Damned Lies (GNOME) с други сътрудници. Статистиките са извлечени чрез `translate-toolkit` и включват само програмите, в които съм бил основен сътрудник[.](https://www.youtube.com/watch?v=jOjRPdGEmO8) Използвам Gtranslator и `grep` за сканиране на терминология в po файлове, txt файл за запис на термините и Python скрипт за създаване на `poterminology` файл от ~6250 термини и фрази като преводна памет. С `pretranslate` автоматично превеждам повтарящи се фрази с паметния файл и бързо добавям нови преводи към обновени po файлове в изходния код. Отделно проверявам преводи използвайки `pofilter` с gnome шаблона.

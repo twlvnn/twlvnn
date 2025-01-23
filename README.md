@@ -3,12 +3,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   22505 ( 99%)     127160 ( 99%)          143043
++ Translated:   22587 ( 99%)     127681 ( 99%)          143649
 ! Fuzzy:           38 (  0%)        248 (  0%)             n/a
 - Untranslated:    33 (  0%)        236 (  0%)             n/a
-  Total:        22576            127644                 143043
+  Total:        22658            128165                 143649
 
-  File count:     143
+  File count:     144
 ```
 
 <details><summary>Натиснете тук, за да покажете статистиката на преводите на интерфейс.</summary>
@@ -16,12 +16,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   17737 ( 99%)      73661 ( 99%)           89212
++ Translated:   17819 ( 99%)      74182 ( 99%)           89818
 ! Fuzzy:           33 (  0%)        144 (  0%)             n/a
 - Untranslated:    31 (  0%)        225 (  0%)             n/a
-  Total:        17801             74030                  89212
+  Total:        17883             74551                  89818
 
-  File count:     114
+  File count:     115
 ```
 
 </details>
@@ -129,6 +129,7 @@
 ./blanket-blanket-bg.po                        strings: total: 83	| 83t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./snapshot.po-ui.main.bg.po                    strings: total: 83	| 83t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./switcheroo-bg.po                             strings: total: 83	| 83t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./malcontent.po-ui.main.bg.po                  strings: total: 82	| 82t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./tangram-bg.po                                strings: total: 80	| 80t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./keypunch-bg.po                               strings: total: 79	| 79t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./loupe.help-doc.gnome-46.bg.po                strings: total: 78	| 78t	0f	0u	| 100.0%t	0.0%f	0.0%u

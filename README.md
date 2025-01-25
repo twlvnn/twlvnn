@@ -3,12 +3,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   22713 ( 99%)     128454 ( 99%)          144574
++ Translated:   22757 ( 99%)     128752 ( 99%)          144918
 ! Fuzzy:           38 (  0%)        248 (  0%)             n/a
 - Untranslated:    33 (  0%)        236 (  0%)             n/a
-  Total:        22784            128938                 144574
+  Total:        22828            129236                 144918
 
-  File count:     145
+  File count:     146
 ```
 
 <details><summary>Натиснете тук, за да покажете статистиката на преводите на интерфейс.</summary>
@@ -16,12 +16,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   17945 ( 99%)      74955 ( 99%)           90743
++ Translated:   17989 ( 99%)      75253 ( 99%)           91087
 ! Fuzzy:           33 (  0%)        144 (  0%)             n/a
 - Untranslated:    31 (  0%)        225 (  0%)             n/a
-  Total:        18009             75324                  90743
+  Total:        18053             75622                  91087
 
-  File count:     116
+  File count:     117
 ```
 
 </details>
@@ -168,6 +168,7 @@
 ./obfuscate-master-po-bg.po                    strings: total: 48	| 48t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./chess-clock-main-po-bg.po                    strings: total: 46	| 46t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./solanum.po-ui.main.bg.po                     strings: total: 44	| 44t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./xdg-desktop-portal.po-ui.main.bg.po          strings: total: 44	| 44t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./phosh-tour.po-ui.main.bg.po                  strings: total: 43	| 43t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./khronos-bg.po                                strings: total: 42	| 42t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./teleprompter-bg.po                           strings: total: 42	| 42t	0f	0u	| 100.0%t	0.0%f	0.0%u

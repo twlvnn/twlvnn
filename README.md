@@ -113,6 +113,7 @@
 ./extensions-web.po-ui.master.bg.po            strings: total: 131	| 131t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./podcasts-main-po-bg.po                       strings: total: 131	| 131t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./g4music.po-ui.master.bg.po                   strings: total: 127	| 127t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./realmd.po-ui.master.bg.po                    strings: total: 126	| 126t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./deja-dup.help-doc.main.bg.po                 strings: total: 119	| 119t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./simple-scan.help-doc.master.bg.po            strings: total: 111	| 111t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./clairvoyant-bg.po                            strings: total: 110	| 110t	0f	0u	| 100.0%t	0.0%f	0.0%u

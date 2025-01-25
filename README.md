@@ -3,12 +3,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   22757 ( 99%)     128752 ( 99%)          144918
++ Translated:   23127 ( 98%)     129926 ( 98%)          146202
 ! Fuzzy:           38 (  0%)        248 (  0%)             n/a
-- Untranslated:    33 (  0%)        236 (  0%)             n/a
-  Total:        22828            129236                 144918
+- Untranslated:   299 (  1%)       1944 (  1%)             n/a
+  Total:        23464            132118                 146202
 
-  File count:     146
+  File count:     147
 ```
 
 <details><summary>Натиснете тук, за да покажете статистиката на преводите на интерфейс.</summary>
@@ -16,12 +16,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   17989 ( 99%)      75253 ( 99%)           91087
++ Translated:   18359 ( 98%)      76427 ( 97%)           92371
 ! Fuzzy:           33 (  0%)        144 (  0%)             n/a
-- Untranslated:    31 (  0%)        225 (  0%)             n/a
-  Total:        18053             75622                  91087
+- Untranslated:   297 (  1%)       1933 (  2%)             n/a
+  Total:        18689             78504                  92371
 
-  File count:     117
+  File count:     118
 ```
 
 </details>
@@ -64,6 +64,7 @@
 ./damned-lies-master-po-bg.po                  strings: total: 1034	| 1034t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./fractal-main-po-bg.po                        strings: total: 980	| 979t	0f	1u	| 99.89795918367346%t	0.0%f	0.10204081632653061%u
 ./tuba-bg.po                                   strings: total: 754	| 754t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./udisks.po-ui.master.bg.po                    strings: total: 636	| 370t	0f	266u	| 58.17610062893082%t	0.0%f	41.82389937106918%u
 ./papers-main-help-bg.po                       strings: total: 635	| 635t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./pika-backup.po-ui.main.bg-pretranslated.po   strings: total: 560	| 558t	2f	0u	| 99.64285714285714%t	0.35714285714285715%f	0.0%u
 ./planify-bg.po                                strings: total: 512	| 482t	10f	20u	| 94.140625%t	1.953125%f	3.90625%u

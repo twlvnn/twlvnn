@@ -3,12 +3,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   23389 ( 99%)     131597 ( 99%)          148064
-! Fuzzy:           38 (  0%)        248 (  0%)             n/a
-- Untranslated:    37 (  0%)        273 (  0%)             n/a
-  Total:        23464            132118                 148064
++ Translated:   23621 ( 99%)     133126 ( 99%)          149711
+! Fuzzy:           40 (  0%)        251 (  0%)             n/a
+- Untranslated:    54 (  0%)        707 (  0%)             n/a
+  Total:        23715            134084                 149711
 
-  File count:     147
+  File count:     148
 ```
 
 <details><summary>Натиснете тук, за да покажете статистиката на преводите на интерфейс.</summary>
@@ -16,12 +16,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   18621 ( 99%)      78098 ( 99%)           94233
-! Fuzzy:           33 (  0%)        144 (  0%)             n/a
-- Untranslated:    35 (  0%)        262 (  0%)             n/a
-  Total:        18689             78504                  94233
++ Translated:   18853 ( 99%)      79627 ( 98%)           95880
+! Fuzzy:           35 (  0%)        147 (  0%)             n/a
+- Untranslated:    52 (  0%)        696 (  0%)             n/a
+  Total:        18940             80470                  95880
 
-  File count:     118
+  File count:     119
 ```
 
 </details>
@@ -84,6 +84,7 @@
 ./gnome-calculator.help-doc.gnome-46.bg.po     strings: total: 267	| 267t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./gnome-system-monitor.help-doc.gnome-46.bg.po strings: total: 258	| 258t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./nickvision-tube-converter-app-bg.po          strings: total: 255	| 255t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./colord.po-ui.main.bg.po                      strings: total: 251	| 232t	2f	17u	| 92.43027888446215%t	0.796812749003984%f	6.772908366533865%u
 ./library-web.po-ui.master.bg.po               strings: total: 243	| 241t	0f	2u	| 99.17695473251028%t	0.0%f	0.823045267489712%u
 ./fragments.po-ui.main.bg.po                   strings: total: 239	| 238t	1f	0u	| 99.581589958159%t	0.41841004184100417%f	0.0%u
 ./gnome-firmware.po-ui.master.bg.po            strings: total: 238	| 234t	0f	4u	| 98.31932773109244%t	0.0%f	1.680672268907563%u

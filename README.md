@@ -3,12 +3,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   23621 ( 99%)     133126 ( 99%)          149711
++ Translated:   23893 ( 99%)     134558 ( 98%)          151464
 ! Fuzzy:           40 (  0%)        251 (  0%)             n/a
-- Untranslated:    54 (  0%)        707 (  0%)             n/a
-  Total:        23715            134084                 149711
+- Untranslated:   176 (  0%)       1435 (  1%)             n/a
+  Total:        24109            136244                 151464
 
-  File count:     148
+  File count:     149
 ```
 
 <details><summary>Натиснете тук, за да покажете статистиката на преводите на интерфейс.</summary>
@@ -16,12 +16,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   18853 ( 99%)      79627 ( 98%)           95880
++ Translated:   19125 ( 98%)      81059 ( 98%)           97633
 ! Fuzzy:           35 (  0%)        147 (  0%)             n/a
-- Untranslated:    52 (  0%)        696 (  0%)             n/a
-  Total:        18940             80470                  95880
+- Untranslated:   174 (  0%)       1424 (  1%)             n/a
+  Total:        19334             82630                  97633
 
-  File count:     119
+  File count:     120
 ```
 
 </details>
@@ -71,6 +71,7 @@
 ./komikku-main-bg.po                           strings: total: 434	| 434t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./chatty-bg.po                                 strings: total: 416	| 416t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./papers.po-ui.main.bg.po                      strings: total: 404	| 404t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./p11-kit-master-po-bg.po                      strings: total: 394	| 272t	0f	122u	| 69.03553299492386%t	0.0%f	30.96446700507614%u
 ./jhbuild.po-ui.master.bg.po                   strings: total: 372	| 372t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./Graphs.po-ui.main.bg.po                      strings: total: 370	| 367t	3f	0u	| 99.1891891891892%t	0.8108108108108109%f	0.0%u
 ./evolution-ews.po-ui.master.bg.po             strings: total: 369	| 369t	0f	0u	| 100.0%t	0.0%f	0.0%u

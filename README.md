@@ -3,10 +3,10 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   23893 ( 99%)     134558 ( 98%)          151464
++ Translated:   24006 ( 99%)     135234 ( 99%)          152346
 ! Fuzzy:           40 (  0%)        251 (  0%)             n/a
-- Untranslated:   176 (  0%)       1435 (  1%)             n/a
-  Total:        24109            136244                 151464
+- Untranslated:    63 (  0%)        759 (  0%)             n/a
+  Total:        24109            136244                 152346
 
   File count:     149
 ```
@@ -16,10 +16,10 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   19125 ( 98%)      81059 ( 98%)           97633
++ Translated:   19238 ( 99%)      81735 ( 98%)           98515
 ! Fuzzy:           35 (  0%)        147 (  0%)             n/a
-- Untranslated:   174 (  0%)       1424 (  1%)             n/a
-  Total:        19334             82630                  97633
+- Untranslated:    61 (  0%)        748 (  0%)             n/a
+  Total:        19334             82630                  98515
 
   File count:     120
 ```
@@ -71,7 +71,7 @@
 ./komikku-main-bg.po                           strings: total: 434	| 434t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./chatty-bg.po                                 strings: total: 416	| 416t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./papers.po-ui.main.bg.po                      strings: total: 404	| 404t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./p11-kit-master-po-bg.po                      strings: total: 394	| 272t	0f	122u	| 69.03553299492386%t	0.0%f	30.96446700507614%u
+./p11-kit-master-po-bg.po                      strings: total: 394	| 385t	0f	9u	| 97.71573604060913%t	0.0%f	2.284263959390863%u
 ./jhbuild.po-ui.master.bg.po                   strings: total: 372	| 372t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./Graphs.po-ui.main.bg.po                      strings: total: 370	| 367t	3f	0u	| 99.1891891891892%t	0.8108108108108109%f	0.0%u
 ./evolution-ews.po-ui.master.bg.po             strings: total: 369	| 369t	0f	0u	| 100.0%t	0.0%f	0.0%u

@@ -3,12 +3,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   24006 ( 99%)     135234 ( 99%)          152346
++ Translated:   24243 ( 97%)     136159 ( 96%)          153408
 ! Fuzzy:           40 (  0%)        251 (  0%)             n/a
-- Untranslated:    63 (  0%)        759 (  0%)             n/a
-  Total:        24109            136244                 152346
+- Untranslated:   644 (  2%)       4238 (  3%)             n/a
+  Total:        24927            140648                 153408
 
-  File count:     149
+  File count:     150
 ```
 
 <details><summary>Натиснете тук, за да покажете статистиката на преводите на интерфейс.</summary>
@@ -16,12 +16,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   19238 ( 99%)      81735 ( 98%)           98515
++ Translated:   19475 ( 96%)      82660 ( 94%)           99577
 ! Fuzzy:           35 (  0%)        147 (  0%)             n/a
-- Untranslated:    61 (  0%)        748 (  0%)             n/a
-  Total:        19334             82630                  98515
+- Untranslated:   642 (  3%)       4227 (  4%)             n/a
+  Total:        20152             87034                  99577
 
-  File count:     120
+  File count:     121
 ```
 
 </details>
@@ -63,6 +63,7 @@
 ./flatpak.po-ui.main.bg.po                     strings: total: 1241	| 1226t	10f	5u	| 98.79129734085414%t	0.8058017727639001%f	0.40290088638195004%u
 ./damned-lies-master-po-bg.po                  strings: total: 1034	| 1034t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./fractal-main-po-bg.po                        strings: total: 980	| 979t	0f	1u	| 99.89795918367346%t	0.0%f	0.10204081632653061%u
+./fwupd.po-ui.main.bg-2.po                     strings: total: 818	| 237t	0f	581u	| 28.973105134474327%t	0.0%f	71.02689486552568%u
 ./tuba-bg.po                                   strings: total: 754	| 754t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./udisks-master-po-bg.po                       strings: total: 636	| 632t	0f	4u	| 99.37106918238993%t	0.0%f	0.6289308176100629%u
 ./papers-main-help-bg.po                       strings: total: 635	| 635t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -206,8 +207,8 @@
 ./accountsservice.po-ui.main.bg.po             strings: total: 12	| 12t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./libcall-ui.po-ui.main.bg.po                  strings: total: 8	| 8t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./plymouth.po-ui.main.bg.po                    strings: total: 7	| 7t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./squeekboard.po-ui.main.bg.po                 strings: total: 6	| 6t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./WirePlumber.po-ui.master.bg.po               strings: total: 6	| 6t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./squeekboard.po-ui.main.bg.po                 strings: total: 6	| 6t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ```
 
 </details>

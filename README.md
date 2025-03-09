@@ -3,10 +3,10 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   24728 ( 99%)     138860 ( 98%)          156581
-! Fuzzy:           51 (  0%)        293 (  0%)             n/a
-- Untranslated:   149 (  0%)       1496 (  1%)             n/a
-  Total:        24928            140649                 156581
++ Translated:   24773 ( 99%)     139220 ( 98%)          157051
+! Fuzzy:           48 (  0%)        285 (  0%)             n/a
+- Untranslated:   114 (  0%)       1191 (  0%)             n/a
+  Total:        24935            140696                 157051
 
   File count:     150
 ```
@@ -15,10 +15,10 @@
 
 ```diff
   Processing file : TOTAL:
-+ Translated:   19960 ( 99%)      85361 ( 98%)          102750
-! Fuzzy:           46 (  0%)        189 (  0%)             n/a
-- Untranslated:   147 (  0%)       1485 (  1%)             n/a
-  Total:        20153             87035                 102750
++ Translated:   20005 ( 99%)      85721 ( 98%)          103220
+! Fuzzy:           43 (  0%)        181 (  0%)             n/a
+- Untranslated:   112 (  0%)       1180 (  1%)             n/a
+  Total:        20160             87082                 103220
 
   File count:     121
 ```
@@ -62,7 +62,7 @@
 ./flatpak.po-ui.main.bg.po                     strings: total: 1241	| 1226t	10f	5u	| 98.79129734085414%t	0.8058017727639001%f	0.40290088638195004%u
 ./damned-lies-master-po-bg.po                  strings: total: 1034	| 1034t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./fractal-main-po-bg.po                        strings: total: 980	| 979t	0f	1u	| 99.89795918367346%t	0.0%f	0.10204081632653061%u
-./fwupd-main-po-bg.po                          strings: total: 819	| 722t	11f	86u	| 88.15628815628816%t	1.343101343101343%f	10.5006105006105%u
+./fwupd-main-po-bg.po                          strings: total: 826	| 767t	8f	51u	| 92.85714285714286%t	0.9685230024213075%f	6.174334140435835%u
 ./tuba-bg.po                                   strings: total: 754	| 754t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./udisks-master-po-bg.po                       strings: total: 636	| 632t	0f	4u	| 99.37106918238993%t	0.0%f	0.6289308176100629%u
 ./papers-main-help-bg.po                       strings: total: 635	| 635t	0f	0u	| 100.0%t	0.0%f	0.0%u

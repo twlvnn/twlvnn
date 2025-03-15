@@ -3,24 +3,24 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   24773 ( 99%)     139220 ( 98%)          157051
-! Fuzzy:           48 (  0%)        285 (  0%)             n/a
-- Untranslated:   114 (  0%)       1191 (  0%)             n/a
-  Total:        24935            140696                 157051
++ Translated:   24946 ( 97%)     140132 ( 96%)          158081
+! Fuzzy:           39 (  0%)        507 (  0%)             n/a
+- Untranslated:   525 (  2%)       3862 (  2%)             n/a
+  Total:        25510            144501                 158081
 
-  File count:     150
+  File count:     151
 ```
 
 <details><summary>Натиснете тук, за да покажете статистиката на преводите на интерфейс.</summary>
 
 ```diff
   Processing file : TOTAL:
-+ Translated:   20005 ( 99%)      85721 ( 98%)          103220
-! Fuzzy:           43 (  0%)        181 (  0%)             n/a
-- Untranslated:   112 (  0%)       1180 (  1%)             n/a
-  Total:        20160             87082                 103220
++ Translated:   20178 ( 97%)      86633 ( 95%)          104250
+! Fuzzy:           34 (  0%)        403 (  0%)             n/a
+- Untranslated:   523 (  2%)       3851 (  4%)             n/a
+  Total:        20735             90887                 104250
 
-  File count:     121
+  File count:     122
 ```
 
 </details>
@@ -58,14 +58,15 @@
 <details><summary>Натиснете тук, за да покажете преводите поотделно.</summary>
   
 ```bash
-./gnome-builder.po-ui.gnome-builder-47.bg.po   strings: total: 1444	| 1444t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./flatpak.po-ui.main.bg.po                     strings: total: 1241	| 1226t	10f	5u	| 98.79129734085414%t	0.8058017727639001%f	0.40290088638195004%u
-./damned-lies-master-po-bg.po                  strings: total: 1034	| 1034t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./gnome-builder.po-ui.gnome-builder-47.bg.po   strings: total: 1444	| 1444t0f	0u	| 100.0%t	0.0%f	0.0%u
+./flatpak.po-ui.main.bg.po                     strings: total: 1242	| 1241t1f	0u	| 99.9194847020934%t	0.08051529790660225%f	0.0%u
+./damned-lies-master-po-bg.po                  strings: total: 1034	| 1034t0f	0u	| 100.0%t	0.0%f	0.0%u
 ./fractal-main-po-bg.po                        strings: total: 980	| 979t	0f	1u	| 99.89795918367346%t	0.0%f	0.10204081632653061%u
-./fwupd-main-po-bg.po                          strings: total: 826	| 767t	8f	51u	| 92.85714285714286%t	0.9685230024213075%f	6.174334140435835%u
+./fwupd-main-po-bg.po                          strings: total: 826	| 807t	0f	19u	| 97.6997578692494%t	0.0%f	2.3002421307506054%u
 ./tuba-bg.po                                   strings: total: 754	| 754t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./udisks-master-po-bg.po                       strings: total: 636	| 632t	0f	4u	| 99.37106918238993%t	0.0%f	0.6289308176100629%u
 ./papers-main-help-bg.po                       strings: total: 635	| 635t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./PulseAudio-master-po-bg.po                   strings: total: 574	| 118t	8f	448u	| 20.557491289198605%t	1.3937282229965158%f	78.04878048780488%u
 ./pika-backup.po-ui.main.bg-pretranslated.po   strings: total: 560	| 558t	2f	0u	| 99.64285714285714%t	0.35714285714285715%f	0.0%u
 ./planify-bg.po                                strings: total: 512	| 482t	10f	20u	| 94.140625%t	1.953125%f	3.90625%u
 ./komikku-main-bg.po                           strings: total: 434	| 434t	0f	0u	| 100.0%t	0.0%f	0.0%u

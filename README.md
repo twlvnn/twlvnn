@@ -3,24 +3,24 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   25417 ( 99%)     143581 ( 99%)          162155
++ Translated:   25733 ( 99%)     144792 ( 99%)          163602
 ! Fuzzy:           32 (  0%)        212 (  0%)             n/a
-- Untranslated:    82 (  0%)        871 (  0%)             n/a
-  Total:        25531            144664                 162155
+- Untranslated:    84 (  0%)        878 (  0%)             n/a
+  Total:        25849            145882                 163602
 
-  File count:     152
+  File count:     154
 ```
 
 <details><summary>Натиснете тук, за да покажете статистиката на преводите на интерфейс.</summary>
 
 ```diff
   Processing file : TOTAL:
-+ Translated:   20649 ( 99%)      90082 ( 98%)          108324
++ Translated:   20965 ( 99%)      91293 ( 98%)          109771
 ! Fuzzy:           27 (  0%)        108 (  0%)             n/a
-- Untranslated:    80 (  0%)        860 (  0%)             n/a
-  Total:        20756             91050                 108324
+- Untranslated:    82 (  0%)        867 (  0%)             n/a
+  Total:        21074             92268                 109771
 
-  File count:     123
+  File count:     125
 ```
 
 </details>
@@ -58,9 +58,9 @@
 <details><summary>Натиснете тук, за да покажете преводите поотделно.</summary>
   
 ```bash
-./gnome-builder.po-ui.gnome-builder-47.bg.po   strings: total: 1444	| 1444t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./flatpak.po-ui.main.bg.po                     strings: total: 1242	| 1241t	1f	0u	| 99.9194847020934%t	0.08051529790660225%f	0.0%u
-./damned-lies-master-po-bg.po                  strings: total: 1034	| 1034t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./gnome-builder.po-ui.gnome-builder-47.bg.po   strings: total: 1444	| 1444t0f	0u	| 100.0%t	0.0%f	0.0%u
+./flatpak.po-ui.main.bg.po                     strings: total: 1242	| 1241t1f	0u	| 99.9194847020934%t	0.08051529790660225%f	0.0%u
+./damned-lies-master-po-bg.po                  strings: total: 1034	| 1034t0f	0u	| 100.0%t	0.0%f	0.0%u
 ./fractal-main-po-bg.po                        strings: total: 980	| 979t	0f	1u	| 99.89795918367346%t	0.0%f	0.10204081632653061%u
 ./fwupd-main-po-bg.po                          strings: total: 826	| 807t	0f	19u	| 97.6997578692494%t	0.0%f	2.3002421307506054%u
 ./tuba-bg.po                                   strings: total: 754	| 754t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -81,6 +81,7 @@
 ./nickvision-tagger-app-bg.po                  strings: total: 334	| 334t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./nickvision-money-app-bg.po                   strings: total: 315	| 315t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./sysprof.po-ui.sysprof-46.bg.po               strings: total: 311	| 311t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./Iotas-main-po-bg.po                          strings: total: 273	| 271t	0f	2u	| 99.26739926739927%t	0.0%f	0.7326007326007326%u
 ./gtranslator.po-ui.master.bg.po               strings: total: 271	| 271t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./welcome-gnome-org.ui-ui.main.bg.po           strings: total: 268	| 268t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./gnome-calculator.help-doc.gnome-46.bg.po     strings: total: 267	| 267t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -171,6 +172,7 @@
 ./sysprof.help-doc.master.bg.po                strings: total: 49	| 49t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./obfuscate-master-po-bg.po                    strings: total: 48	| 48t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./chess-clock-main-po-bg.po                    strings: total: 46	| 46t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./Fretboard-main-po-bg.po                      strings: total: 45	| 45t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./solanum.po-ui.main.bg.po                     strings: total: 44	| 44t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./xdg-desktop-portal.po-ui.main.bg.po          strings: total: 44	| 44t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./phosh-tour.po-ui.main.bg.po                  strings: total: 43	| 43t	0f	0u	| 100.0%t	0.0%f	0.0%u

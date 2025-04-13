@@ -3,24 +3,24 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   28164 ( 99%)     161010 ( 99%)          181351
++ Translated:   28217 ( 99%)     161210 ( 99%)          181592
 ! Fuzzy:           32 (  0%)        212 (  0%)             n/a
 - Untranslated:    84 (  0%)        878 (  0%)             n/a
-  Total:        28280            162100                 181351
+  Total:        28333            162300                 181592
 
-  File count:     155
+  File count:     156
 ```
 
 <details><summary>Натиснете тук, за да покажете статистиката на преводите на интерфейс.</summary>
 
 ```diff
   Processing file : TOTAL:
-+ Translated:   23396 ( 99%)     107511 ( 99%)          127520
++ Translated:   23449 ( 99%)     107711 ( 99%)          127761
 ! Fuzzy:           27 (  0%)        108 (  0%)             n/a
 - Untranslated:    82 (  0%)        867 (  0%)             n/a
-  Total:        23505            108486                 127520
+  Total:        23558            108686                 127761
 
-  File count:     126
+  File count:     127
 ```
 
 </details>
@@ -166,6 +166,7 @@
 ./flowtime-bg.po                               strings: total: 57	| 57t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./warp.help-doc.main.bg.po                     strings: total: 55	| 55t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./grilo-plugins.help-doc.master.bg.po          strings: total: 54	| 54t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./drum-machine.po-ui.master.bg.po              strings: total: 53	| 53t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./video-trimmer-master-po-bg.po                strings: total: 53	| 53t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./passes-bg.po                                 strings: total: 52	| 52t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./Decibels.po-ui.main.bg-pretranslated.po      strings: total: 50	| 50t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -245,4 +246,4 @@
 
 </details>
 
-Преводите се правят в GitHub, GitLab, Weblate, Euphrase, Crowdin и Damned Lies (GNOME) с други сътрудници[.](https://www.youtube.com/watch?v=HSDdRxAEdcs) Статистиките са извлечени[ ](https://www.youtube.com/watch?v=EfwGJH-etgk)чрез `translate-toolkit` и включват само програмите[,](https://www.youtube.com/watch?v=MIKl8khLW9Y) в които съм бил основен сътрудник[.](https://www.youtube.com/watch?v=jOjRPdGEmO8) Използвам Gtranslator и `grep` за сканиране на терминология в po файлове[,](https://www.youtube.com/watch?v=u0AkA4W4Ip4) txt файл за запис на термините и Python скрипт за създаване на `poterminology` файл от ~6400 термини и фрази като преводна памет[.](https://youtu.be/NxrJWqCJ0QA) С `pretranslate` автоматично превеждам повтарящи се фрази с паметния файл и бързо добавям нови преводи[ ](https://www.youtube.com/watch?v=txAau-WFuSw)към обновени po файлове в изходния код[.](https://www.youtube.com/watch?v=16jA-6hiSUo) Отделно проверявам преводи използвайки `pofilter` с gnome шаблона[.](https://www.youtube.com/watch?v=Fm_iyGAutqc)
+Преводите се правят в GitHub, GitLab, Weblate, Euphrase, Crowdin и Damned Lies (GNOME) с други сътрудници[.](https://www.youtube.com/watch?v=HSDdRxAEdcs) Статистиките са извлечени[ ](https://www.youtube.com/watch?v=EfwGJH-etgk)чрез `translate-toolkit` и включват само програмите[,](https://www.youtube.com/watch?v=MIKl8khLW9Y) в които съм бил основен сътрудник[.](https://www.youtube.com/watch?v=jOjRPdGEmO8) Използвам Gtranslator и `grep` за сканиране на терминология в po файлове[,](https://www.youtube.com/watch?v=u0AkA4W4Ip4) txt файл за запис на термините и Python скрипт за създаване на `poterminology` файл от ~6450 термини и фрази като преводна памет[.](https://youtu.be/NxrJWqCJ0QA) С `pretranslate` автоматично превеждам повтарящи се фрази с паметния файл и бързо добавям нови преводи[ ](https://www.youtube.com/watch?v=txAau-WFuSw)към обновени po файлове в изходния код[.](https://www.youtube.com/watch?v=16jA-6hiSUo) Отделно проверявам преводи използвайки `pofilter` с gnome шаблона[.](https://www.youtube.com/watch?v=Fm_iyGAutqc)

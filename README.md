@@ -3,10 +3,10 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   27915 ( 98%)     157452 ( 97%)          177504
-! Fuzzy:           86 (  0%)        695 (  0%)             n/a
-- Untranslated:   279 (  0%)       3953 (  2%)             n/a
-  Total:        28280            162100                 177504
++ Translated:   28164 ( 99%)     161010 ( 99%)          181351
+! Fuzzy:           32 (  0%)        212 (  0%)             n/a
+- Untranslated:    84 (  0%)        878 (  0%)             n/a
+  Total:        28280            162100                 181351
 
   File count:     155
 ```
@@ -15,10 +15,10 @@
 
 ```diff
   Processing file : TOTAL:
-+ Translated:   23147 ( 98%)     103953 ( 95%)          123673
-! Fuzzy:           81 (  0%)        591 (  0%)             n/a
-- Untranslated:   277 (  1%)       3942 (  3%)             n/a
-  Total:        23505            108486                 123673
++ Translated:   23396 ( 99%)     107511 ( 99%)          127520
+! Fuzzy:           27 (  0%)        108 (  0%)             n/a
+- Untranslated:    82 (  0%)        867 (  0%)             n/a
+  Total:        23505            108486                 127520
 
   File count:     126
 ```
@@ -58,7 +58,7 @@
 <details><summary>Натиснете тук, за да покажете преводите поотделно.</summary>
   
 ```bash
-./evolution.po-ui.master.bg.po                 strings: total: 2404	| 2155t	54f	195u	| 89.64226289517471%t	2.2462562396006653%f	8.111480865224626%u
+./evolution-master-po-bg.po                    strings: total: 2404	| 2404t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./gnome-builder.po-ui.gnome-builder-47.bg.po   strings: total: 1444	| 1444t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./flatpak.po-ui.main.bg.po                     strings: total: 1242	| 1241t	1f	0u	| 99.9194847020934%t	0.08051529790660225%f	0.0%u
 ./damned-lies-master-po-bg.po                  strings: total: 1034	| 1034t	0f	0u	| 100.0%t	0.0%f	0.0%u

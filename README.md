@@ -220,7 +220,55 @@
 
 ---
 
-<details><summary>Натиснете тук, за да покажете статистиката на преводите извън GNOME.</summary>
+**Статистика на общо всички COSMIC Desktop преводи.**
+
+```diff
+  Processing file : TOTAL
+  Type               Strings
++ Translated:    1212 (100%)
+- Untranslated:     0 (  0%)
+  Total:         1212 
+
+  File count:        27
+```
+
+<details><summary>Натиснете тук, за да покажете преводите на COSMIC Desktop поотделно.</summary>
+  
+```bash
+./cosmic_settings.ftl                         strings: total: 635   | 635t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./cosmic_files.ftl                            strings: total: 207   | 207t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./cosmic_store.ftl                            strings: total: 72    | 72t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./cosmic_term.ftl                             strings: total: 72    | 72t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./cosmic_app_library.ftl                      strings: total: 28    | 28t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./cosmic_player.ftl                           strings: total: 22    | 22t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./cosmic_applet_network.ftl                   strings: total: 21    | 21t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./cosmic_applet_tiling.ftl                    strings: total: 20    | 20t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./firmware_manager_gtk.ftl                    strings: total: 17    | 17t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./cosmic_applet_battery.ftl                   strings: total: 14    | 14t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./xdg_desktop_portal_cosmic.ftl               strings: total: 14    | 14t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./cosmic_applet_bluetooth.ftl                 strings: total: 12    | 12t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./cosmic_applet_power.ftl                     strings: total: 12    | 12t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./cosmic_greeter.ftl                          strings: total: 11    | 11t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./cosmic_osd.ftl                              strings: total: 11    | 11t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./cosmic_applet_notifications.ftl             strings: total: 9     | 9t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./cosmic_app_list.ftl                         strings: total: 8     | 8t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./cosmic_applet_audio.ftl                     strings: total: 7     | 7t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./cosmic_applet_a11y.ftl                      strings: total: 6     | 6t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./firmware_manager_notify.ftl                 strings: total: 3     | 3t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./cosmic_applet_input_sources.ftl             strings: total: 2     | 2t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./cosmic_bg.ftl                               strings: total: 2     | 2t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./cosmic_launcher.ftl                         strings: total: 2     | 2t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./cosmic_workspaces.ftl                       strings: total: 2     | 2t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./cosmic_applet_time.ftl                      strings: total: 1     | 1t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./cosmic_applet_workspaces.ftl                strings: total: 1     | 1t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./cosmic_notifications.ftl                    strings: total: 1     | 1t	0f	0u	| 100.0%t	0.0%f	0.0%u
+```
+
+</details>
+
+---
+
+<details><summary>Натиснете тук, за да покажете статистиката на преводите извън Linux.</summary>
 
 ```diff
   Processing file : TOTAL
@@ -235,7 +283,7 @@
 
 </details>
 
-<details><summary>Натиснете тук, за да покажете преводите извън GNOME поотделно.</summary>
+<details><summary>Натиснете тук, за да покажете преводите извън Linux поотделно.</summary>
   
 ```bash
 ./voices-of-the-void-0_8_2c-bg.po           strings: total: 4969	| 4969t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -247,3 +295,6 @@
 </details>
 
 Преводите се правят в GitHub, GitLab, Weblate, Euphrase, Crowdin и Damned Lies (GNOME) с други сътрудници[.](https://www.youtube.com/watch?v=HSDdRxAEdcs) Статистиките са извлечени[ ](https://www.youtube.com/watch?v=EfwGJH-etgk)чрез `translate-toolkit` и включват само програмите[,](https://www.youtube.com/watch?v=MIKl8khLW9Y) в които съм бил основен сътрудник[.](https://www.youtube.com/watch?v=jOjRPdGEmO8) Използвам Gtranslator и `grep` за сканиране на терминология в po файлове[,](https://www.youtube.com/watch?v=u0AkA4W4Ip4) txt файл за запис на термините и Python скрипт за създаване на `poterminology` файл от ~6450 термини и фрази като преводна памет[.](https://youtu.be/NxrJWqCJ0QA) С `pretranslate` автоматично превеждам повтарящи се фрази с паметния файл и бързо добавям нови преводи[ ](https://www.youtube.com/watch?v=txAau-WFuSw)към обновени po файлове в изходния код[.](https://www.youtube.com/watch?v=16jA-6hiSUo) Отделно проверявам преводи използвайки `pofilter` с gnome шаблона[.](https://www.youtube.com/watch?v=Fm_iyGAutqc)
+
+Преводът за COSMIC Desktop се извършва в системата за локализация Fluent вместо в gettext, така че информацията, която се показва, е малко по-различна.
+

@@ -225,11 +225,11 @@
 ```diff
   Processing file : TOTAL
   Type               Strings
-+ Translated:    1212 (100%)
++ Translated:    1228 (100%)
 - Untranslated:     0 (  0%)
-  Total:         1212 
+  Total:         1228 
 
-  File count:        27
+  File count:        28
 ```
 
 <details><summary>Натиснете тук, за да покажете преводите на COSMIC Desktop поотделно.</summary>
@@ -244,6 +244,7 @@
 ./cosmic_applet_network.ftl                   strings: total: 21    | 21t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./cosmic_applet_tiling.ftl                    strings: total: 20    | 20t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./firmware_manager_gtk.ftl                    strings: total: 17    | 17t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./cosmic_initial_setup.ftl                    strings: total: 16    | 16t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./cosmic_applet_battery.ftl                   strings: total: 14    | 14t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./xdg_desktop_portal_cosmic.ftl               strings: total: 14    | 14t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./cosmic_applet_bluetooth.ftl                 strings: total: 12    | 12t	0f	0u	| 100.0%t	0.0%f	0.0%u

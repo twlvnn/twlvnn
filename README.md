@@ -225,11 +225,11 @@
 ```diff
   Processing file : TOTAL
   Type               Strings
-+ Translated:    1228 (100%)
++ Translated:    1411 (100%)
 - Untranslated:     0 (  0%)
-  Total:         1228 
+  Total:         1411 
 
-  File count:        28
+  File count:        34
 ```
 
 <details><summary>Натиснете тук, за да покажете преводите на COSMIC Desktop поотделно.</summary>
@@ -239,7 +239,11 @@
 ./cosmic_files.ftl                            strings: total: 207   | 207t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./cosmic_store.ftl                            strings: total: 72    | 72t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./cosmic_term.ftl                             strings: total: 72    | 72t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./cosmic_ext_tasks.ftl                        strings: total: 52    | 52t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./cosmic_ext_forecast.ftl                     strings: total: 45    | 45t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./cosmic_ext_examine.ftl                      strings: total: 41    | 41t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./cosmic_app_library.ftl                      strings: total: 28    | 28t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./cosmic_ext_chronos.ftl                      strings: total: 24    | 24t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./cosmic_player.ftl                           strings: total: 22    | 22t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./cosmic_applet_network.ftl                   strings: total: 21    | 21t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./cosmic_applet_tiling.ftl                    strings: total: 20    | 20t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -249,9 +253,11 @@
 ./xdg_desktop_portal_cosmic.ftl               strings: total: 14    | 14t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./cosmic_applet_bluetooth.ftl                 strings: total: 12    | 12t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./cosmic_applet_power.ftl                     strings: total: 12    | 12t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./cosmic_ext_applet_clipboard_manager.ftl     strings: total: 12    | 12t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./cosmic_greeter.ftl                          strings: total: 11    | 11t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./cosmic_osd.ftl                              strings: total: 11    | 11t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./cosmic_applet_notifications.ftl             strings: total: 9     | 9t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./cosmic_ext_calculator.ftl                   strings: total: 9     | 9t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./cosmic_app_list.ftl                         strings: total: 8     | 8t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./cosmic_applet_audio.ftl                     strings: total: 7     | 7t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./cosmic_applet_a11y.ftl                      strings: total: 6     | 6t	0f	0u	| 100.0%t	0.0%f	0.0%u

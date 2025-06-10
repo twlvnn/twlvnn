@@ -3,24 +3,25 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   28217 ( 99%)     161210 ( 99%)          181592
++ Translated:   29033 ( 99%)     168312 ( 99%)          189298
 ! Fuzzy:           32 (  0%)        212 (  0%)             n/a
-- Untranslated:    84 (  0%)        878 (  0%)             n/a
-  Total:        28333            162300                 181592
+- Untranslated:    91 (  0%)       1033 (  0%)             n/a
+  Total:        29156            169557                 189298
 
-  File count:     156
+  File count:     158
 ```
 
 <details><summary>Натиснете тук, за да покажете статистиката на преводите на интерфейс.</summary>
 
 ```diff
   Processing file : TOTAL:
-+ Translated:   23449 ( 99%)     107711 ( 99%)          127761
+  Type               Strings      Words (source)    Words (translation)
++ Translated:   24265 ( 99%)     114813 ( 99%)          135467
 ! Fuzzy:           27 (  0%)        108 (  0%)             n/a
-- Untranslated:    82 (  0%)        867 (  0%)             n/a
-  Total:        23558            108686                 127761
+- Untranslated:    89 (  0%)       1022 (  0%)             n/a
+  Total:        24381            115943                 135467
 
-  File count:     127
+  File count:     129
 ```
 
 </details>
@@ -64,6 +65,7 @@
 ./damned-lies-master-po-bg.po                  strings: total: 1034	| 1034t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./fractal-main-po-bg.po                        strings: total: 980	| 979t	0f	1u	| 99.89795918367346%t	0.0%f	0.10204081632653061%u
 ./fwupd-main-po-bg.po                          strings: total: 826	| 807t	0f	19u	| 97.6997578692494%t	0.0%f	2.3002421307506054%u
+./appstream-main-po-bg.po                      strings: total: 776	| 769t	0f	7u	| 99.0979381443299%t	0.0%f	0.9020618556701031%u
 ./tuba-bg.po                                   strings: total: 754	| 754t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./udisks-master-po-bg.po                       strings: total: 636	| 632t	0f	4u	| 99.37106918238993%t	0.0%f	0.6289308176100629%u
 ./papers-main-help-bg.po                       strings: total: 635	| 635t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -173,6 +175,7 @@
 ./devhelp.help-doc.main.bg.po                  strings: total: 49	| 49t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./sysprof.help-doc.master.bg.po                strings: total: 49	| 49t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./obfuscate-master-po-bg.po                    strings: total: 48	| 48t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./Manuals-main-po-bg.po                        strings: total: 47	| 47t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./chess-clock-main-po-bg.po                    strings: total: 46	| 46t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./Fretboard-main-po-bg.po                      strings: total: 45	| 45t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./solanum.po-ui.main.bg.po                     strings: total: 44	| 44t	0f	0u	| 100.0%t	0.0%f	0.0%u

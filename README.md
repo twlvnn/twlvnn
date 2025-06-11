@@ -3,12 +3,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   29033 ( 99%)     168312 ( 99%)          189298
++ Translated:   29100 ( 99%)     168801 ( 99%)          189806
 ! Fuzzy:           32 (  0%)        212 (  0%)             n/a
 - Untranslated:    91 (  0%)       1033 (  0%)             n/a
-  Total:        29156            169557                 189298
+  Total:        29223            170046                 189806
 
-  File count:     158
+  File count:     159
 ```
 
 <details><summary>Натиснете тук, за да покажете статистиката на преводите на интерфейс.</summary>
@@ -16,12 +16,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   24265 ( 99%)     114813 ( 99%)          135467
++ Translated:   24332 ( 99%)     115302 ( 99%)          135975
 ! Fuzzy:           27 (  0%)        108 (  0%)             n/a
 - Untranslated:    89 (  0%)       1022 (  0%)             n/a
-  Total:        24381            115943                 135467
+  Total:        24448            116432                 135975
 
-  File count:     129
+File count:     130
 ```
 
 </details>
@@ -158,6 +158,7 @@
 ./exhibit-bg.po                                strings: total: 68	| 68t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./polari.help-doc.main.bg.po                   strings: total: 68	| 67t	1f	0u	| 98.52941176470588%t	1.4705882352941178%f	0.0%u
 ./showtime.po-ui.main.bg.po                    strings: total: 68	| 68t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./fprintd-master-po-bg.po                      strings: total: 67	| 67t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./elastic.po-ui.main.bg.po                     strings: total: 66	| 66t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./gnome-text-editor.help-doc.gnome-46.bg.po    strings: total: 65	| 65t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./metadata-cleaner-application-bg.po           strings: total: 64	| 64t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -307,6 +308,6 @@
 
 </details>
 
-Преводите се правят в GitHub, GitLab, Weblate, Euphrase, Crowdin и Damned Lies (GNOME) с други сътрудници[.](https://www.youtube.com/watch?v=HSDdRxAEdcs) Статистиките са извлечени[ ](https://www.youtube.com/watch?v=EfwGJH-etgk)чрез `translate-toolkit` и включват само програмите[,](https://www.youtube.com/watch?v=MIKl8khLW9Y) в които съм бил основен сътрудник[.](https://www.youtube.com/watch?v=jOjRPdGEmO8) Използвам Gtranslator и `grep` за сканиране на терминология в po файлове[,](https://www.youtube.com/watch?v=u0AkA4W4Ip4) txt файл за запис на термините и Python скрипт за създаване на `poterminology` файл от ~6450 термини и фрази като преводна памет[.](https://youtu.be/NxrJWqCJ0QA) С `pretranslate` автоматично превеждам повтарящи се фрази с паметния файл и бързо добавям нови преводи[ ](https://www.youtube.com/watch?v=txAau-WFuSw)към обновени po файлове в изходния код[.](https://www.youtube.com/watch?v=16jA-6hiSUo) Отделно проверявам преводи използвайки `pofilter` с gnome шаблона[.](https://www.youtube.com/watch?v=Fm_iyGAutqc)
+Преводите се правят в GitHub, GitLab, Weblate, Euphrase, Crowdin и Damned Lies (GNOME) с други сътрудници[.](https://www.youtube.com/watch?v=HSDdRxAEdcs) Статистиките са извлечени[ ](https://www.youtube.com/watch?v=EfwGJH-etgk)чрез `translate-toolkit` и включват само програмите[,](https://www.youtube.com/watch?v=MIKl8khLW9Y) в които съм бил основен сътрудник[.](https://www.youtube.com/watch?v=jOjRPdGEmO8) Използвам Gtranslator и `grep` за сканиране на терминология в po файлове[,](https://www.youtube.com/watch?v=u0AkA4W4Ip4) txt файл за запис на термините и Python скрипт за създаване на `poterminology` файл от ~6500 термини и фрази като преводна памет[.](https://youtu.be/NxrJWqCJ0QA) С `pretranslate` автоматично превеждам повтарящи се фрази с паметния файл и бързо добавям нови преводи[ ](https://www.youtube.com/watch?v=txAau-WFuSw)към обновени po файлове в изходния код[.](https://www.youtube.com/watch?v=16jA-6hiSUo) Отделно проверявам преводи използвайки `pofilter` с gnome шаблона[.](https://www.youtube.com/watch?v=Fm_iyGAutqc)
 
 Преводът за COSMIC Desktop се извършва в системата за локализация Fluent вместо в gettext, така че информацията, която се показва, е малко по-различна.

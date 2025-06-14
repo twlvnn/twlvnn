@@ -3,12 +3,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   29100 ( 99%)     168801 ( 99%)          189806
-! Fuzzy:           32 (  0%)        212 (  0%)             n/a
-- Untranslated:    91 (  0%)       1033 (  0%)             n/a
-  Total:        29223            170046                 189806
++ Translated:   29599 ( 99%)     170427 ( 99%)          191826
+! Fuzzy:           36 (  0%)        244 (  0%)             n/a
+- Untranslated:    97 (  0%)       1064 (  0%)             n/a
+  Total:        29732            171735                 191826
 
-  File count:     159
+  File count:     160
 ```
 
 <details><summary>Натиснете тук, за да покажете статистиката на преводите на интерфейс.</summary>
@@ -16,12 +16,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   24332 ( 99%)     115302 ( 99%)          135975
-! Fuzzy:           27 (  0%)        108 (  0%)             n/a
-- Untranslated:    89 (  0%)       1022 (  0%)             n/a
-  Total:        24448            116432                 135975
++ Translated:   24831 ( 99%)     116928 ( 98%)          137995
+! Fuzzy:           31 (  0%)        140 (  0%)             n/a
+- Untranslated:    95 (  0%)       1053 (  0%)             n/a
+  Total:        24957            118121                 137995
 
-File count:     130
+  File count:     131
 ```
 
 </details>
@@ -72,6 +72,7 @@ File count:     130
 ./PulseAudio-master-po-bg.po                   strings: total: 574	| 568t	1f	5u	| 98.95470383275261%t	0.17421602787456447%f	0.8710801393728222%u
 ./pika-backup.po-ui.main.bg-pretranslated.po   strings: total: 560	| 558t	2f	0u	| 99.64285714285714%t	0.35714285714285715%f	0.0%u
 ./planify-bg.po                                strings: total: 512	| 482t	10f	20u	| 94.140625%t	1.953125%f	3.90625%u
+./webkit-main-po-bg.po                         strings: total: 509	| 499t	4f	6u	| 98.03536345776031%t	0.7858546168958742%f	1.1787819253438114%u
 ./komikku-main-bg.po                           strings: total: 461	| 461t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./chatty-bg.po                                 strings: total: 416	| 416t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./papers.po-ui.main.bg.po                      strings: total: 404	| 404t	0f	0u	| 100.0%t	0.0%f	0.0%u
@@ -308,6 +309,6 @@ File count:     130
 
 </details>
 
-Преводите се правят в GitHub, GitLab, Weblate, Euphrase, Crowdin и Damned Lies (GNOME) с други сътрудници[.](https://www.youtube.com/watch?v=HSDdRxAEdcs) Статистиките са извлечени[ ](https://www.youtube.com/watch?v=EfwGJH-etgk)чрез `translate-toolkit` и включват само програмите[,](https://www.youtube.com/watch?v=MIKl8khLW9Y) в които съм бил основен сътрудник[.](https://www.youtube.com/watch?v=jOjRPdGEmO8) Използвам Gtranslator и `grep` за сканиране на терминология в po файлове[,](https://www.youtube.com/watch?v=u0AkA4W4Ip4) txt файл за запис на термините и Python скрипт за създаване на `poterminology` файл от ~6500 термини и фрази като преводна памет[.](https://youtu.be/NxrJWqCJ0QA) С `pretranslate` автоматично превеждам повтарящи се фрази с паметния файл и бързо добавям нови преводи[ ](https://www.youtube.com/watch?v=txAau-WFuSw)към обновени po файлове в изходния код[.](https://www.youtube.com/watch?v=16jA-6hiSUo) Отделно проверявам преводи използвайки `pofilter` с gnome шаблона[.](https://www.youtube.com/watch?v=Fm_iyGAutqc)
+Преводите се правят в GitHub, GitLab, Weblate, Euphrase, Crowdin и Damned Lies (GNOME) с други сътрудници[.](https://www.youtube.com/watch?v=HSDdRxAEdcs) Статистиките са извлечени[ ](https://www.youtube.com/watch?v=EfwGJH-etgk)чрез `translate-toolkit` и включват само програмите[,](https://www.youtube.com/watch?v=MIKl8khLW9Y) в които съм бил основен сътрудник[.](https://www.youtube.com/watch?v=jOjRPdGEmO8) Използвам Gtranslator и `grep` за сканиране на терминология в po файлове[,](https://www.youtube.com/watch?v=u0AkA4W4Ip4) txt файл за запис на термините и Python скрипт за създаване на `poterminology` файл от ~6550 термини и фрази като преводна памет[.](https://youtu.be/NxrJWqCJ0QA) С `pretranslate` автоматично превеждам повтарящи се фрази с паметния файл и бързо добавям нови преводи[ ](https://www.youtube.com/watch?v=txAau-WFuSw)към обновени po файлове в изходния код[.](https://www.youtube.com/watch?v=16jA-6hiSUo) Отделно проверявам преводи използвайки `pofilter` с gnome шаблона[.](https://www.youtube.com/watch?v=Fm_iyGAutqc)
 
 Преводът за COSMIC Desktop се извършва в системата за локализация Fluent вместо в gettext, така че информацията, която се показва, е малко по-различна.

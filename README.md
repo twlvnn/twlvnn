@@ -245,11 +245,11 @@ File count:     175
 ```diff
   Processing file : TOTAL
   Type               Strings
-+ Translated:    1844  (100.0%)
++ Translated:    1846  (100.0%)
 - Untranslated:     0  (0.0%)
-  Total:         1844 
+  Total:         1846 
 
-  File count:        43
+  File count:        44
 ```
 
 <details><summary>Натиснете тук, за да покажете преводите на COSMIC Desktop поотделно.</summary>
@@ -295,6 +295,7 @@ File count:     175
 ./cosmic_bg.ftl                               strings: total: 2     | 2t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./cosmic_launcher.ftl                         strings: total: 2     | 2t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./cosmic_workspaces.ftl                       strings: total: 2     | 2t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./pop-os-cosmic-reader-bg.ftl                 strings: total: 2     | 2t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./cosmic_applet_time.ftl                      strings: total: 1     | 1t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./cosmic_applet_workspaces.ftl                strings: total: 1     | 1t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./cosmic_notifications.ftl                    strings: total: 1     | 1t	0f	0u	| 100.0%t	0.0%f	0.0%u

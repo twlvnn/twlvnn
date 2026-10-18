@@ -5,11 +5,11 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   36000 ( 85%)     202649 ( 66%)          248607
-! Fuzzy:          843 (  1%)       7520 (  2%)             n/a
-- Untranslated:  5474 ( 12%)      96355 ( 31%)             n/a
-  Total:        42317            306524                 248607
-
++ Translated:   36090 ( 85%)     203027 ( 66%)          249051
+! Fuzzy:          783 (  1%)       7347 (  2%)             n/a
+- Untranslated:  5444 ( 12%)      96150 ( 31%)             n/a
+  Total:        42317            306524                 249051
+  
   File count:     199
 ```
 
@@ -18,11 +18,11 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   30310 ( 91%)     141404 ( 79%)          186670
-! Fuzzy:          594 (  1%)       3869 (  2%)             n/a
-- Untranslated:  2121 (  6%)      33431 ( 18%)             n/a
-  Total:        33025            178704                 186670
-
++ Translated:   30371 ( 91%)     141599 ( 79%)          186888
+! Fuzzy:          542 (  1%)       3710 (  2%)             n/a
+- Untranslated:  2112 (  6%)      33395 ( 18%)             n/a
+  Total:        33025            178704                 186888
+  
   File count:     163
 ```
 
@@ -36,7 +36,7 @@ flatpak.po-ui.main.bg.po                       strings: total: 1301	| 1220t	45f	
 fwupd.po-ui.main.bg.po                         strings: total: 1063	| 757t	0f	306u	| 71%t	0%f	28%u
 fractal.main.bg.po                             strings: total: 1043	| 1002t	31f	10u	| 96%t	2%f	0%u
 appstream.po-ui.main.bg.po                     strings: total: 825	| 770t	11f	44u	| 93%t	1%f	5%u
-bazaar.po-ui.main.bg.po                        strings: total: 765	| 764t	1f	0u	| 99%t	0%f	0%u
+bazaar.po-ui.main.bg.po                        strings: total: 765	| 765t	0f	0u	| 100%t	0%f	0%u
 tuba-bg.po                                     strings: total: 754	| 754t	0f	0u	| 100%t	0%f	0%u
 geary.main.bg.po                               strings: total: 664	| 213t	10f	441u	| 32%t	1%f	66%u
 udisks.po-ui.master.bg.po                      strings: total: 641	| 581t	55f	5u	| 90%t	8%f	0%u
@@ -44,15 +44,15 @@ pika-backup.po-ui.main.bg.po                   strings: total: 595	| 595t	0f	0u	
 PulseAudio.po-ui.master.bg.po                  strings: total: 574	| 565t	4f	5u	| 98%t	0%f	0%u
 webkit.po-ui.main.bg.po                        strings: total: 517	| 501t	5f	11u	| 96%t	0%f	2%u
 planify-bg.po                                  strings: total: 512	| 482t	10f	20u	| 94%t	1%f	3%u
-Graphs.po-ui.main.bg.po                        strings: total: 509	| 502t	7f	0u	| 98%t	1%f	0%u
+Graphs.po-ui.main.bg.po                        strings: total: 509	| 509t	0f	0u	| 100%t	0%f	0%u
 ptyxis.main.bg.po                              strings: total: 461	| 461t	0f	0u	| 100%t	0%f	0%u
 komikku-main-bg.po                             strings: total: 434	| 434t	0f	0u	| 100%t	0%f	0%u
 chatty-bg.po                                   strings: total: 416	| 416t	0f	0u	| 100%t	0%f	0%u
-evolution-ews.po-ui.master.bg.po               strings: total: 412	| 411t	0f	1u	| 99%t	0%f	0%u
+evolution-ews.po-ui.master.bg.po               strings: total: 412	| 412t	0f	0u	| 100%t	0%f	0%u
 papers.po-ui.main.bg.po                        strings: total: 404	| 404t	0f	0u	| 100%t	0%f	0%u
 p11-kit-master-po-bg-1004936_l7ycBG1.merged.po strings: total: 404	| 385t	7f	12u	| 95%t	1%f	2%u
 secrets.po-ui.master.bg.po                     strings: total: 399	| 399t	0f	0u	| 100%t	0%f	0%u
-resources.po-ui.main.bg.po                     strings: total: 394	| 390t	3f	1u	| 98%t	0%f	0%u
+resources.po-ui.main.bg.po                     strings: total: 394	| 394t	0f	0u	| 100%t	0%f	0%u
 jhbuild.po-ui.master.bg.po                     strings: total: 372	| 372t	0f	0u	| 100%t	0%f	0%u
 deja-dup.po-ui.main.bg.po                      strings: total: 344	| 344t	0f	0u	| 100%t	0%f	0%u
 nickvision-tagger-app-bg.po                    strings: total: 334	| 334t	0f	0u	| 100%t	0%f	0%u
@@ -63,7 +63,7 @@ iotas.po-ui.main.bg.po                         strings: total: 301	| 301t	0f	0u	
 gtranslator.master.bg.po                       strings: total: 301	| 301t	0f	0u	| 100%t	0%f	0%u
 nickvision-tube-converter-app-bg.po            strings: total: 255	| 255t	0f	0u	| 100%t	0%f	0%u
 colord.po-ui.main.bg.po                        strings: total: 251	| 251t	0f	0u	| 100%t	0%f	0%u
-apostrophe.po-ui.main.bg.po                    strings: total: 245	| 213t	32f	0u	| 86%t	13%f	0%u
+apostrophe.po-ui.main.bg.po                    strings: total: 245	| 245t	0f	0u	| 100%t	0%f	0%u
 fragments.po-ui.main.bg.po                     strings: total: 242	| 242t	0f	0u	| 100%t	0%f	0%u
 gnome-firmware.po-ui.master.bg.po              strings: total: 238	| 234t	0f	4u	| 98%t	0%f	1%u
 health.po-ui.master.bg.po                      strings: total: 228	| 228t	0f	0u	| 100%t	0%f	0%u
@@ -126,14 +126,14 @@ telegnome.master.bg.po                         strings: total: 68	| 68t	0f	0u	| 
 showtime.po-ui.main.bg.po                      strings: total: 68	| 68t	0f	0u	| 100%t	0%f	0%u
 exhibit-bg.po                                  strings: total: 68	| 68t	0f	0u	| 100%t	0%f	0%u
 fprintd.po-ui.master.bg.po                     strings: total: 67	| 67t	0f	0u	| 100%t	0%f	0%u
-eyedropper.po-ui.main.bg.po                    strings: total: 66	| 52t	7f	7u	| 78%t	10%f	10%u
+eyedropper.po-ui.main.bg.po                    strings: total: 66	| 66t	0f	0u	| 100%t	0%f	0%u
 Wildcard.main.bg.po                            strings: total: 64	| 33t	5f	26u	| 51%t	7%f	40%u
 metadata-cleaner-application-bg.po             strings: total: 64	| 64t	0f	0u	| 100%t	0%f	0%u
 elastic.po-ui.main.bg.po                       strings: total: 64	| 64t	0f	0u	| 100%t	0%f	0%u
 symbolic-preview.master.bg.po                  strings: total: 63	| 63t	0f	0u	| 100%t	0%f	0%u
 share-preview-bg.po                            strings: total: 63	| 63t	0f	0u	| 100%t	0%f	0%u
 avvie-bg.po                                    strings: total: 63	| 63t	0f	0u	| 100%t	0%f	0%u
-evolution-activesync.po-ui.master.bg.po        strings: total: 60	| 59t	1f	0u	| 98%t	1%f	0%u
+evolution-activesync.po-ui.master.bg.po        strings: total: 60	| 60t	0f	0u	| 100%t	0%f	0%u
 flowtime-bg.po                                 strings: total: 57	| 57t	0f	0u	| 100%t	0%f	0%u
 d-spy.po-ui.gnome-46.bg.po                     strings: total: 57	| 57t	0f	0u	| 100%t	0%f	0%u
 passes-bg.po                                   strings: total: 52	| 52t	0f	0u	| 100%t	0%f	0%u
@@ -142,7 +142,7 @@ xdg-desktop-portal.po-ui.main.bg.po            strings: total: 50	| 26t	24f	0u	|
 obfuscate.po-ui.master.bg.po                   strings: total: 50	| 50t	0f	0u	| 100%t	0%f	0%u
 Decibels.po-ui.main.bg-pretranslated.po        strings: total: 50	| 50t	0f	0u	| 100%t	0%f	0%u
 Fretboard.po-ui.main.bg.po                     strings: total: 47	| 47t	0f	0u	| 100%t	0%f	0%u
-chess-clock.po-ui.main.bg.po                   strings: total: 46	| 45t	1f	0u	| 97%t	2%f	0%u
+chess-clock.po-ui.main.bg.po                   strings: total: 46	| 46t	0f	0u	| 100%t	0%f	0%u
 solanum.po-ui.main.bg.po                       strings: total: 44	| 44t	0f	0u	| 100%t	0%f	0%u
 phosh-tour.po-ui.main.bg.po                    strings: total: 43	| 43t	0f	0u	| 100%t	0%f	0%u
 teleprompter-bg.po                             strings: total: 42	| 42t	0f	0u	| 100%t	0%f	0%u
@@ -249,11 +249,11 @@ gnome-logs.help-doc.master.bg.po          strings: total: 23	| 23t	0f	0u	| 100%t
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:    2106 ( 91%)      17226 ( 86%)           17867
-! Fuzzy:           99 (  4%)       1647 (  8%)             n/a
-- Untranslated:    98 (  4%)        946 (  4%)             n/a
-  Total:         2303             19819                  17867
-
++ Translated:    2135 ( 92%)      17409 ( 87%)           18093
+! Fuzzy:           91 (  3%)       1633 (  8%)             n/a
+- Untranslated:    77 (  3%)        777 (  3%)             n/a
+  Total:         2303             19819                  18093
+  
   File count:       8
 ```
 
@@ -267,7 +267,7 @@ donate-gnome-org.po-ui.main.bg.po  strings: total: 195	| 195t	0f	0u	| 100%t	0%f	
 extensions-web.po-ui.master.bg.po  strings: total: 143	| 143t	0f	0u	| 100%t	0%f	0%u
 www-gnome-org.po-ui.main.bg.po     strings: total: 123	| 123t	0f	0u	| 100%t	0%f	0%u
 apps-for-gnome.po-ui.main.bg.po    strings: total: 69	| 69t	0f	0u	| 100%t	0%f	0%u
-help-gnome-org.po-ui.master.bg.po  strings: total: 32	| 3t	8f	21u	| 9%t	25%f	65%u
+help-gnome-org.po-ui.master.bg.po  strings: total: 32	| 32t	0f	0u	| 100%t	0%f	0%u
 ```
 
 </details>
@@ -284,7 +284,7 @@ damned-lies.po-ui.main.bg.po                   strings: total: 1207	| 1041t	91f	
 fwupd.po-ui.main.bg.po                         strings: total: 1063	| 757t	0f	306u	| 71%t	0%f	28%u
 fractal.main.bg.po                             strings: total: 1043	| 1002t	31f	10u	| 96%t	2%f	0%u
 appstream.po-ui.main.bg.po                     strings: total: 825	| 770t	11f	44u	| 93%t	1%f	5%u
-bazaar.po-ui.main.bg.po                        strings: total: 765	| 764t	1f	0u	| 99%t	0%f	0%u
+bazaar.po-ui.main.bg.po                        strings: total: 765	| 765t	0f	0u	| 100%t	0%f	0%u
 tuba-bg.po                                     strings: total: 754	| 754t	0f	0u	| 100%t	0%f	0%u
 geary.main.bg.po                               strings: total: 664	| 213t	10f	441u	| 32%t	1%f	66%u
 udisks.po-ui.master.bg.po                      strings: total: 641	| 581t	55f	5u	| 90%t	8%f	0%u
@@ -292,17 +292,17 @@ pika-backup.po-ui.main.bg.po                   strings: total: 595	| 595t	0f	0u	
 PulseAudio.po-ui.master.bg.po                  strings: total: 574	| 565t	4f	5u	| 98%t	0%f	0%u
 webkit.po-ui.main.bg.po                        strings: total: 517	| 501t	5f	11u	| 96%t	0%f	2%u
 planify-bg.po                                  strings: total: 512	| 482t	10f	20u	| 94%t	1%f	3%u
-Graphs.po-ui.main.bg.po                        strings: total: 509	| 502t	7f	0u	| 98%t	1%f	0%u
+Graphs.po-ui.main.bg.po                        strings: total: 509	| 509t	0f	0u	| 100%t	0%f	0%u
 papers.help-doc.gnome-51.bg.po                 strings: total: 486	| 452t	34f	0u	| 93%t	6%f	0%u
 ptyxis.main.bg.po                              strings: total: 461	| 461t	0f	0u	| 100%t	0%f	0%u
 komikku-main-bg.po                             strings: total: 434	| 434t	0f	0u	| 100%t	0%f	0%u
 chatty-bg.po                                   strings: total: 416	| 416t	0f	0u	| 100%t	0%f	0%u
-evolution-ews.po-ui.master.bg.po               strings: total: 412	| 411t	0f	1u	| 99%t	0%f	0%u
+evolution-ews.po-ui.master.bg.po               strings: total: 412	| 412t	0f	0u	| 100%t	0%f	0%u
 papers.po-ui.main.bg.po                        strings: total: 404	| 404t	0f	0u	| 100%t	0%f	0%u
 p11-kit-master-po-bg-1004936_l7ycBG1.merged.po strings: total: 404	| 385t	7f	12u	| 95%t	1%f	2%u
 secrets.po-ui.master.bg.po                     strings: total: 399	| 399t	0f	0u	| 100%t	0%f	0%u
 gnome-calculator.help-doc.main.bg.po           strings: total: 399	| 232t	90f	77u	| 58%t	22%f	19%u
-resources.po-ui.main.bg.po                     strings: total: 394	| 390t	3f	1u	| 98%t	0%f	0%u
+resources.po-ui.main.bg.po                     strings: total: 394	| 394t	0f	0u	| 100%t	0%f	0%u
 jhbuild.po-ui.master.bg.po                     strings: total: 372	| 372t	0f	0u	| 100%t	0%f	0%u
 Graphs.help-doc.main.bg-new.po                 strings: total: 350	| 10t	15f	325u	| 2%t	4%f	92%u
 deja-dup.po-ui.main.bg.po                      strings: total: 344	| 344t	0f	0u	| 100%t	0%f	0%u
@@ -316,7 +316,7 @@ welcome-gnome-org.ui-ui.main.bg.po             strings: total: 291	| 291t	0f	0u	
 gnome-system-monitor.help-doc.main.bg.po       strings: total: 258	| 253t	5f	0u	| 98%t	1%f	0%u
 nickvision-tube-converter-app-bg.po            strings: total: 255	| 255t	0f	0u	| 100%t	0%f	0%u
 colord.po-ui.main.bg.po                        strings: total: 251	| 251t	0f	0u	| 100%t	0%f	0%u
-apostrophe.po-ui.main.bg.po                    strings: total: 245	| 213t	32f	0u	| 86%t	13%f	0%u
+apostrophe.po-ui.main.bg.po                    strings: total: 245	| 245t	0f	0u	| 100%t	0%f	0%u
 library-web.po-ui.master.bg.po                 strings: total: 243	| 241t	0f	2u	| 99%t	0%f	0%u
 fragments.po-ui.main.bg.po                     strings: total: 242	| 242t	0f	0u	| 100%t	0%f	0%u
 gnome-firmware.po-ui.master.bg.po              strings: total: 238	| 234t	0f	4u	| 98%t	0%f	1%u
@@ -397,7 +397,7 @@ showtime.po-ui.main.bg.po                      strings: total: 68	| 68t	0f	0u	| 
 polari.help-doc.main.bg.po                     strings: total: 68	| 68t	0f	0u	| 100%t	0%f	0%u
 exhibit-bg.po                                  strings: total: 68	| 68t	0f	0u	| 100%t	0%f	0%u
 fprintd.po-ui.master.bg.po                     strings: total: 67	| 67t	0f	0u	| 100%t	0%f	0%u
-eyedropper.po-ui.main.bg.po                    strings: total: 66	| 52t	7f	7u	| 78%t	10%f	10%u
+eyedropper.po-ui.main.bg.po                    strings: total: 66	| 66t	0f	0u	| 100%t	0%f	0%u
 gnome-text-editor.help-doc.main.bg.po          strings: total: 65	| 65t	0f	0u	| 100%t	0%f	0%u
 Wildcard.main.bg.po                            strings: total: 64	| 33t	5f	26u	| 51%t	7%f	40%u
 metadata-cleaner-application-bg.po             strings: total: 64	| 64t	0f	0u	| 100%t	0%f	0%u
@@ -405,7 +405,7 @@ elastic.po-ui.main.bg.po                       strings: total: 64	| 64t	0f	0u	| 
 symbolic-preview.master.bg.po                  strings: total: 63	| 63t	0f	0u	| 100%t	0%f	0%u
 share-preview-bg.po                            strings: total: 63	| 63t	0f	0u	| 100%t	0%f	0%u
 avvie-bg.po                                    strings: total: 63	| 63t	0f	0u	| 100%t	0%f	0%u
-evolution-activesync.po-ui.master.bg.po        strings: total: 60	| 59t	1f	0u	| 98%t	1%f	0%u
+evolution-activesync.po-ui.master.bg.po        strings: total: 60	| 60t	0f	0u	| 100%t	0%f	0%u
 flowtime-bg.po                                 strings: total: 57	| 57t	0f	0u	| 100%t	0%f	0%u
 d-spy.po-ui.gnome-46.bg.po                     strings: total: 57	| 57t	0f	0u	| 100%t	0%f	0%u
 warp.help-doc.main.bg.po                       strings: total: 55	| 55t	0f	0u	| 100%t	0%f	0%u
@@ -419,7 +419,7 @@ sysprof.help-doc.master.bg.po                  strings: total: 49	| 49t	0f	0u	| 
 malcontent.help-doc.main.bg.po                 strings: total: 49	| 49t	0f	0u	| 100%t	0%f	0%u
 devhelp.help-doc.main.bg.po                    strings: total: 49	| 49t	0f	0u	| 100%t	0%f	0%u
 Fretboard.po-ui.main.bg.po                     strings: total: 47	| 47t	0f	0u	| 100%t	0%f	0%u
-chess-clock.po-ui.main.bg.po                   strings: total: 46	| 45t	1f	0u	| 97%t	2%f	0%u
+chess-clock.po-ui.main.bg.po                   strings: total: 46	| 46t	0f	0u	| 100%t	0%f	0%u
 solanum.po-ui.main.bg.po                       strings: total: 44	| 44t	0f	0u	| 100%t	0%f	0%u
 phosh-tour.po-ui.main.bg.po                    strings: total: 43	| 43t	0f	0u	| 100%t	0%f	0%u
 teleprompter-bg.po                             strings: total: 42	| 42t	0f	0u	| 100%t	0%f	0%u
@@ -435,7 +435,7 @@ whisper-bg.po                                  strings: total: 34	| 34t	0f	0u	| 
 progress-tracker-bg.po                         strings: total: 34	| 34t	0f	0u	| 100%t	0%f	0%u
 contrast.master.bg.po                          strings: total: 33	| 33t	0f	0u	| 100%t	0%f	0%u
 msitools.master.bg.po                          strings: total: 32	| 32t	0f	0u	| 100%t	0%f	0%u
-help-gnome-org.po-ui.master.bg.po              strings: total: 32	| 3t	8f	21u	| 9%t	25%f	65%u
+help-gnome-org.po-ui.master.bg.po              strings: total: 32	| 32t	0f	0u	| 100%t	0%f	0%u
 Blurble.main.bg.po                             strings: total: 29	| 29t	0f	0u	| 100%t	0%f	0%u
 typography.master.bg.po                        strings: total: 28	| 28t	0f	0u	| 100%t	0%f	0%u
 polkit.po-ui.main.bg.po                        strings: total: 28	| 27t	1f	0u	| 96%t	3%f	0%u
@@ -572,7 +572,7 @@ gtk-vnc.master.bg.po                           strings: total: 3	| 3t	0f	0u	| 10
 
 </details>
 
-Преводите се правят в GitHub, GitLab, Weblate, Euphrase, Crowdin и Damned Lies (GNOME) с други сътрудници[.](https://youtu.be/HSDdRxAEdcs) Статистиките са извлечени чрез `translate-toolkit` и включват само програмите, в които съм бил основен сътрудник. Файловете са изтеглени от самите платформи изброени отгоре (може да са били преименувани). Използвам Gtranslator и POEdit за превеждане и `grep` за сканиране на терминология в po файлове[,](https://youtu.be/u0AkA4W4Ip4) txt файл за запис на термините и Python скрипт за създаване на `poterminology` файл от ~6650 термини и фрази като преводна памет. С `pretranslate` автоматично превеждам повтарящи се фрази с паметния файл и бързо добавям нови преводи към обновени po файлове в изходния код[.](https://youtu.be/jOjRPdGEmO8) Отделно проверявам преводи използвайки `pofilter` с gnome шаблона.
+Преводите се правят в GitHub, GitLab, Weblate, Euphrase, Crowdin и Damned Lies (GNOME) с други сътрудници[.](https://youtu.be/HSDdRxAEdcs) Статистиките са извлечени чрез `translate-toolkit` и включват само програмите, в които съм бил основен сътрудник. Файловете са изтеглени от самите платформи изброени отгоре (може да са били преименувани). Използвам Gtranslator и POEdit за превеждане и `grep` за сканиране на терминология в po файлове[,](https://youtu.be/u0AkA4W4Ip4) txt файл за запис на термините и Python скрипт за създаване на `poterminology` файл от ~6767 термини и фрази като преводна памет. С `pretranslate` автоматично превеждам повтарящи се фрази с паметния файл и бързо добавям нови преводи към обновени po файлове в изходния код[.](https://youtu.be/jOjRPdGEmO8) Отделно проверявам преводи използвайки `pofilter` с gnome шаблона.
 
 Преводът за COSMIC Desktop се извършва в системата за локализация Fluent вместо в gettext, така че информацията, която се показва, е малко по-различна.
 

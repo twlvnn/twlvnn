@@ -245,60 +245,63 @@ File count:     175
 ```diff
   Processing file : TOTAL
   Type               Strings
-+ Translated:    1846  (100.0%)
++ Translated:    1877  (100.0%)
 - Untranslated:     0  (0.0%)
-  Total:         1846 
+  Total:         1877 
 
-  File count:        44
+  File count:        47
 ```
 
 <details><summary>Натиснете тук, за да покажете преводите на COSMIC Desktop поотделно.</summary>
   
 ```bash
-./cosmic_settings.ftl                         strings: total: 640   | 640t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./cosmic_files.ftl                            strings: total: 216   | 216t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./cosmic_store.ftl                            strings: total: 100   | 100t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./pop-os-cosmic-settings-bg.po                strings: total: 358	| 358t	0f	0u	| 100%t	0%f	0%u
+./pop-os-cosmic-files-bg.po                   strings: total: 247	| 247t	0f	0u	| 100%t	0%f	0%u
+./pop-os-cosmic-term-bg.po                    strings: total: 115	| 115t	0f	0u	| 100%t	0%f	0%u
+./pop-os-cosmic-store-bg.po                   strings: total: 113	| 113t	0f	0u	| 100%t	0%f	0%u
+./pop-os-cosmic-viewer-bg.po                  strings: total: 94	| 94t	0f	0u	| 100%t	0%f	0%u
 ./cosmic_applet_minimon.ftl                   strings: total: 94    | 94t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./cosmic_edit.ftl                             strings: total: 89    | 89t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./cosmic_term.ftl                             strings: total: 72    | 72t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./pop-os-cosmic-edit-bg.po                    strings: total: 91	| 91t	0f	0u	| 100%t	0%f	0%u
 ./webapps.ftl                                 strings: total: 71    | 71t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./pop_upgrade_gtk.ftl                         strings: total: 58    | 58t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./pop-os-cosmic-applets-desktop-entries-bg.po strings: total: 54	| 54t	0f	0u	| 100%t	0%f	0%u
 ./cosmic_ext_tasks.ftl                        strings: total: 52    | 52t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./cosmic_ext_forecast.ftl                     strings: total: 45    | 45t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./cosmic_ext_examine.ftl                      strings: total: 41    | 41t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./pop-os-cosmic-player-bg.po                  strings: total: 36	| 36t	0f	0u	| 100%t	0%f	0%u
+./pop-os-libcosmic-bg.po                      strings: total: 34	| 34t	0f	0u	| 100%t	0%f	0%u
 ./popsicle_gtk.ftl                            strings: total: 33    | 33t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./cosmic_app_library.ftl                      strings: total: 28    | 28t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./pop-os-cosmic-applibrary-bg.po              strings: total: 30	| 30t	0f	0u	| 100%t	0%f	0%u
+./pop-os-cosmic-comp-bg.po                    strings: total: 28	| 28t	0f	0u	| 100%t	0%f	0%u
+./pop-os-cosmic-initial-setup-bg.po           strings: total: 27	| 27t	0f	0u	| 100%t	0%f	0%u
+./pop-os-cosmic-applet-network-bg.po          strings: total: 24	| 24t	0f	0u	| 100%t	0%f	0%u
 ./cosmic_ext_chronos.ftl                      strings: total: 24    | 24t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./cosmic_player.ftl                           strings: total: 22    | 22t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./cosmic_applet_network.ftl                   strings: total: 21    | 21t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./pop-os-cosmic-greeter-bg.po                 strings: total: 22	| 22t	0f	0u	| 100%t	0%f	0%u
 ./popsicle_cli.ftl                            strings: total: 21    | 21t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./cosmic_applet_tiling.ftl                    strings: total: 20    | 20t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./cosmic_greeter.ftl                          strings: total: 19    | 19t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./pop-os-cosmic-applet-tiling-bg.po           strings: total: 20	| 20t	0f	0u	| 100%t	0%f	0%u
 ./firmware_manager_gtk.ftl                    strings: total: 17    | 17t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./cosmic_initial_setup.ftl                    strings: total: 16    | 16t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./cosmic_applet_battery.ftl                   strings: total: 14    | 14t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./cosmic_osd.ftl                              strings: total: 14    | 14t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./xdg_desktop_portal_cosmic.ftl               strings: total: 14    | 14t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./cosmic_applet_bluetooth.ftl                 strings: total: 12    | 12t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./cosmic_applet_power.ftl                     strings: total: 12    | 12t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./pop-os-cosmic-osd-bg.po                     strings: total: 16	| 16t	0f	0u	| 100%t	0%f	0%u
+./pop-os-xdg-desktop-portal-cosmic-bg.po      strings: total: 14	| 14t	0f	0u	| 100%t	0%f	0%u
+./pop-os-cosmic-applet-power-bg.po            strings: total: 14	| 14t	0f	0u	| 100%t	0%f	0%u
+./pop-os-cosmic-applet-battery-bg.po          strings: total: 14	| 14t	0f	0u	| 100%t	0%f	0%u
+./pop-os-cosmic-applet-bluetooth-bg.po        strings: total: 12	| 12t	0f	0u	| 100%t	0%f	0%u
 ./cosmic_ext_applet_clipboard_manager.ftl     strings: total: 12    | 12t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./cosmic_applet_notifications.ftl             strings: total: 9     | 9t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./pop-os-cosmic-osk-bg.po                     strings: total: 10	| 10t	0f	0u	| 100%t	0%f	0%u
+./pop-os-cosmic-applet-notifications-bg.po    strings: total: 9	| 9t	0f	0u	| 100%t	0%f	0%u
 ./cosmic_ext_calculator.ftl                   strings: total: 9     | 9t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./cosmic_app_list.ftl                         strings: total: 8     | 8t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./libcosmic.ftl                               strings: total: 8     | 8t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./cosmic_applet_audio.ftl                     strings: total: 7     | 7t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./cosmic_applet_a11y.ftl                      strings: total: 6     | 6t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./pop-os-cosmic-app-list-bg.po                strings: total: 8	| 8t	0f	0u	| 100%t	0%f	0%u
+./pop-os-cosmic-applet-audio-bg.po            strings: total: 7	| 7t	0f	0u	| 100%t	0%f	0%u
+./pop-os-cosmic-applet-a11y-bg.po             strings: total: 6	| 6t	0f	0u	| 100%t	0%f	0%u
+./pop-os-cosmic-launcher-bg.po                strings: total: 5	| 5t	0f	0u	| 100%t	0%f	0%u
+./pop-os-cosmic-screenshot-bg.po              strings: total: 3	| 3t	0f	0u	| 100%t	0%f	0%u
 ./cosmic_ext_applet_weather.ftl               strings: total: 3     | 3t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./cosmic_screenshot.ftl                       strings: total: 3     | 3t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./firmware_manager_notify.ftl                 strings: total: 3     | 3t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./cosmic_applet_input_sources.ftl             strings: total: 2     | 2t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./cosmic_bg.ftl                               strings: total: 2     | 2t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./cosmic_launcher.ftl                         strings: total: 2     | 2t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./cosmic_workspaces.ftl                       strings: total: 2     | 2t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./pop-os-cosmic-reader-bg.ftl                 strings: total: 2     | 2t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./cosmic_applet_time.ftl                      strings: total: 1     | 1t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./cosmic_applet_workspaces.ftl                strings: total: 1     | 1t	0f	0u	| 100.0%t	0.0%f	0.0%u
-./cosmic_notifications.ftl                    strings: total: 1     | 1t	0f	0u	| 100.0%t	0.0%f	0.0%u
+./pop-os-cosmic-workspaces-epoch-bg.po        strings: total: 2	| 2t	0f	0u	| 100%t	0%f	0%u
+./pop-os-cosmic-reader-bg.po                  strings: total: 2	| 2t	0f	0u	| 100%t	0%f	0%u
+./pop-os-cosmic-input-sources-applet-bg.po    strings: total: 2	| 2t	0f	0u	| 100%t	0%f	0%u
+./pop-os-cosmic-workspaces-applet-bg.po       strings: total: 1	| 1t	0f	0u	| 100%t	0%f	0%u
+./pop-os-cosmic-applet-time-bg.po             strings: total: 1	| 1t	0f	0u	| 100%t	0%f	0%u
 ```
 
 </details>

@@ -3,12 +3,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   33045 ( 84%)     190641 ( 64%)          233855
-! Fuzzy:          804 (  2%)       7440 (  2%)             n/a
-- Untranslated:  5466 ( 13%)      96328 ( 32%)             n/a
-  Total:        39315            294409                 233855
++ Translated:   33435 ( 84%)     191602 ( 64%)          234960
+! Fuzzy:          807 (  2%)       7463 (  2%)             n/a
+- Untranslated:  5467 ( 13%)      96329 ( 32%)             n/a
+  Total:        39709            295394                 234960
 
-  File count:     187
+  File count:     188
 ```
 
 <details><summary>Натиснете тук, за да покажете статистиката на преводите на интерфейс.</summary>
@@ -16,12 +16,12 @@
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:   27404 ( 91%)     130288 ( 77%)          172844
-! Fuzzy:          555 (  1%)       3789 (  2%)             n/a
-- Untranslated:  2113 (  7%)      33404 ( 19%)             n/a
-  Total:        30072            167481                 172844
++ Translated:   27794 ( 91%)     131249 ( 77%)          173949
+! Fuzzy:          558 (  1%)       3812 (  2%)             n/a
+- Untranslated:  2114 (  6%)      33405 ( 19%)             n/a
+  Total:        30466            168466                 173949
 
-  File count:     152
+  File count:     153
 ```
 
 ---
@@ -47,6 +47,7 @@ chatty-bg.po                                   strings: total: 416	| 416t	0f	0u	
 evolution-ews.po-ui.master.bg.po               strings: total: 412	| 411t	0f	1u	| 99%t	0%f	0%u
 papers.po-ui.main.bg.po                        strings: total: 404	| 404t	0f	0u	| 100%t	0%f	0%u
 p11-kit-master-po-bg-1004936_l7ycBG1.merged.po strings: total: 404	| 385t	7f	12u	| 95%t	1%f	2%u
+resources.po-ui.main.bg.po                     strings: total: 394	| 390t	3f	1u	| 98%t	0%f	0%u
 jhbuild.po-ui.master.bg.po                     strings: total: 372	| 372t	0f	0u	| 100%t	0%f	0%u
 Graphs.po-ui.main.bg.po                        strings: total: 370	| 367t	3f	0u	| 99%t	0%f	0%u
 secrets-master-po-bg.po                        strings: total: 367	| 367t	0f	0u	| 100%t	0%f	0%u
@@ -285,6 +286,7 @@ evolution-ews.po-ui.master.bg.po               strings: total: 412	| 411t	0f	1u	
 papers.po-ui.main.bg.po                        strings: total: 404	| 404t	0f	0u	| 100%t	0%f	0%u
 p11-kit-master-po-bg-1004936_l7ycBG1.merged.po strings: total: 404	| 385t	7f	12u	| 95%t	1%f	2%u
 gnome-calculator.help-doc.main.bg.po           strings: total: 399	| 232t	90f	77u	| 58%t	22%f	19%u
+resources.po-ui.main.bg.po                     strings: total: 394	| 390t	3f	1u	| 98%t	0%f	0%u
 jhbuild.po-ui.master.bg.po                     strings: total: 372	| 372t	0f	0u	| 100%t	0%f	0%u
 Graphs.po-ui.main.bg.po                        strings: total: 370	| 367t	3f	0u	| 99%t	0%f	0%u
 secrets-master-po-bg.po                        strings: total: 367	| 367t	0f	0u	| 100%t	0%f	0%u

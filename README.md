@@ -31,12 +31,46 @@ File count:     175
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:    2896 ( 99%)      38069 ( 99%)           37995
-! Fuzzy:            4 (  0%)         74 (  0%)             n/a
-- Untranslated:     0 (  0%)          0 (  0%)             n/a
-  Total:         2900             38143                  37995
++ Translated:    3535 ( 50%)      43127 ( 40%)           43144
+! Fuzzy:          150 (  2%)       2004 (  1%)             n/a
+- Untranslated:  3255 ( 46%)      61978 ( 57%)             n/a
+  Total:         6940            107109                  43144
 
-  File count:      24
+  File count:      27
+```
+
+</details>
+
+<details><summary>Натиснете тук, за да покажете преводите на документацията поотделно.</summary>
+
+```bash
+gnome-user-docs-gnome-51-gnome-help-bg.po strings: total: 3558	| 708t	0f	2850u	| 19%0%f	80%u
+papers.help-doc.gnome-51.bg.po            strings: total: 486	| 452t	34f	0u	| 93%6%f	0%u
+gnome-calculator.help-doc.main.bg.po      strings: total: 399	| 232t	90f	77u	| 58%22%f	19%u
+Graphs.help-doc.main.bg-new.po            strings: total: 350	| 10t	15f	325u	| 2%t4%f	92%u
+gnome-system-monitor.help-doc.main.bg.po  strings: total: 258	| 253t	5f	0u	| 98%1%f	0%u
+gnome-boxes.help-doc.gnome-50.bg.po       strings: total: 233	| 233t	0f	0u	| 100%t	0%f	0%u
+epiphany.help-doc.gnome-51.bg.po          strings: total: 177	| 177t	0f	0u	| 100%t	0%f	0%u
+gnome-software.help-doc.main.bg.po        strings: total: 157	| 157t	0f	0u	| 100%t	0%f	0%u
+totem.help-doc.master.bg.po               strings: total: 156	| 156t	0f	0u	| 100%t	0%f	0%u
+deja-dup.help-doc.main.bg.po              strings: total: 120	| 117t	3f	0u	| 97%2%f	0%u
+simple-scan.help-doc.master.bg.po         strings: total: 111	| 111t	0f	0u	| 100%t	0%f	0%u
+pika-backup.help-doc.main.bg.po           strings: total: 107	| 107t	0f	0u	| 100%t	0%f	0%u
+gnome-clocks.help-doc.master.bg.po        strings: total: 86	| 86t	0f	0u	| 100%t	0%f	0%u
+loupe.help-doc.gnome-51.bg.po             strings: total: 78	| 78t	0f	0u	| 100%t	0%f	0%u
+gnome-music.help-doc.master.bg.po         strings: total: 72	| 72t	0f	0u	| 100%t	0%f	0%u
+gnome-mahjongg.help-doc.master.bg.po      strings: total: 70	| 70t	0f	0u	| 100%t	0%f	0%u
+baobab.help-doc.main.bg.po                strings: total: 70	| 70t	0f	0u	| 100%t	0%f	0%u
+polari.help-doc.main.bg.po                strings: total: 68	| 68t	0f	0u	| 100%t	0%f	0%u
+gnome-text-editor.help-doc.main.bg.po     strings: total: 65	| 65t	0f	0u	| 100%t	0%f	0%u
+warp.help-doc.main.bg.po                  strings: total: 55	| 55t	0f	0u	| 100%t	0%f	0%u
+grilo-plugins.help-doc.master.bg.po       strings: total: 54	| 54t	0f	0u	| 100%t	0%f	0%u
+sysprof.help-doc.master.bg.po             strings: total: 49	| 49t	0f	0u	| 100%t	0%f	0%u
+devhelp.help-doc.main.bg.po               strings: total: 49	| 49t	0f	0u	| 100%t	0%f	0%u
+Graphs.help-doc.main.bg-old.po            strings: total: 37	| 35t	2f	0u	| 94%5%f	0%u
+gnome-connections.help-doc.master.bg.po   strings: total: 26	| 25t	1f	0u	| 96%3%f	0%u
+gnome-color-manager.help-doc.master.bg.po strings: total: 26	| 23t	0f	3u	| 88%0%f	11%u
+gnome-logs.help-doc.master.bg.po          strings: total: 23	| 23t	0f	0u	| 100%t	0%f	0%u
 ```
 
 </details>
@@ -46,12 +80,28 @@ File count:     175
 ```diff
   Processing file : TOTAL:
   Type               Strings      Words (source)    Words (translation)
-+ Translated:    1745 ( 99%)      13835 ( 99%)           14316
-! Fuzzy:            0 (  0%)          0 (  0%)             n/a
-- Untranslated:     2 (  0%)         11 (  0%)             n/a
-  Total:         1747             13846                  14316
++ Translated:    2106 ( 91%)      17226 ( 86%)           17867
+! Fuzzy:           99 (  4%)       1647 (  8%)             n/a
+- Untranslated:    98 (  4%)        946 (  4%)             n/a
+  Total:         2303             19819                  17867
 
-  File count:       5
+  File count:       8
+```
+
+</details>
+
+
+<details><summary>Натиснете тук, за да покажете преводите на уеб сайтовете поотделно.</summary>
+
+```bash
+damned-lies.po-ui.main.bg.po       strings: total: 1207	| 1041t	91f	75u	| 86%t	7%f	6%u
+welcome-gnome-org.ui-ui.main.bg.po strings: total: 291	| 291t	0f	0u	| 100%t	0%f	0%u
+library-web.po-ui.master.bg.po     strings: total: 243	| 241t	0f	2u	| 99%t	0%f	0%u
+donate-gnome-org.po-ui.main.bg.po  strings: total: 195	| 195t	0f	0u	| 100%t	0%f	0%u
+extensions-web.po-ui.master.bg.po  strings: total: 143	| 143t	0f	0u	| 100%t	0%f	0%u
+www-gnome-org.po-ui.main.bg.po     strings: total: 123	| 123t	0f	0u	| 100%t	0%f	0%u
+apps-for-gnome.po-ui.main.bg.po    strings: total: 69	| 69t	0f	0u	| 100%t	0%f	0%u
+help-gnome-org.po-ui.master.bg.po  strings: total: 32	| 3t	8f	21u	| 9%t	25%f	65%u
 ```
 
 </details>

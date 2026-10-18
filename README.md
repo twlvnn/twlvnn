@@ -366,10 +366,8 @@ help-gnome-org.po-ui.master.bg.po  strings: total: 32	| 3t	8f	21u	| 9%t	25%f	65%
   File count:       4
 ```
 
-</details>
+---
 
-<details><summary>Натиснете тук, за да покажете преводите извън Linux поотделно.</summary>
-  
 ```bash
 ./voices-of-the-void-0_8_2c-bg.po           strings: total: 4969	| 4969t	0f	0u	| 100.0%t	0.0%f	0.0%u
 ./tutanota-editor-bg.po                     strings: total: 1668	| 1668t	0f	0u	| 100.0%t	0.0%f	0.0%u

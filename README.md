@@ -39,9 +39,7 @@ File count:     175
   File count:      27
 ```
 
-</details>
-
-<details><summary>Натиснете тук, за да покажете преводите на документацията поотделно.</summary>
+---
 
 ```bash
 gnome-user-docs-gnome-51-gnome-help-bg.po strings: total: 3558	| 708t	0f	2850u	| 19%0%f	80%u
@@ -88,10 +86,7 @@ gnome-logs.help-doc.master.bg.po          strings: total: 23	| 23t	0f	0u	| 100%t
   File count:       8
 ```
 
-</details>
-
-
-<details><summary>Натиснете тук, за да покажете преводите на уеб сайтовете поотделно.</summary>
+---
 
 ```bash
 damned-lies.po-ui.main.bg.po       strings: total: 1207	| 1041t	91f	75u	| 86%t	7%f	6%u
